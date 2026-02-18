@@ -1,6 +1,6 @@
-## Core Artist Focus: [Artist Name]
+## Core Artist Focus: {{title}}
 
-This standard is a lens for understanding [Artist]'s career development.
+This standard is a lens for understanding {{title}}'s career development.
 
 ### Target versions:
 - [Album 1] (Year) - [why this matters for the arc]

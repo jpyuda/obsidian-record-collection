@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "standard template.md",
+                "file": "Templates/standard template.md",
                 "mode": "source",
                 "source": false
               },
@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Poinciana.md",
+                "file": "Take Twelve.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Poinciana"
+              "title": "Take Twelve"
             }
           }
         ],
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Poinciana.md",
+                "file": "Take Twelve.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Poinciana"
+              "title": "Backlinks for Take Twelve"
             }
           },
           {
@@ -170,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Poinciana.md",
+                "file": "Take Twelve.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Poinciana"
+              "title": "Outgoing links from Take Twelve"
             }
           },
           {
@@ -213,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Poinciana.md",
+                "file": "Take Twelve.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Poinciana"
+              "title": "Outline of Take Twelve"
             }
           }
         ]
@@ -242,10 +242,13 @@
   },
   "active": "5ab7c6f2a7e1525f",
   "lastOpenFiles": [
+    "Lee Morgan.md",
+    "Take Twelve.md",
     "Work Song.md",
+    "Templates/standard template.md",
     "Poinciana.md",
+    "Templates",
     "'Round Midnight.md",
-    "My Funny Valentine.md",
-    "standard template.md"
+    "My Funny Valentine.md"
   ]
 }
