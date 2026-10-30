@@ -19,9 +19,9 @@ first recording: Sarah Vaughan, 1944
 | Dizzy Gillespie                    | Birks Works: The Verve Big-Band Sessions              | 1956-06-06     |                                                                                 | N      |
 | Sonny Rollins                      | A Night at the Village Vanguard: The Complete Masters | 1957-11-03     | "evening take"                                                                  | Y      |
 | Max Roach Quintet                  | Max Roach + Four at Newport                           | 1958-07-06     |                                                                                 | N      |
+| Art Blakey and the Jazz Messengers | Live in Scheveningen 1958                             | 1958-11-29     |                                                                                 | N      |
 | Various                            | Truly Madly Deeplee Morgan                            | circa 1959     | Lee Morgan live jam at the Gate of Horn, Chicago; release says "probably 1959?" | N      |
 | Art Blakey and the Jazz Messengers | Live in Stockholm 1959                                | 1959-11-23     |                                                                                 | N      |
-| Art Blakey and the Jazz Messengers | Live in Scheveningen 1958                             | 1958-11-29     |                                                                                 | N      |
 | Jimmy Smith                        | Crazy! Baby                                           | 1960-01-04     |                                                                                 | N      |
 | Art Blakey and the Jazz Messengers | A Night in Tunisia                                    | 1960-08-14     | with Lee Morgan                                                                 | Y      |
 | Art Blakey and the Jazz Messengers | First Flight to Tokyo: The Lost 1961 Recordings       | 1961-01-14     |                                                                                 | N      |
