@@ -8,8 +8,8 @@ first recording: McKinney's Cotton Pickers, 1930
 | Artist                             | Album                                               | Recording date | Notes | Gioia? |
 | ---------------------------------- | --------------------------------------------------- | -------------- | ----- | ------ |
 | Stéphane Grappelli / Barney Kessel | I Remember Django                                   | 1969-06-23     |       |        |
-| Fats Waller                        | Handful of Keys                                     |                |       |        |
-| Django Reinhardt                   | The Classic Early Recordings in Chronological Order |                |       |        |
+| Fats Waller                        | Handful of Keys                                     | 1937-06-09     |       |        |
+| Django Reinhardt                   | The Classic Early Recordings in Chronological Order | 1938-01-31     |       |        |
 | Oscar Alemán                       | Swing Guitar Masterpieces 1938-1957                 | 1944-10-26     |       |        |
 ## Targeted acquisitions
 
