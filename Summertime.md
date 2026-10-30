@@ -45,11 +45,11 @@ The spiritual is often considered the source for "Summertime."
 
 | Artist       | Album                         | Recording date | Notes |
 | ------------ | ----------------------------- | -------------- | ----- |
+| Memphis Slim | Messin' Around with the Blues | circa 1947     |       |
 | Grant Green  | Feelin' the Spirit            | 1962-12-21     |       |
-| Memphis Slim | Messin' Around with the Blues | 1947           |       |
 ### Targeted acquisitions
 
 | Artist                       | Album                                        | Recording date | Notes                                       |
 | ---------------------------- | -------------------------------------------- | -------------- | ------------------------------------------- |
-| Charlie Haden and Hank Jones | Steal Away: Spirituals, Hymns and Folk Songs | 1994-06-29/30  | released 1995 on Verve                      |
 | Mahalia Jackson              | Bless This House                             | 1956           | medley with "Summertime"; also listed above |
+| Charlie Haden and Hank Jones | Steal Away: Spirituals, Hymns and Folk Songs | 1994-06-29/30  | released 1995 on Verve                      |
