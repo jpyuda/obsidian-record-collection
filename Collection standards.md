@@ -13,7 +13,7 @@
 6. [[Blood Count]] — Strayhorn's final composition · Late Ellington period
 
 ## Bebop era
-7. **A Night in Tunisia** — Dizzy · Explicit African connection; most-covered bebop original
+7. [[A Night in Tunisia]] — Dizzy · Explicit African connection; most-covered bebop original
 8. **’Round Midnight** — Monk · Bebop ballad; structure forces interpreters to show their hand
 
 ## Blues form and hard bop
