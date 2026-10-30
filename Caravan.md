@@ -5,25 +5,25 @@ first recording: Barney Bigard and His Jazzopators, 1936
 ---
 ## Current holdings
 
-| Artist                                      | Album                            | Recording date               | Notes                        | Gioia? |
-| ------------------------------------------- | -------------------------------- | ---------------------------- | ---------------------------- | ------ |
-| The Ellington Era                           | Volume 1                         | 1937-05-14                   |                              | Y      |
-| Thelonious Monk                             | The Riverside Trios              | 1955-07-27                   |                              | Y      |
-| Art Blakey                                  | Caravan                          | 1962-10-23                   |                              | Y      |
-| Oscar Peterson / Dizzy Gillespie            | Oscar Peterson & Dizzy Gillespie | 1974-11-28/29                |                              | Y      |
-| Wynton Marsalis                             | Marsalis Standard Time, Vol. 1   | 1986-05-29/30; 1986-09-24/25 | album dates; track not dated | Y      |
-| Duke Ellington / Charles Mingus / Max Roach | Money Jungle                     |                              |                              | N      |
-| Dizzy Gillespie                             | Afro                             |                              |                              | N      |
-| Duke Ellington                              | Live at the Berlin Jazz Festival |                              |                              | N      |
-| Kenny Burrell                               | Ellington Is Forever             |                              |                              | N      |
-| Dirty Dozen Brass Band                      | My Feet Can't Fail Me Now        |                              |                              | N      |
+| Artist                                      | Album                                      | Recording date               | Notes                        | Gioia? |
+| ------------------------------------------- | ------------------------------------------ | ---------------------------- | ---------------------------- | ------ |
+| Duke Ellington                              | The Ellington Era Volume One: 1927-1940    | 1937-05-14                   |                              | Y      |
+| Thelonious Monk                             | The Riverside Trios                        | 1955-07-27                   |                              | Y      |
+| Art Blakey                                  | Caravan                                    | 1962-10-23                   |                              | Y      |
+| Oscar Peterson / Dizzy Gillespie            | Oscar Peterson & Dizzy Gillespie           | 1974-11-28/29                |                              | Y      |
+| Wynton Marsalis                             | Marsalis Standard Time, Vol. 1             | 1986-05-29/30; 1986-09-24/25 | album dates; track not dated | Y      |
+| Duke Ellington / Charles Mingus / Max Roach | Money Jungle                               | 1962-09-17                   |                              | N      |
+| Dizzy Gillespie                             | Afro                                       | 1954-06-03                   |                              | N      |
+| Duke Ellington                              | Live at the Berlin Jazz Festival 1969-1973 | 1969-11-08                   |                              | N      |
+| Kenny Burrell                               | Ellington Is Forever                       | 1975-02-04/05                |                              | N      |
+| Dirty Dozen Brass Band                      | My Feet Can't Fail Me Now                  | 1984-08                      |                              | N      |
 ## Targeted acquisitions
 
 | Artist                            | Album                                | Recording date            | Notes                                         |
 | --------------------------------- | ------------------------------------ | ------------------------- | --------------------------------------------- |
-| Barney Bigard and His Jazzopators |                                      | 1936-12-19                | with Duke Ellington and Juan Tizol; Hollywood |
-| Art Tatum                         |                                      | 1940-04/1940-07           | Los Angeles                                   |
-| Dizzy Gillespie                   |                                      | 1951-10-25                | with Stuff Smith                              |
+| Barney Bigard and His Jazzopators | 1928-1941 (Best of Jazz)             | 1936-12-19                | with Duke Ellington and Juan Tizol; Hollywood |
+| Art Tatum                         | California Melodies                  | 1940-04/1940-07           | Los Angeles                                   |
+| Dizzy Gillespie                   | Odyssey: 1945-1952                   | 1951-10-25                | with Stuff Smith                              |
 | Nat King Cole                     | After Midnight                       | 1956-09-14                | with Juan Tizol; Los Angeles                  |
 | Wes Montgomery                    | Movin' Wes                           | 1964-11-16                | New York                                      |
 | Art Pepper                        | Friday Night at the Village Vanguard | 1977-07-29                | live at the Village Vanguard, New York        |
