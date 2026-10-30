@@ -5,18 +5,18 @@ first recording: Duke Ellington and His Orchestra, 1943 (live at Carnegie Hall)
 ---
 ## Current holdings
 
-| Artist                           | Album                                                     | Recording date | Notes                                                                                        | Gioia? |
-| -------------------------------- | --------------------------------------------------------- | -------------- | -------------------------------------------------------------------------------------------- | ------ |
-| Duke Ellington and His Orchestra | The Duke Ellington Carnegie Hall Concerts, January 1943   | 1943-01-23     | track is within the Black, Brown and Beige suite                                             | Y      |
-| Abbey Lincoln                    | Abbey Is Blue                                             | 1959-03-25     |                                                                                              | Y      |
-| Eric Dolphy                      | Iron Man                                                  | 1963-07-01     | with Richard Davis                                                                           | Y      |
-| Cannonball Adderley              | The Japanese Concerts                                     | 1963-07-15     | Gioia lists this track (Joe Zawinul) from Nippon Soul; confirm same performance              | Y      |
-| Duke Ellington and His Orchestra | The Duke Ellington Carnegie Hall Concerts (December 1944) |                | Discogs lists only "Selections From Black, Brown And Beige"; confirm Come Sunday is included | N      |
-| The Ramsey Lewis Trio            | The In Crowd                                              |                |                                                                                              | N      |
-| Earl Hines                       | Earl Hines Plays Duke Ellington                           |                |                                                                                              | N      |
-| Yusef Lateef                     | Hush 'N' Thunder                                          |                |                                                                                              | N      |
-| Kenny Burrell                    | Ellington Is Forever, Volume Two                          |                |                                                                                              | N      |
-| World Saxophone Quartet          | Plays Duke Ellington                                      |                |                                                                                              | N      |
+| Artist                           | Album                                                     | Recording date | Notes                                            | Gioia? |
+| -------------------------------- | --------------------------------------------------------- | -------------- | ------------------------------------------------ | ------ |
+| Duke Ellington and His Orchestra | The Duke Ellington Carnegie Hall Concerts, January 1943   | 1943-01-23     | track is within the Black, Brown and Beige suite | Y      |
+| Abbey Lincoln                    | Abbey Is Blue                                             | 1959-03-25     |                                                  | Y      |
+| Eric Dolphy                      | Iron Man                                                  | 1963-07-01     | with Richard Davis                               | Y      |
+| Cannonball Adderley              | The Japanese Concerts                                     | 1963-07-15     |                                                  | Y      |
+| Duke Ellington and His Orchestra | The Duke Ellington Carnegie Hall Concerts (December 1944) |                |                                                  | N      |
+| The Ramsey Lewis Trio            | The In Crowd                                              |                |                                                  | N      |
+| Earl Hines                       | Earl Hines Plays Duke Ellington                           |                |                                                  | N      |
+| Yusef Lateef                     | Hush 'N' Thunder                                          |                |                                                  | N      |
+| Kenny Burrell                    | Ellington Is Forever, Volume Two                          |                |                                                  | N      |
+| World Saxophone Quartet          | Plays Duke Ellington                                      |                |                                                  | N      |
 ## Targeted acquisitions
 
 | Artist          | Album                        | Recording date | Notes                                                     |
