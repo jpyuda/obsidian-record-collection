@@ -24,18 +24,18 @@ first recording: McKinney's Cotton Pickers, 1930
 | Warner Williams / Jay Summerour    | Blues Highway: Live                                   | 1993-03-06; 1994-03-19; 1995-04-07 | album dates; track not dated                                                                                   | N      |
 ## Targeted acquisitions
 
-| Artist                        | Album             | Recording date | Notes                                                                |
-| ----------------------------- | ----------------- | -------------- | -------------------------------------------------------------------- |
-| McKinney's Cotton Pickers     |                   | 1930-02-03     | New York                                                             |
-| Fats Waller                   |                   | 1934-11-07     | New York                                                             |
-| Red Norvo                     |                   | 1935-01-25     | with Chu Berry and Teddy Wilson; New York                            |
-| Mildred Bailey                |                   | 1935-12-06     | New York                                                             |
-| Fats Waller                   |                   | 1937-03-31     | with Tommy Dorsey, Bunny Berigan, and others; New York               |
-| Coleman Hawkins               |                   | 1937-04-28     | Paris                                                                |
-| Charlie Parker                |                   | circa 1939     | Kansas City                                                          |
-| Jay McShann                   |                   | 1940-11-30     | with Charlie Parker; Wichita, Kansas                                 |
-| Bill Evans and Bob Brookmeyer | The Ivory Hunters | 1959-03-12     | New York                                                             |
-| Mary Lou Williams             | Solo Recital      | 1978-07-16     | live at the Montreux Jazz Festival, Montreux, Switzerland            |
-| Stéphane Grappelli            | Vintage 1981      | 1981-07        | San Francisco                                                        |
-| George Shearing               | In Dixieland      | 1989-02        | New York                                                             |
-| Uri Caine                     | Blue Wail         | 1997-12-01/02  | two takes, "Honeysuckle Rose #1" and "Honeysuckle Rose #2"; New York |
+| Artist                        | Album                                                                                                | Recording date | Notes                                                                |
+| ----------------------------- | ---------------------------------------------------------------------------------------------------- | -------------- | -------------------------------------------------------------------- |
+| McKinney's Cotton Pickers     | 1929-1930 (Classics) _or_ Vol. 2: Cotton PIcker's Scat (Frog)                                        | 1930-02-03     | New York                                                             |
+| Fats Waller                   | 1934-1935 (Classics)                                                                                 | 1934-11-07     | New York                                                             |
+| Red Norvo                     | Dance of the Octopus (Hep) _or_ 1933-1936 (Classics) _or_ Knockin' on Wood (ASV/Living Era)          | 1935-01-25     | with Chu Berry and Teddy Wilson; New York                            |
+| Mildred Bailey                | The Rockin' Chair Lady (ASV/Living Era) _or_ 1932-1936 (Classics) _or_ Mrs. Swing (Proper)           | 1935-12-06     | New York                                                             |
+| Fats Waller                   | 1937 (Classics)                                                                                      | 1937-03-31     | with Tommy Dorsey, Bunny Berigan, and others; New York               |
+| Coleman Hawkins               | In Europe 1934-1939 (Jazz Up)                                                                        | 1937-04-28     | Paris                                                                |
+| Charlie Parker                | The Complete "Birth of the Bebop" (Stash)                                                            | circa 1939     | Kansas City                                                          |
+| Jay McShann                   | A Studio Chronicle 1940-1948 (JSP as Charlier Parker) _or_ First Recordings (Onyx as Charlie Parker) | 1940-11-30     | with Charlie Parker; Wichita, Kansas                                 |
+| Bill Evans and Bob Brookmeyer | The Ivory Hunters                                                                                    | 1959-03-12     | New York                                                             |
+| Mary Lou Williams             | Solo Recital                                                                                         | 1978-07-16     | live at the Montreux Jazz Festival, Montreux, Switzerland            |
+| Stéphane Grappelli            | Vintage 1981                                                                                         | 1981-07        | San Francisco                                                        |
+| George Shearing               | In Dixieland                                                                                         | 1989-02        | New York                                                             |
+| Uri Caine                     | Blue Wail                                                                                            | 1997-12-01/02  | two takes, "Honeysuckle Rose #1" and "Honeysuckle Rose #2"; New York |
