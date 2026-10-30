@@ -8,15 +8,15 @@ first recording: Barney Bigard and His Jazzopators, 1936
 | Artist                                      | Album                                      | Recording date               | Notes                        | Gioia? |
 | ------------------------------------------- | ------------------------------------------ | ---------------------------- | ---------------------------- | ------ |
 | Duke Ellington                              | The Ellington Era Volume One: 1927-1940    | 1937-05-14                   |                              | Y      |
-| Thelonious Monk                             | The Riverside Trios                        | 1955-07-27                   |                              | Y      |
-| Art Blakey                                  | Caravan                                    | 1962-10-23                   |                              | Y      |
-| Oscar Peterson / Dizzy Gillespie            | Oscar Peterson & Dizzy Gillespie           | 1974-11-28/29                |                              | Y      |
-| Wynton Marsalis                             | Marsalis Standard Time, Vol. 1             | 1986-05-29/30; 1986-09-24/25 | album dates; track not dated | Y      |
-| Duke Ellington / Charles Mingus / Max Roach | Money Jungle                               | 1962-09-17                   |                              | N      |
 | Dizzy Gillespie                             | Afro                                       | 1954-06-03                   |                              | N      |
+| Thelonious Monk                             | The Riverside Trios                        | 1955-07-27                   |                              | Y      |
+| Duke Ellington / Charles Mingus / Max Roach | Money Jungle                               | 1962-09-17                   |                              | N      |
+| Art Blakey                                  | Caravan                                    | 1962-10-23                   |                              | Y      |
 | Duke Ellington                              | Live at the Berlin Jazz Festival 1969-1973 | 1969-11-08                   |                              | N      |
+| Oscar Peterson / Dizzy Gillespie            | Oscar Peterson & Dizzy Gillespie           | 1974-11-28/29                |                              | Y      |
 | Kenny Burrell                               | Ellington Is Forever                       | 1975-02-04/05                |                              | N      |
 | Dirty Dozen Brass Band                      | My Feet Can't Fail Me Now                  | 1984-08                      |                              | N      |
+| Wynton Marsalis                             | Marsalis Standard Time, Vol. 1             | 1986-05-29/30; 1986-09-24/25 | album dates; track not dated | Y      |
 ## Targeted acquisitions
 
 | Artist                            | Album                                | Recording date            | Notes                                         |
