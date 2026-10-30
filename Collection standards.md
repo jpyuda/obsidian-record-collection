@@ -10,7 +10,7 @@
 
 4. [[Caravan]] — Tizol/Ellington · Afro-Latin fusion, big band to present
 5. [[Come Sunday]] — Ellington sacred music; gospel lineage
-6. **Blood Count** — Strayhorn's final composition · Late Ellington period
+6. [[Blood Count]] — Strayhorn's final composition · Late Ellington period
 
 ## Bebop era
 7. **A Night in Tunisia** — Dizzy · Explicit African connection; most-covered bebop original
