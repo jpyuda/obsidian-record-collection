@@ -35,7 +35,7 @@
 20. **Watermelon man** — Herbie · Hard bop to funk; self-revision as historical document
 
 ## Reclamation
-21. **Summertime** — Gershwin borrowing from spiritual/blues tradition, then restored · Mahalia makes the argument explicit
+21. [[Summertime]] — Gershwin borrowing from spiritual/blues tradition, then restored · Mahalia makes the argument explicit
 22. **Cherokee** — Noble's "Indian suite" superseded entirely · Parker/Ko-Ko as manifesto; reclamation through erasure
 
 ## Personal favorites
