@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Come Sunday.md",
+                "file": "St. Louis Blues.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Come Sunday"
+              "title": "St. Louis Blues"
             }
           }
         ]
@@ -185,12 +185,17 @@
   },
   "active": "8f36f3355115edb8",
   "lastOpenFiles": [
-    "Collection standards.md",
+    "Poinciana.md",
+    "Peckin' Time (Hank Mobley+Lee Morgan album).md",
+    "My Funny Valentine.md",
+    "Honeysuckle Rose.md",
     "Come Sunday.md",
     "Caravan.md",
+    "Summertime.md",
+    "Collection standards.md",
+    "Blood Count.md",
     "St. Louis Blues.md",
     "Work Song.md",
-    "Honeysuckle Rose.md",
     "Lee Morgan.md",
     "Templates/standard template.md",
     "When the Saints Go Marchin’ In.md",
@@ -201,13 +206,10 @@
     "The Gigolo (Lee Morgan album).md",
     "Untitled.canvas",
     "Welcome.md",
-    "Peckin' Time (Hank Mobley+Lee Morgan album).md",
     "Search for the New Land (Lee Morgan Album).md",
     "The Complete Live at the Lighthouse (Lee Morgan Album).md",
     "The Sidewinder (Lee Morgan album).md",
     "Take Twelve.md",
-    "Poinciana.md",
-    "Templates",
-    "My Funny Valentine.md"
+    "Templates"
   ]
 }
