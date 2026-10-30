@@ -5,24 +5,25 @@ first recording: Abbie Mitchell, 1935-07-19
 ---
 ## Current holdings
 
-| Artist                            | Album                                                              | Recording date | Notes                                                                                    | Gioia? |
-| --------------------------------- | ------------------------------------------------------------------ | -------------- | ---------------------------------------------------------------------------------------- | ------ |
-| Sidney Bechet                     | An Introduction to Sidney Bechet                                   | 1939-06-08     | Gioia lists this date; confirm the track is the 1939 recording                           |        |
-| Miles Davis                       | Porgy and Bess                                                     | 1958-08-18     | with Gil Evans                                                                           | Y      |
-| John Coltrane                     | My Favorite Things                                                 | 1960-10-24     |                                                                                          | Y      |
-| Various                           | The Smithsonian Collection of Classic Jazz                         |                | disc 4, track 12 (3:16); confirm whether this is the Miles Davis and Gil Evans recording |        |
-| Shelly Manne & His Men            | At the Black Hawk Vol. 1                                           |                |                                                                                          | N      |
-| Ella Fitzgerald                   | Mack the Knife: Ella in Berlin                                     |                |                                                                                          | N      |
-| Charlie Parker                    | The Mercury & Clef 10-Inch LP Collection                           |                | from Charlie Parker with Strings, Vol. 1                                                 | N      |
-| Lambert, Hendricks & Ross         | The Best of Lambert, Hendricks & Ross                              |                |                                                                                          | N      |
-| Sonny Rollins                     | Vol 1: The Bridge / Vol 2: With Coleman Hawkins, Sonny Meets Hawk! |                | track is on Sonny Meets Hawk!                                                            | N      |
-| Booker T & the MG's               | The Best of Booker T. & the MGs                                    |                |                                                                                          | N      |
-| Big Brother & the Holding Company | Cheap Thrills                                                      |                |                                                                                          | N      |
-| Ella Fitzgerald                   | Live in East Berlin 1967                                           |                |                                                                                          | N      |
-| The Modern Jazz Quartet           | The Last Concert                                                   |                |                                                                                          | N      |
-| Janis Joplin                      | In Concert                                                         |                |                                                                                          | N      |
-| The Kahil El'Zabar Quartet        | A Time for Healing                                                 |                |                                                                                          | N      |
-| Freddie Hubbard                   | On Fire (Live from the Blue Morocco)                               |                |                                                                                          | N      |
+| Artist                            | Album                                                              | Recording date | Notes                                                  | Gioia? |
+| --------------------------------- | ------------------------------------------------------------------ | -------------- | ------------------------------------------------------ | ------ |
+| Sidney Bechet                     | An Introduction to Sidney Bechet                                   | 1939-06-08     |                                                        | Y      |
+| Dinah Washington                  | Dinah Jams                                                         | 1954-08-15     | track is in a medley                                   | N      |
+| Miles Davis                       | Porgy and Bess                                                     | 1958-08-18     | with Gil Evans                                         | Y      |
+| Various                           | The Smithsonian Collection of Classic Jazz                         | 1958-08-18     | same recording as the Miles Davis Porgy and Bess track | Y      |
+| John Coltrane                     | My Favorite Things                                                 | 1960-10-24     |                                                        | Y      |
+| Big Brother & the Holding Company | Cheap Thrills                                                      |                |                                                        | N      |
+| Booker T & the MG's               | The Best of Booker T. & the MGs                                    |                |                                                        | N      |
+| Charlie Parker                    | The Mercury & Clef 10-Inch LP Collection                           |                | from Charlie Parker with Strings, Vol. 1               | N      |
+| Ella Fitzgerald                   | Mack the Knife: Ella in Berlin                                     |                |                                                        | N      |
+| Ella Fitzgerald                   | Live in East Berlin 1967                                           |                |                                                        | N      |
+| Freddie Hubbard                   | On Fire (Live from the Blue Morocco)                               |                |                                                        | N      |
+| Janis Joplin                      | In Concert                                                         |                |                                                        | N      |
+| Lambert, Hendricks & Ross         | The Best of Lambert, Hendricks & Ross                              |                |                                                        | N      |
+| Shelly Manne & His Men            | At the Black Hawk Vol. 1                                           |                |                                                        | N      |
+| Sonny Rollins                     | Vol 1: The Bridge / Vol 2: With Coleman Hawkins, Sonny Meets Hawk! |                | track is on Sonny Meets Hawk!                          | N      |
+| The Kahil El'Zabar Quartet        | A Time for Healing                                                 |                |                                                        | N      |
+| The Modern Jazz Quartet           | The Last Concert                                                   |                |                                                        | N      |
 ## Targeted acquisitions
 
 | Artist                              | Album                               | Recording date | Notes                                                                                |
