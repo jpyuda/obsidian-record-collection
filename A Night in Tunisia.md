@@ -7,10 +7,10 @@ first recording: Sarah Vaughan, 1944
 
 | Artist                             | Album                                                 | Recording date | Notes                                                                           | Gioia? |
 | ---------------------------------- | ----------------------------------------------------- | -------------- | ------------------------------------------------------------------------------- | ------ |
-| Dizzy Gillespie                    | The Dizzy Gillespie Story 1939-1950                   | 1945-01-26     | disc 1, track 16                                                                | Y      |
+| Boyd Raeburn                       | The Dizzy Gillespie Story 1939-1950                   | 1945-01-26     | with Dizzy Gillespie; disc 1, track 16                                          | Y      |
 | Dizzy Gillespie                    | The Dizzy Gillespie Story 1939-1950                   | 1946-02-22     | disc 2, track 15                                                                | Y      |
 | Charlie Parker                     | The Very Best of Bird                                 | 1946-03-28     |                                                                                 | Y      |
-| Dizzy Gillespie                    | The Dizzy Gillespie Story 1939-1950                   | 1947-09-29     | disc 3, track 7                                                                 | Y      |
+| Charlie Parker and Dizzy Gillespie | The Dizzy Gillespie Story 1939-1950                   | 1947-09-29     | live at Carnegie Hall, New York; disc 3, track 7                                | Y      |
 | Bud Powell                         | The Amazing Bud Powell (Volume 1)                     | 1951-05-01     | includes the master and an alternate take                                       | Y      |
 | Various                            | The Smithsonian Collection of Classic Jazz            | 1951-05-01     | disc 3, track 21; same recording as the Bud Powell track                        | Y      |
 | Charlie Parker and Dizzy Gillespie | Jazz at Massey Hall                                   | 1953-05-15     | credited to Charlie Chan; live at Massey Hall, Toronto                          | Y      |
