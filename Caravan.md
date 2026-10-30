@@ -19,14 +19,15 @@ first recording: Barney Bigard and His Jazzopators, 1936
 | Wynton Marsalis                             | Marsalis Standard Time, Vol. 1             | 1986-05-29/30; 1986-09-24/25 | album dates; track not dated | Y      |
 ## Targeted acquisitions
 
-| Artist                            | Album                                | Recording date            | Notes                                         |
-| --------------------------------- | ------------------------------------ | ------------------------- | --------------------------------------------- |
-| Barney Bigard and His Jazzopators | 1928-1941 (Best of Jazz)             | 1936-12-19                | with Duke Ellington and Juan Tizol; Hollywood |
-| Art Tatum                         | California Melodies                  | 1940-04/1940-07           | Los Angeles                                   |
-| Dizzy Gillespie                   | Odyssey: 1945-1952                   | 1951-10-25                | with Stuff Smith                              |
-| Nat King Cole                     | After Midnight                       | 1956-09-14                | with Juan Tizol; Los Angeles                  |
-| Wes Montgomery                    | Movin' Wes                           | 1964-11-16                | New York                                      |
-| Art Pepper                        | Friday Night at the Village Vanguard | 1977-07-29                | live at the Village Vanguard, New York        |
-| Medeski, Martin, and Wood         | Notes from the Underground           | 1991-12-15/16; 1992-01-23 | New York; Hoboken                             |
-| Michel Camilo                     | Rendezvous                           | 1993-01-18/20             | New York                                      |
-| Gonzalo Rubalcaba                 | Inner Voyage                         | 1998-11-23/25             | New York                                      |
+| Artist                            | Album                                       | Recording date            | Notes                                                               |
+| --------------------------------- | ------------------------------------------- | ------------------------- | ------------------------------------------------------------------- |
+| Barney Bigard and His Jazzopators | 1928-1941 (Best of Jazz)                    | 1936-12-19                | with Duke Ellington and Juan Tizol; Hollywood                       |
+| Art Tatum                         | California Melodies                         | 1940-04/1940-07           | Los Angeles                                                         |
+| Dizzy Gillespie                   | Odyssey: 1945-1952                          | 1951-10-25                | with Stuff Smith                                                    |
+| Nat King Cole                     | After Midnight                              | 1956-09-14                | with Juan Tizol; Los Angeles                                        |
+| Wes Montgomery                    | Movin' Wes                                  | 1964-11-16                | New York                                                            |
+| Art Pepper                        | Friday Night at the Village Vanguard        | 1977-07-29                | live at the Village Vanguard, New York                              |
+| Hank Jones                        | Hank Jones with the Meridian String Quartet |                           | with the Meridian String Quartet; recorded 1990-1991, released 1991 |
+| Medeski, Martin, and Wood         | Notes from the Underground                  | 1991-12-15/16; 1992-01-23 | New York; Hoboken                                                   |
+| Michel Camilo                     | Rendezvous                                  | 1993-01-18/20             | New York                                                            |
+| Gonzalo Rubalcaba                 | Inner Voyage                                | 1998-11-23/25             | New York                                                            |
