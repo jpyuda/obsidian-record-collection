@@ -1,6 +1,6 @@
 ---
 composer: Thelonious Monk (with Cootie Williams; lyrics by Bernie Hanighen)
-published:
+published: 1944
 first recording: Cootie Williams, 1944-08-22
 ---
 ## Current holdings
