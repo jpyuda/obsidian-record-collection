@@ -14,7 +14,7 @@
 
 ## Bebop era
 7. [[A Night in Tunisia]] — Dizzy · Explicit African connection; most-covered bebop original
-8. **’Round Midnight** — Monk · Bebop ballad; structure forces interpreters to show their hand
+8. [['Round Midnight|’Round Midnight]] — Monk · Bebop ballad; structure forces interpreters to show their hand
 
 ## Blues form and hard bop
 9. **Bags’ Groove** — Milt Jackson · Riff-based, almost swing-era simplicity; widely reinterpreted
