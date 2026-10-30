@@ -9,7 +9,7 @@
 ## Ellington / Strayhorn
 
 4. [[Caravan]] — Tizol/Ellington · Afro-Latin fusion, big band to present
-5. **Come Sunday** — Ellington sacred music; gospel lineage
+5. [[Come Sunday]] — Ellington sacred music; gospel lineage
 6. **Blood Count** — Strayhorn's final composition · Late Ellington period
 
 ## Bebop era
