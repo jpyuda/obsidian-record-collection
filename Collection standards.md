@@ -37,3 +37,8 @@
 ## Reclamation
 21. **Summertime** — Gershwin borrowing from spiritual/blues tradition, then restored · Mahalia makes the argument explicit
 22. **Cherokee** — Noble's "Indian suite" superseded entirely · Parker/Ko-Ko as manifesto; reclamation through erasure
+
+## Personal favorites
+23. My Funny Valentine
+24. Sweet Georgia Brown
+25. Mack the Knife

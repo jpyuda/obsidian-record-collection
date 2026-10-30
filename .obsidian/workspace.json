@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Caravan.md",
+                "file": "Collection standards.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Caravan"
+              "title": "Collection standards"
             }
           }
         ]
@@ -185,8 +185,8 @@
   },
   "active": "8f36f3355115edb8",
   "lastOpenFiles": [
-    "St. Louis Blues.md",
     "Caravan.md",
+    "St. Louis Blues.md",
     "Work Song.md",
     "Collection standards.md",
     "Honeysuckle Rose.md",
