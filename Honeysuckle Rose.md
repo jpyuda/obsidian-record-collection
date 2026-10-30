@@ -5,23 +5,23 @@ first recording: McKinney's Cotton Pickers, 1930
 ---
 ## Current holdings
 
-| Artist                             | Album                                                 | Recording date | Notes                                                                                | Gioia? |
-| ---------------------------------- | ----------------------------------------------------- | -------------- | ------------------------------------------------------------------------------------ | ------ |
-| Stéphane Grappelli / Barney Kessel | I Remember Django                                     | 1969-06-23     |                                                                                      | N      |
-| Fats Waller                        | Handful of Keys                                       | 1937-04-09     | Gioia lists 1937-04-09; liner notes give 1937-06-09; DAHR lists a 1937-04-09 session | Y      |
-| Django Reinhardt                   | The Classic Early Recordings in Chronological Order   | 1938-01-31     |                                                                                      | N      |
-| Oscar Alemán                       | Swing Guitar Masterpieces 1938-1957                   | 1944-10-26     |                                                                                      | N      |
-| Django Reinhardt                   | Djangology 49                                         |                |                                                                                      | N      |
-| Count Basie                        | The Complete Decca Recordings                         |                |                                                                                      | Y      |
-| Thelonious Monk                    | The Riverside Trios                                   |                |                                                                                      | Y      |
-| Fletcher Henderson                 | A Study in Frustration (The Fletcher Henderson Story) | 1932-12-09     | Gioia lists 1932-11-09; DAHR and liner notes give 1932-12-09                         | Y      |
-| Lester Young                       | The Quintessence                                      |                | from a Benny Goodman jam session, per liner notes                                    | N      |
-| Earl Hines                         | Another Monday Date                                   |                |                                                                                      | N      |
-| Warner Williams / Jay Summerour    | Blues Highway: Live                                   |                |                                                                                      | N      |
-| Charlie Christian                  | Solo Flight - The Genius of Charlie Christian         |                |                                                                                      | N      |
-| Duke Ellington                     | At Fargo 1940 Live                                    |                |                                                                                      | N      |
-| Benny Carter and His Orchestra     | Further Definitions                                   |                |                                                                                      | N      |
-| Benny Goodman                      | Live at Carnegie Hall                                 |                |                                                                                      | N      |
+| Artist                             | Album                                                 | Recording date                       | Notes                                                                                | Gioia? |
+| ---------------------------------- | ----------------------------------------------------- | ------------------------------------ | ------------------------------------------------------------------------------------ | ------ |
+| Stéphane Grappelli / Barney Kessel | I Remember Django                                     | 1969-06-23                           |                                                                                      | N      |
+| Fats Waller                        | Handful of Keys                                       | 1937-04-09                           | Gioia lists 1937-04-09; liner notes give 1937-06-09; DAHR lists a 1937-04-09 session | Y      |
+| Django Reinhardt                   | The Classic Early Recordings in Chronological Order   | 1938-01-31                           |                                                                                      | N      |
+| Oscar Alemán                       | Swing Guitar Masterpieces 1938-1957                   | 1944-10-26                           |                                                                                      | N      |
+| Django Reinhardt                   | Djangology 49                                         | 1949-01/02                           |                                                                                      | N      |
+| Count Basie                        | The Complete Decca Recordings                         | 1937-01-21                           |                                                                                      | Y      |
+| Thelonious Monk                    | The Riverside Trios                                   | 1956-04-03                           |                                                                                      | Y      |
+| Fletcher Henderson                 | A Study in Frustration (The Fletcher Henderson Story) | 1932-12-09                           | Gioia lists 1932-11-09; DAHR and liner notes give 1932-12-09                         | Y      |
+| Lester Young                       | The Quintessence                                      | 1938-01-16                           | from a Benny Goodman jam session, per liner notes                                    | N      |
+| Earl Hines                         | Another Monday Date                                   | 1955-11/12 / 1956-01                 |                                                                                      | N      |
+| Warner Williams / Jay Summerour    | Blues Highway: Live                                   | 1993-03-06 / 1994-03-19 / 1995-04-07 |                                                                                      | N      |
+| Charlie Christian                  | Solo Flight - The Genius of Charlie Christian         | 1939-11-22                           |                                                                                      | N      |
+| Duke Ellington                     | At Fargo 1940 Live                                    | 1940-11-07                           |                                                                                      | N      |
+| Benny Carter and His Orchestra     | Further Definitions                                   | 1961-11-13/15                        |                                                                                      | N      |
+| Benny Goodman                      | Live at Carnegie Hall                                 | 1938-01-16                           |                                                                                      | N      |
 ## Targeted acquisitions
 
 | Artist                        | Album             | Recording date | Notes                                                                |
