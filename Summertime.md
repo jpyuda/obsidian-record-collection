@@ -26,17 +26,17 @@ first recording: Abbie Mitchell, 1935-07-19
 | The Kahil El'Zabar Quartet        | A Time for Healing                                                 | 2020-12        |                                                        | N      |
 ## Targeted acquisitions
 
-| Artist                              | Album                                                                       | Recording date | Notes                                                                                |
-| ----------------------------------- | --------------------------------------------------------------------------- | -------------- | ------------------------------------------------------------------------------------ |
-| Billie Holiday                      | Lady Day: The Master Takes and Singles (Columbia) _or_ 1933-1937 (Classics) | 1936-07-10     | New York                                                                             |
-| Artie Shaw                          | Self Portrait                                                               | 1945-04-17     | with Roy Eldridge; Hollywood                                                         |
-| Mahalia Jackson                     | Bless This House                                                            | 1956           | medley of "Summertime" and "Sometimes I Feel Like a Motherless Child"; released 1956 |
-| Louis Armstrong and Ella Fitzgerald | Porgy and Bess                                                              | 1957-08-18     | Los Angeles                                                                          |
-| Duke Ellington                      | Piano in the Foreground                                                     | 1961-03-01     | Hollywood                                                                            |
-| Bill Evans                          | How My Heart Sings                                                          | 1962-05-17     | New York                                                                             |
-| Art Blakey                          | A Jazz Message                                                              | 1963-07-16     | with Sonny Stitt and McCoy Tyner; New York                                           |
-| Joshua Redman                       | Timeless Tales (for Changing Times)                                         | circa 1998     | with Brad Mehldau; New York                                                          |
-| Greg Osby                           | St. Louis Shoes                                                             | 2003-01-22/23  | with Nicholas Payton; Brooklyn                                                       |
+| Artist                              | Album                                             | Recording date | Notes                                                                                |
+| ----------------------------------- | ------------------------------------------------- | -------------- | ------------------------------------------------------------------------------------ |
+| Billie Holiday                      | Lady Day: The Master Takes and Singles (Columbia) | 1936-07-10     | New York                                                                             |
+| Artie Shaw                          | Self Portrait                                     | 1945-04-17     | with Roy Eldridge; Hollywood                                                         |
+| Mahalia Jackson                     | Bless This House                                  | 1956           | medley of "Summertime" and "Sometimes I Feel Like a Motherless Child"; released 1956 |
+| Louis Armstrong and Ella Fitzgerald | Porgy and Bess                                    | 1957-08-18     | Los Angeles                                                                          |
+| Duke Ellington                      | Piano in the Foreground                           | 1961-03-01     | Hollywood                                                                            |
+| Bill Evans                          | How My Heart Sings                                | 1962-05-17     | New York                                                                             |
+| Art Blakey                          | A Jazz Message                                    | 1963-07-16     | with Sonny Stitt and McCoy Tyner; New York                                           |
+| Joshua Redman                       | Timeless Tales (for Changing Times)               | circa 1998     | with Brad Mehldau; New York                                                          |
+| Greg Osby                           | St. Louis Shoes                                   | 2003-01-22/23  | with Nicholas Payton; Brooklyn                                                       |
 ## Sometimes I Feel Like a Motherless Child
 
 The spiritual is often considered the source for "Summertime."
