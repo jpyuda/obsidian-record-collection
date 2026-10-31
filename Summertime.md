@@ -49,7 +49,8 @@ The spiritual is often considered the source for "Summertime."
 | Grant Green  | Feelin' the Spirit            | 1962-12-21     |       |
 ### Targeted acquisitions
 
-| Artist                       | Album                                        | Recording date | Notes                                       |
-| ---------------------------- | -------------------------------------------- | -------------- | ------------------------------------------- |
-| Mahalia Jackson              | Bless This House                             | 1956           | medley with "Summertime"; also listed above |
-| Charlie Haden and Hank Jones | Steal Away: Spirituals, Hymns and Folk Songs | 1994-06-29/30  | released 1995 on Verve                      |
+| Artist                       | Album                                        | Recording date | Notes                                                               |
+| ---------------------------- | -------------------------------------------- | -------------- | ------------------------------------------------------------------- |
+| Mahalia Jackson              | Bless This House                             | 1956           | medley with "Summertime"; also listed above                         |
+| Grant Green                  | Iron City                                    | circa 1967     | live album; also on the Work Song page; released 1972 (Cobblestone) |
+| Charlie Haden and Hank Jones | Steal Away: Spirituals, Hymns and Folk Songs | 1994-06-29/30  | released 1995 on Verve                                              |
