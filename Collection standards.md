@@ -19,7 +19,7 @@
 ## Blues form and hard bop
 9. [[Bags' Groove|Bags’ Groove]] — Milt Jackson · Riff-based, almost swing-era simplicity; widely reinterpreted
 10. **Work Song** — Nat Adderley · Field holler to hard bop explicitly
-11. **Moanin’** — Timmons · Black church moan into hard bop; gospel bridge
+11. [[Moanin'|Moanin’]] — Timmons · Black church moan into hard bop; gospel bridge
 12. **Body and soul** — The through-line tune · Hawkins 1939 to present
 
 ## Modal and post-bop
