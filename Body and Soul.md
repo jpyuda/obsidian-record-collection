@@ -15,7 +15,8 @@ first recording:
 | Coleman Hawkins                          | The Smithsonian Collection of Classic Jazz          | 1939-10-11     | disc 2, track 8; same recording as the Body and Soul of the Saxophone track         | Y      |
 | Duke Ellington                           | Indiana Live Session - June 1945                    | 1945-06        | date from the album title; day to be added                                          | N      |
 | Benny Carter and His Orchestra           | Further Definitions                                 | 1961-11-13/15  |                                                                                     | N      |
-| Art Tatum                                | The Art Tatum Discoveries                           |                | side A, track 3; recording date to be added                                         |        |
+| Sarah Vaughan                            | Live at Laren Jazz Festival 1975                    | 1975-08-05     | side D, track 2 (in a medley)                                                       | N      |
+| Art Tatum                                | The Art Tatum Discoveries                           |                | side A, track 3; private party near the end of his life; recording date to be added | N      |
 | Charles Mingus                           | Incarnations                                        |                | side B, track 3; recording date to be added                                         | N      |
 | Charles Mingus                           | Reincarnations                                      |                | side B, track 2 (take 2); recording date to be added                                | N      |
 | Django Reinhardt                         | The Classic Early Recordings in Chronological Order |                | disc 5, track 9; recording date to be added                                         | N      |
@@ -31,6 +32,7 @@ first recording:
 | ------------------------------- | ----------------------------------------------------------- | --------------------- | ------------------------------------------------------------ |
 | Chu Berry and Roy Eldridge      | A Giant of the Tenor Sax (Commodore)                        | 1938-11-10            | New York; the reissue is not verified                        |
 | Billie Holiday                  | Lady Day: The Complete Billie Holiday on Columbia 1933-1944 | 1940-02-29            | New York; disc 6, track 10; 10-CD Columbia/Legacy box (2001) |
+| Art Tatum                       | (album to be identified)                                    | 1941-07-26            | live at Gee-Haw Stables, New York                            |
 | Charlie Parker                  | The Complete "Birth of the Bebop" (Stash)                   | 1943-02-28            | Redcross jam session, Savoy Hotel, Chicago                   |
 | John Coltrane                   | Coltrane's Sound                                            | 1960-10-24            | with McCoy Tyner; New York                                   |
 | Thelonious Monk                 | Monk in Italy                                               | 1961-04-21            | live at Teatro Lirico, Milan                                 |
