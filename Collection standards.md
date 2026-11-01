@@ -25,7 +25,7 @@
 ## Modal and post-bop
 13. [[Afro Blue]] — Santamaría → Coltrane · Documented cross-diaspora migration
 14. [[Stolen Moments]] — Oliver Nelson · Accessible surface, sophisticated harmonic movement underneath
-15. **Footprints** — Wayne Shorter · 6/4, African rhythmic influence; genuine complexity
+15. [[Footprints]] — Wayne Shorter · 6/4, African rhythmic influence; genuine complexity
 16. **Goodbye Pork Pie Hat** — Mingus elegy for Young · Jazz to rock (Mitchell) and beyond
 
 ## Caribbean and Latin jazz
