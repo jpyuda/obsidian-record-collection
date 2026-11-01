@@ -13,7 +13,7 @@ first recording:
 | Ahmad Jamal                                                 | Digital Works                                                                                                        | 1985-08        | side A, track 1 (8:25); Dallas; Atlantic                                                                                                                   | Y      |
 | Ahmad Jamal                                                 | The Piano Scene of Ahmad Jamal                                                                                       |                | side A, track 3; Epic (1959) compilation drawn from sessions on 1951-10-25, 1952-05-05, and 1955-10 per Wikipedia; session for this track to be identified | N      |
 | Ahmad Jamal                                                 | Freeflight                                                                                                           |                | side B, track 2 (11:34); Impulse!, 1972 release; recording date to be added                                                                                | N      |
-| Ahmad Jamal                                                 | Emerald City Nights (Live at the Penthouse 1965-1966)                                                                |                | disc 2, side D, track 2 (8:44); live at the Penthouse, Seattle; Jazz Detective (2022); recording date to be added                                          | N      |
+| Ahmad Jamal                                                 | Emerald City Nights (Live at the Penthouse 1965-1966)                                                                | 1966-09-22     | disc 2, side D, track 2 (8:44); live at the Penthouse, Seattle; Jazz Detective (2022)                                                                      | N      |
 | Gerry Mulligan Quartet, Gerry Mulligan Tentette, Chet Baker | The Complete Pacific Jazz and Capitol Recordings of the Original Gerry Mulligan Quartet and Tentette with Chet Baker |                | side H, track 3 (3:49); Mosaic box set (LP); recording date to be added                                                                                    | N      |
 ## Targeted acquisitions
 
@@ -27,12 +27,7 @@ first recording:
 | Keith Jarrett (Standards Trio)      | Whisper Not                         | 1999-07-05            | Gioia version; live at the Palais des Congrès, Paris                                |
 ## Other candidates (not on Gioia's list)
 
-| Artist                 | Album                    | Recording date | Notes                                                                                                    |
-| ---------------------- | ------------------------ | -------------- | -------------------------------------------------------------------------------------------------------- |
-| Ahmad Jamal            | Live at Oil Can Harry's  |                | earlier note: 1976 release (Artists House); not on Gioia's list                                          |
-| Ahmad Jamal            | Ballades                 |                | earlier note: 2019 release; solo piano; not on Gioia's list                                              |
-| Duke Ellington         | (album to be identified) |                | earlier note: opportunistic; not on Gioia's list                                                         |
-| Jack Teagarden         | (album to be identified) |                | earlier note: opportunistic; not on Gioia's list                                                         |
-| Erroll Garner          | (album to be identified) |                | earlier note: opportunistic; not on Gioia's list                                                         |
-| The Manhattan Transfer | (album to be identified) |                | earlier note: vocal group version; Gioia mentions the group in his text but does not recommend a version |
-| Les Baxter             | (album to be identified) |                | earlier note: exotica; probably skip; Gioia mentions Baxter in his text but does not recommend a version |
+| Artist      | Album                    | Recording date | Notes                                                                                                    |
+| ----------- | ------------------------ | -------------- | -------------------------------------------------------------------------------------------------------- |
+| Ahmad Jamal | Live at Oil Can Harry's  |                | earlier note: 1976 release (Artists House); not on Gioia's list                                          |
+| Ahmad Jamal | Ballades                 |                | earlier note: 2019 release; solo piano; not on Gioia's list                                              |
