@@ -8,7 +8,7 @@ first recording: Wayne Shorter, 1966-02-24
 | Artist      | Album                                     | Recording date | Notes                                                                      | Gioia? |
 | ----------- | ----------------------------------------- | -------------- | -------------------------------------------------------------------------- | ------ |
 | Ahmad Jamal | Digital Works                             | 1985-08        | side B, track 1 (5:11); Dallas; Atlantic                                   | Y      |
-| Madlib      | Shades of Blue (Madlib Invades Blue Note) |                | side D, track 2 (4:58); 2023 Blue Note reissue; recording date to be added | N      |
+| Madlib      | Shades of Blue (Madlib Invades Blue Note) | 2003           | side D, track 2 (4:58); 2023 Blue Note reissue; recording date to be added | N      |
 ## Targeted acquisitions
 
 | Artist                              | Album            | Recording date        | Notes                                                                                                                      |
