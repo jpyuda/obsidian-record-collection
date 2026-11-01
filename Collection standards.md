@@ -40,5 +40,5 @@
 
 ## Personal favorites
 23. My Funny Valentine
-24. Sweet Georgia Brown
-25. Mack the Knife
+24. Naima
+25. Sweet Georgia Brown
