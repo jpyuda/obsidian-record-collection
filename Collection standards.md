@@ -32,7 +32,7 @@
 17. [[Poinciana]] — Caribbean root · Jazz, soul, fusion across decades
 18. [[St. Thomas]] — Rollins · Virgin Islands folk melody into hard bop
 19. [[Blue Bossa]] — Dorham · Conscious Afro-Cuban/bossa nova bridge
-20. **Watermelon man** — Herbie · Hard bop to funk; self-revision as historical document
+20. [[Watermelon Man|Watermelon man]] — Herbie · Hard bop to funk; self-revision as historical document
 
 ## Reclamation
 21. [[Summertime]] — Gershwin borrowing from spiritual/blues tradition, then restored · Mahalia makes the argument explicit
