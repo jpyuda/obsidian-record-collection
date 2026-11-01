@@ -1,80 +1,38 @@
-# Poinciana
+---
+composer: Nat Simon (lyrics by Buddy Bernier)
+published: 1936
+first recording:
+---
+## Current holdings
 
-## Composition Info
-- Composer: Nat Simon (1936), lyrics by Buddy Bernier
-- Originally a pop song inspired by the poinciana tree
-- Ahmad Jamal's 1958 version at the Pershing transformed it into a jazz standard
-- Ted Gioia: "One of the most recorded pieces in the jazz repertoire" (p. XXX)
+| Artist                                                      | Album                                                                                                                | Recording date | Notes                                                                                                                                                      | Gioia? |
+| ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| Benny Carter                                                | The Music Master                                                                                                     | 1943-10-25     | disc 3, track 12; San Francisco; Proper box set (CD)                                                                                                       | Y      |
+| Ahmad Jamal Trio                                            | Ahmad Jamal at the Pershing                                                                                          | 1958-01-16     | side B, track 1 (7:38); live at the Pershing Lounge, Chicago; Argo; the Gioia entry lists the album as But Not for Me                                      | Y      |
+| Shelly Manne & His Men                                      | At the Black Hawk Vol. 1                                                                                             | 1959-09-22     | side B, track 1 (13:00); live at the Black Hawk, San Francisco; 2024 Craft Recordings reissue                                                              | Y      |
+| Ahmad Jamal                                                 | Digital Works                                                                                                        | 1985-08        | side A, track 1 (8:25); Dallas; Atlantic                                                                                                                   | Y      |
+| Ahmad Jamal                                                 | The Piano Scene of Ahmad Jamal                                                                                       |                | side A, track 3; Epic (1959) compilation drawn from sessions on 1951-10-25, 1952-05-05, and 1955-10 per Wikipedia; session for this track to be identified | N      |
+| Ahmad Jamal                                                 | Freeflight                                                                                                           |                | side B, track 2 (11:34); Impulse!, 1972 release; recording date to be added                                                                                | N      |
+| Ahmad Jamal                                                 | Emerald City Nights (Live at the Penthouse 1965-1966)                                                                |                | disc 2, side D, track 2 (8:44); live at the Penthouse, Seattle; Jazz Detective (2022); recording date to be added                                          | N      |
+| Gerry Mulligan Quartet, Gerry Mulligan Tentette, Chet Baker | The Complete Pacific Jazz and Capitol Recordings of the Original Gerry Mulligan Quartet and Tentette with Chet Baker |                | side H, track 3 (3:49); Mosaic box set (LP); recording date to be added                                                                                    | N      |
+## Targeted acquisitions
 
-## Versions in Collection
+| Artist                              | Album                               | Recording date        | Notes                                                                               |
+| ----------------------------------- | ----------------------------------- | --------------------- | ----------------------------------------------------------------------------------- |
+| Lennie Niehaus (with Hampton Hawes) | The Quintets                        | 1956-01-20            | Gioia version; Los Angeles                                                          |
+| Booker Ervin                        | That's It!                          | 1961-01-06            | Gioia version; New York                                                             |
+| Ahmad Jamal                         | At the Top: Poinciana Revisited     | 1969                  | Gioia version; live at the Village Gate, New York; Impulse!; revisits the 1958 hit  |
+| Sonny Rollins (with George Cables)  | Sonny Rollins' Next Album           | 1972-07-14            | Gioia version; New York; Rollins on soprano saxophone with Cables on electric piano |
+| McCoy Tyner                         | McCoy Tyner and the Latin All-Stars | 1998-07-29/1998-07-30 | Gioia version; New York                                                             |
+| Keith Jarrett (Standards Trio)      | Whisper Not                         | 1999-07-05            | Gioia version; live at the Palais des Congrès, Paris                                |
+## Other candidates (not on Gioia's list)
 
-### Benny Carter - The Music Master (1940s box set)
-- Recording: San Francisco, October 25, 1943 [verify from liner notes]
-- Format: CD box
-- Notes: Early jazz treatment, pre-Jamal transformation
-- Folder: Saxophone
-- **Gioia recommended version** ✓
-
-### Gerry Mulligan Quartet with Chet Baker - Original Quartet box
-- Recording: 1950s
-- Format: CD box
-- Notes: West Coast cool jazz approach
-- Folder: Saxophone (or Trumpet?)
-
-### Ahmad Jamal - At the Pershing (1958)
-- Recording: January 16, 1958, live at Pershing Lounge, Chicago
-- Format: LP (Argo)
-- Notes: **Breakthrough version** - 7+ minutes, sparse trio arrangement, established the template. Stayed on Billboard charts for over 100 weeks.
-- Folder: Piano
-- **Gioia recommended version** ✓
-
-## Ahmad Jamal Trajectory (Target Acquisitions)
-
-### Ahmad Jamal - At the Top: Poinciana Revisited (1969)
-- Format: LP target (Impulse!)
-- Notes: Explicit revisit 11 years later
-
-### Ahmad Jamal - Freeflight (1971)
-- Format: LP target (Impulse!)
-- Notes: Part of essential Impulse! run
-
-### Ahmad Jamal - Live at Oil Can Harry's (1976)
-- Format: LP target (Artists House)
-- Notes: 18 years after Pershing, mature interpretation
-
-### Ahmad Jamal - Ballades (2019)
-- Format: CD target
-- Notes: Solo piano, 61 years after original - full career arc
-
-## Other Recommended Versions (Gioia)
-
-### High Priority
-- **Shelly Manne** - Live at the Black Hawk (1959)
-- **Booker Ervin** - That's It! (1961)
-- **Sonny Rollins** - Next Album (1972)
-- **McCoy Tyner** - Latin All-Stars album (need to identify)
-- **Keith Jarrett** - Whisper Not (Standards Trio)
-
-### Opportunistic
-- **Lennie Niehaus** - The Quintets
-- Duke Ellington version
-- Jack Teagarden version
-- Erroll Garner version
-- Manhattan Transfer (vocal)
-- Les Baxter (exotica/easy listening - probably skip)
-
-## Listening Focus
-- **Jamal's transformation**: Sparse trio arrangement, dramatic use of space and dynamics vs. earlier straight readings
-- **Post-Jamal influence**: How did other artists respond to his version?
-- **Tempo variations**: Jamal's versions evolved over decades - faster? Slower? More complex?
-- **Instrumentation choices**: Trio vs. quartet vs. big band approaches
-
-## Collection Strategy
-- **Deep dive on Jamal**: Tracking 60+ year relationship with one composition (5 versions targeted)
-- **Comparative sampling**: 2-3 non-Jamal versions to show range of interpretations
-- **Don't chase every version**: Rollins/Tyner/Jarrett are tier-2 targets if encountered, not must-haves
-
-## Notes
-- Verify Benny Carter recording date from liner notes
-- Gioia book page reference: [add when you look it up]
-- This became a test piece for pianists after Jamal - like "Body and Soul" for saxophonists after Hawkins
+| Artist                 | Album                    | Recording date | Notes                                                                                                    |
+| ---------------------- | ------------------------ | -------------- | -------------------------------------------------------------------------------------------------------- |
+| Ahmad Jamal            | Live at Oil Can Harry's  |                | earlier note: 1976 release (Artists House); not on Gioia's list                                          |
+| Ahmad Jamal            | Ballades                 |                | earlier note: 2019 release; solo piano; not on Gioia's list                                              |
+| Duke Ellington         | (album to be identified) |                | earlier note: opportunistic; not on Gioia's list                                                         |
+| Jack Teagarden         | (album to be identified) |                | earlier note: opportunistic; not on Gioia's list                                                         |
+| Erroll Garner          | (album to be identified) |                | earlier note: opportunistic; not on Gioia's list                                                         |
+| The Manhattan Transfer | (album to be identified) |                | earlier note: vocal group version; Gioia mentions the group in his text but does not recommend a version |
+| Les Baxter             | (album to be identified) |                | earlier note: exotica; probably skip; Gioia mentions Baxter in his text but does not recommend a version |
