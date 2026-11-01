@@ -11,7 +11,7 @@ first recording: Abbie Mitchell, 1935-07-19
 | Charlie Parker                    | The Mercury & Clef 10-Inch LP Collection                           | 1949-11-30     | from Charlie Parker with Strings, Vol. 1               | N      |
 | Dinah Washington                  | Dinah Jams                                                         | 1954-08-15     | track is in a medley                                   | N      |
 | Miles Davis                       | Porgy and Bess                                                     | 1958-08-18     | with Gil Evans                                         | Y      |
-| Various                           | The Smithsonian Collection of Classic Jazz                         | 1958-08-18     | same recording as the Miles Davis Porgy and Bess track | Y      |
+| Miles Davis                       | The Smithsonian Collection of Classic Jazz                         | 1958-08-18     | same recording as the Miles Davis Porgy and Bess track | Y      |
 | Lambert, Hendricks & Ross         | The Best of Lambert, Hendricks & Ross                              | 1959           |                                                        | N      |
 | Shelly Manne & His Men            | At the Black Hawk Vol. 1                                           | 1959-09-22     |                                                        | N      |
 | Ella Fitzgerald                   | Mack the Knife: Ella in Berlin                                     | 1960-02-13     |                                                        | N      |

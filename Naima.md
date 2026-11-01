@@ -5,12 +5,12 @@ first recording: John Coltrane, 1959-12-02
 ---
 ## Current holdings
 
-| Artist                             | Album                                           | Recording date | Notes                                                                                            | Gioia? |
-| ---------------------------------- | ----------------------------------------------- | -------------- | ------------------------------------------------------------------------------------------------ | ------ |
-| John Coltrane                      | Giant Steps                                     | 1959-12-02     | B2 (4:21); New York; Atlantic (LP)                                                               | Y      |
-| John Coltrane                      | Live at the Village Vanguard Again!             | 1966-05-28     | A1 (14:51); date from my own knowledge, not shown on Discogs; Impulse! Canadian pressing (LP)    | N      |
-| Carlos Santana and John McLaughlin | Love Devotion Surrender                         | 1972-10        | A2 (3:09); New York; CBS UK pressing (LP)                                                        | Y      |
-| Pharoah Sanders                    | The Complete Pharoah Sanders Theresa Recordings |                | disc 4 (Heart Is A Melody), track 5; no track time or recording date on Discogs; Mosaic (CD box) | N      |
+| Artist                             | Album                                           | Recording date | Notes                                                | Gioia? |
+| ---------------------------------- | ----------------------------------------------- | -------------- | ---------------------------------------------------- | ------ |
+| John Coltrane                      | Giant Steps                                     | 1959-12-02     | B2 (4:21); New York; Atlantic (LP)                   | Y      |
+| John Coltrane                      | Live at the Village Vanguard Again!             | 1966-05-28     | A1 (14:51); Impulse! Canadian pressing (LP)          | N      |
+| Carlos Santana and John McLaughlin | Love Devotion Surrender                         | 1972-10        | A2 (3:09); New York; CBS UK pressing (LP)            | Y      |
+| Pharoah Sanders                    | The Complete Pharoah Sanders Theresa Recordings | 1982-01-23     | disc 4 (Heart Is A Melody), track 5; Mosaic (CD box) | N      |
 
 ## Targeted acquisitions
 
