@@ -25,9 +25,5 @@ first recording:
 | Sonny Rollins (with George Cables)  | Sonny Rollins' Next Album           | 1972-07-14            | Gioia version; New York; Rollins on soprano saxophone with Cables on electric piano |
 | McCoy Tyner                         | McCoy Tyner and the Latin All-Stars | 1998-07-29/1998-07-30 | Gioia version; New York                                                             |
 | Keith Jarrett (Standards Trio)      | Whisper Not                         | 1999-07-05            | Gioia version; live at the Palais des Congrès, Paris                                |
-## Other candidates (not on Gioia's list)
-
-| Artist      | Album                    | Recording date | Notes                                                                                                    |
-| ----------- | ------------------------ | -------------- | -------------------------------------------------------------------------------------------------------- |
-| Ahmad Jamal | Live at Oil Can Harry's  |                | earlier note: 1976 release (Artists House); not on Gioia's list                                          |
-| Ahmad Jamal | Ballades                 |                | earlier note: 2019 release; solo piano; not on Gioia's list                                              |
+| Ahmad Jamal                         | Ballades                            |                       | 2019 release; solo piano; recording date to be added                                |
+| Ahmad Jamal                         | Live at Oil Can Harry's             |                       | 1976 release (Artists House); recording date to be added                            |
