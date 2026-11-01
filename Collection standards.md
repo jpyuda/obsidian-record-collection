@@ -39,6 +39,6 @@
 22. [[Cherokee]] — Noble's "Indian suite" superseded entirely · Parker/Ko-Ko as manifesto; reclamation through erasure
 
 ## Personal favorites
-23. My Funny Valentine
+23. [[My Funny Valentine]]
 24. Naima
 25. Sweet Georgia Brown
