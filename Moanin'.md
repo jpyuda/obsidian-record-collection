@@ -5,15 +5,15 @@ first recording: Art Blakey and the Jazz Messengers, 1958-10-30
 ---
 ## Current holdings
 
-| Artist                           | Album                                                                        | Recording date | Notes                                          |
-| -------------------------------- | ---------------------------------------------------------------------------- | -------------- | ---------------------------------------------- |
-| Art Blakey & The Jazz Messengers | Moanin'                                                                      | 1958-10-30     | original recording                             |
-| Art Blakey & The Jazz Messengers | Live in Scheveningen 1958                                                    | 1958-11-29     |                                                |
-| Lambert, Hendricks & Ross        | The Best Of Lambert, Hendricks & Ross                                        | 1959           |                                                |
-| Quincy Jones                     | The Birth of a Band                                                          | 1959-02-09     |                                                |
-| Art Blakey & The Jazz Messengers | First Flight to Tokyo: The Lost 1961 Recordings                              | 1961-01-14     |                                                |
-| T-Bone Walker                    | The Original American Folk Blues Festival (Live in Paris 1962 • Bremen 1963) | 1962-10-20     | side C, track 2; confirmed as the Timmons tune |
-| Emily Remler                     | Cookin' at the Queens: Live in Las Vegas 1984 & 1988                         | 1984-05-28     |                                                |
+| Artist                           | Album                                                                        | Format | Recording date | Notes                                          |
+| -------------------------------- | ---------------------------------------------------------------------------- | ------ | -------------- | ---------------------------------------------- |
+| Art Blakey & The Jazz Messengers | Moanin'                                                                      | LP     | 1958-10-30     | original recording                             |
+| Art Blakey & The Jazz Messengers | Live in Scheveningen 1958                                                    | LP     | 1958-11-29     |                                                |
+| Lambert, Hendricks & Ross        | The Best Of Lambert, Hendricks & Ross                                        | LP     | 1959           |                                                |
+| Quincy Jones                     | The Birth of a Band                                                          | LP     | 1959-02-09     |                                                |
+| Art Blakey & The Jazz Messengers | First Flight to Tokyo: The Lost 1961 Recordings                              | LP     | 1961-01-14     |                                                |
+| T-Bone Walker                    | The Original American Folk Blues Festival (Live in Paris 1962 • Bremen 1963) | LP     | 1962-10-20     | side C, track 2; confirmed as the Timmons tune |
+| Emily Remler                     | Cookin' at the Queens: Live in Las Vegas 1984 & 1988                         | LP     | 1984-05-28     |                                                |
 ## Targeted acquisitions
 
 | Artist                           | Album                      | Recording date        | Notes                                                                                     |

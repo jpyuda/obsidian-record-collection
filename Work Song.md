@@ -5,10 +5,10 @@ first recording: Nat Adderley, 1960-01-27
 ---
 ## Current holdings
 
-| Artist                   | Album                                              | Recording date | Notes                                                                                               |
-| ------------------------ | -------------------------------------------------- | -------------- | --------------------------------------------------------------------------------------------------- |
-| Cannonball Adderley      | The Japanese Concerts                              | 1963-07-09     | Wikipedia assigns this track to 1963-07-09, Kōsei Nenkin Kaikan, Tokyo; the older page gave July 14 |
-| The Monty Alexander Trio | Montreux Alexander: Live! at the Montreux Festival | 1976-06-10     | with John Clayton and Jeff Hamilton; date per Jazz Journal; 2024 MPS reissue                        |
+| Artist                   | Album                                              | Format | Recording date | Notes                                                                                               |
+| ------------------------ | -------------------------------------------------- | ------ | -------------- | --------------------------------------------------------------------------------------------------- |
+| Cannonball Adderley      | The Japanese Concerts                              | LP     | 1963-07-09     | Wikipedia assigns this track to 1963-07-09, Kōsei Nenkin Kaikan, Tokyo; the older page gave July 14 |
+| The Monty Alexander Trio | Montreux Alexander: Live! at the Montreux Festival | LP     | 1976-06-10     | with John Clayton and Jeff Hamilton; date per Jazz Journal; 2024 MPS reissue                        |
 ## Targeted acquisitions
 
 | Artist              | Album                      | Recording date        | Notes                                                                                                                                                                |

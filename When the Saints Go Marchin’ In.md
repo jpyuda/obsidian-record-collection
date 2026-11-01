@@ -1,13 +1,13 @@
 - composer: traditional
 ## Current holdings
 
-| Artist                | Album                                             | Recording date | Notes | Gioia? |
-| --------------------- | ------------------------------------------------- | -------------- | ----- | ------ |
-| Blind Willie Davis    | Gospel: Negro Spirituals / Gospel Songs 1926-1942 | 1928-01?       |       | N      |
-| Jack Teagarden        | In Concert                                        | 1963?          |       | N      |
-| Jimmy Smith           | Prayer Meetin'                                    | 1963-02-08     |       | Y      |
-| Sister Rosetta Tharpe | Live in France (The 1966 Concert in Limoges)      | 1966-11-11     |       | N      |
-| Eddie Bo              | Our New Orleans 2005                              | 2005           |       | N      |
+| Artist                | Album                                             | Format | Recording date | Notes | Gioia? |
+| --------------------- | ------------------------------------------------- | ------ | -------------- | ----- | ------ |
+| Blind Willie Davis    | Gospel: Negro Spirituals / Gospel Songs 1926-1942 | CD     | 1928-01?       |       | N      |
+| Jack Teagarden        | In Concert                                        | LP     | 1963?          |       | N      |
+| Jimmy Smith           | Prayer Meetin'                                    | LP     | 1963-02-08     |       | Y      |
+| Sister Rosetta Tharpe | Live in France (The 1966 Concert in Limoges)      | LP     | 1966-11-11     |       | N      |
+| Eddie Bo              | Our New Orleans 2005                              | LP     | 2005           |       | N      |
 ## Targeted acquisitions
 
 | Artist                                         | Album                                                                                            | Recording date | Notes                             |

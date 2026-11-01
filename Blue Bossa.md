@@ -5,10 +5,10 @@ first recording: Joe Henderson (with Kenny Dorham), 1963-06-03
 ---
 ## Current holdings
 
-| Artist                            | Album                                                | Recording date | Notes                                                                                    | Gioia? |
-| --------------------------------- | ---------------------------------------------------- | -------------- | ---------------------------------------------------------------------------------------- | ------ |
-| Joe Henderson (with Kenny Dorham) | Page One                                             | 1963-06-03     | side A, track 1; Englewood Cliffs, New Jersey; first recording; Blue Note (2021 reissue) | Y      |
-| Kenny Dorham                      | Blue Bossa in the Bronx (Live from the Blue Morocco) | 1967           | disc 1, side A (13:28); live at the Blue Morocco, Bronx, New York; Resonance (2025)      | N      |
+| Artist                            | Album                                                | Format | Recording date | Notes                                                                                    | Gioia? |
+| --------------------------------- | ---------------------------------------------------- | ------ | -------------- | ---------------------------------------------------------------------------------------- | ------ |
+| Joe Henderson (with Kenny Dorham) | Page One                                             | LP     | 1963-06-03     | side A, track 1; Englewood Cliffs, New Jersey; first recording; Blue Note (2021 reissue) | Y      |
+| Kenny Dorham                      | Blue Bossa in the Bronx (Live from the Blue Morocco) | LP     | 1967           | disc 1, side A (13:28); live at the Blue Morocco, Bronx, New York; Resonance (2025)      | N      |
 ## Targeted acquisitions
 
 | Artist                                | Album                               | Recording date        | Notes                                                               |

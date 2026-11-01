@@ -5,27 +5,27 @@ first recording:
 ---
 ## Current holdings
 
-| Artist                                   | Album                                               | Recording date | Notes                                                                       | Gioia? |
-| ---------------------------------------- | --------------------------------------------------- | -------------- | --------------------------------------------------------------------------- | ------ |
-| Louis Armstrong                          | Vol. 2 New York - Chicago 1923-1946                 | 1930-10-09     | disc 2, track 9                                                             | Y      |
-| Benny Goodman Trio                       | The Complete RCA Victor Small Group Recordings      | 1935-07-13     | disc 1, tracks 3 and 4 (takes 1 and 2)                                      | Y      |
-| Benny Goodman Trio                       | The Smithsonian Collection of Classic Jazz          | 1935-07-13     | disc 2, track 7; same recording as the RCA set                              | Y      |
-| Django Reinhardt                         | The Classic Early Recordings in Chronological Order | 1937-04-22     | disc 5, track 9; recording date to be added                                 | N      |
-| Benny Goodman                            | Live at Carnegie Hall                               | 1938-01-16     |                                                                             | N      |
-| Coleman Hawkins                          | The Body and Soul of the Saxophone                  | 1939-10-11     | track 1                                                                     | Y      |
-| Coleman Hawkins                          | The Smithsonian Collection of Classic Jazz          | 1939-10-11     | disc 2, track 8; same recording as the Body and Soul of the Saxophone track | Y      |
-| Lester Young                             | The Lester Young Story                              | 1942-07-15     | disc 2, track 17                                                            | N      |
-| Duke Ellington                           | Indiana Live Session - June 1945                    | 1945-06        |                                                                             | N      |
-| Red Norvo and Stan Getz                  | The Smithsonian Collection of Classic Jazz          | 1947-06-23     | disc 4, track 3; excerpt from Gene Norman's "Just Jazz"                     | N      |
-| Louis Armstrong and His All-Stars        | Satchmo at Symphony Hall                            | 1947-11-30     | side B, track 4                                                             | N      |
-| Art Tatum                                | The Art Tatum Discoveries                           | 1956           | side A, track 3; private party near the end of his life                     | N      |
-| Charles Mingus                           | Incarnations                                        | 1960-11-11     | side B, track 3                                                             | N      |
-| Charles Mingus                           | Reincarnations                                      | 1960-11-11     | side B, track 2 (take 2)                                                    | N      |
-| Gerry Mulligan and the Concert Jazz Band | At the Village Vanguard                             | 1960-12-11     | side A, track 2                                                             | N      |
-| Benny Carter and His Orchestra           | Further Definitions                                 | 1961-11-13/15  |                                                                             | N      |
-| Sarah Vaughan                            | Live at Laren Jazz Festival 1975                    | 1975-08-05     | side D, track 2 (in a medley)                                               | N      |
-| Pharoah Sanders                          | The Complete Pharoah Sanders Theresa Recordings     | 1981           | disc 5, track 2 (from Shukuru)                                              | N      |
-| Joshua Redman                            | Joshua Redman                                       | 1992-05-27     | track 6                                                                     | N      |
+| Artist                                   | Album                                               | Format | Recording date | Notes                                                                       | Gioia? |
+| ---------------------------------------- | --------------------------------------------------- | ------ | -------------- | --------------------------------------------------------------------------- | ------ |
+| Louis Armstrong                          | Vol. 2 New York - Chicago 1923-1946                 | CD     | 1930-10-09     | disc 2, track 9                                                             | Y      |
+| Benny Goodman Trio                       | The Complete RCA Victor Small Group Recordings      | 3xCD   | 1935-07-13     | disc 1, tracks 3 and 4 (takes 1 and 2)                                      | Y      |
+| Benny Goodman Trio                       | The Smithsonian Collection of Classic Jazz          | 5xCD   | 1935-07-13     | disc 2, track 7; same recording as the RCA set                              | Y      |
+| Django Reinhardt                         | The Classic Early Recordings in Chronological Order | 5xCD   | 1937-04-22     | disc 5, track 9; recording date to be added                                 | N      |
+| Benny Goodman                            | Live at Carnegie Hall                               | LP     | 1938-01-16     |                                                                             | N      |
+| Coleman Hawkins                          | The Body and Soul of the Saxophone                  | CD     | 1939-10-11     | track 1                                                                     | Y      |
+| Coleman Hawkins                          | The Smithsonian Collection of Classic Jazz          | 5xCD   | 1939-10-11     | disc 2, track 8; same recording as the Body and Soul of the Saxophone track | Y      |
+| Lester Young                             | The Lester Young Story                              | 4xCD   | 1942-07-15     | disc 2, track 17                                                            | N      |
+| Duke Ellington                           | Indiana Live Session - June 1945                    | LP     | 1945-06        |                                                                             | N      |
+| Red Norvo and Stan Getz                  | The Smithsonian Collection of Classic Jazz          | 5xCD   | 1947-06-23     | disc 4, track 3; excerpt from Gene Norman's "Just Jazz"                     | N      |
+| Louis Armstrong and His All-Stars        | Satchmo at Symphony Hall                            | LP     | 1947-11-30     | side B, track 4                                                             | N      |
+| Art Tatum                                | The Art Tatum Discoveries                           | LP     | 1956           | side A, track 3; private party near the end of his life                     | N      |
+| Charles Mingus                           | Incarnations                                        | LP     | 1960-11-11     | side B, track 3                                                             | N      |
+| Charles Mingus                           | Reincarnations                                      | LP     | 1960-11-11     | side B, track 2 (take 2)                                                    | N      |
+| Gerry Mulligan and the Concert Jazz Band | At the Village Vanguard                             | LP     | 1960-12-11     | side A, track 2                                                             | N      |
+| Benny Carter and His Orchestra           | Further Definitions                                 | LP     | 1961-11-13/15  |                                                                             | N      |
+| Sarah Vaughan                            | Live at Laren Jazz Festival 1975                    | LP     | 1975-08-05     | side D, track 2 (in a medley)                                               | N      |
+| Pharoah Sanders                          | The Complete Pharoah Sanders Theresa Recordings     | 7xCD   | 1981           | disc 5, track 2 (from Shukuru)                                              | N      |
+| Joshua Redman                            | Joshua Redman                                       | CD     | 1992-05-27     | track 6                                                                     | N      |
 ## Targeted acquisitions
 
 | Artist                          | Album                                             | Recording date        | Notes                                                        |

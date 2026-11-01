@@ -5,12 +5,12 @@ first recording: Milt Jackson, 1952-04-07
 ---
 ## Current holdings
 
-| Artist                  | Album                                                | Recording date | Notes                                                                    | Gioia? |
-| ----------------------- | ---------------------------------------------------- | -------------- | ------------------------------------------------------------------------ | ------ |
-| Thelonious Monk         | The Smithsonian Collection of Classic Jazz           | 1954-12-24     | disc 4, track 9; Monk's solo only, edited from the Miles Davis recording | Y      |
-| The Modern Jazz Quartet | European Concert                                     | 1960-04        |                                                                          | N      |
-| Kenny Dorham            | Blue Bossa in the Bronx (Live from the Blue Morocco) | 1967           | recording date to be added                                               | N      |
-| The Modern Jazz Quartet | The Last Concert                                     | 1974-11-25     |                                                                          | Y      |
+| Artist                  | Album                                                | Format | Recording date | Notes                                                                    | Gioia? |
+| ----------------------- | ---------------------------------------------------- | ------ | -------------- | ------------------------------------------------------------------------ | ------ |
+| Thelonious Monk         | The Smithsonian Collection of Classic Jazz           | 5xCD   | 1954-12-24     | disc 4, track 9; Monk's solo only, edited from the Miles Davis recording | Y      |
+| The Modern Jazz Quartet | European Concert                                     | LP     | 1960-04        |                                                                          | N      |
+| Kenny Dorham            | Blue Bossa in the Bronx (Live from the Blue Morocco) | LP     | 1967           | recording date to be added                                               | N      |
+| The Modern Jazz Quartet | The Last Concert                                     | LP     | 1974-11-25     |                                                                          | Y      |
 ## Targeted acquisitions
 
 | Artist                  | Album                                        | Recording date  | Notes                                                                                                                    |

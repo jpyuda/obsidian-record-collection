@@ -5,11 +5,11 @@ first recording: Sonny Rollins, 1956-06-22
 ---
 ## Current holdings
 
-| Artist                | Album                                              | Recording date | Notes                                                                                                                                          | Gioia? |
-| --------------------- | -------------------------------------------------- | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| Sonny Rollins         | Saxophone Colossus and More                        | 1956-06-22     | disc 1, side B, track 1 (6:45); with Tommy Flanagan; Hackensack, New Jersey; Prestige two-LP compilation (1975), drawn from Saxophone Colossus | Y      |
-| Sonny Rollins         | Freedom Weaver (The 1959 European Tour Recordings) | 1959-03-02     | side A, track 1 (7:32); 1959 European tour; Resonance (2024); recording date to be added                                                       | N      |
-| Joshua Redman Quartet | Spirit of the Moment: Live at the Village Vanguard | 1995-03        | disc 1, track 7 (12:14); live at the Village Vanguard, New York; Warner Bros. (1995, CD)                                                       | N      |
+| Artist                | Album                                              | Format | Recording date | Notes                                                                                                                                          | Gioia? |
+| --------------------- | -------------------------------------------------- | ------ | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| Sonny Rollins         | Saxophone Colossus and More                        | LP     | 1956-06-22     | disc 1, side B, track 1 (6:45); with Tommy Flanagan; Hackensack, New Jersey; Prestige two-LP compilation (1975), drawn from Saxophone Colossus | Y      |
+| Sonny Rollins         | Freedom Weaver (The 1959 European Tour Recordings) | 4xLP   | 1959-03-02     | side A, track 1 (7:32); 1959 European tour; Resonance (2024); recording date to be added                                                       | N      |
+| Joshua Redman Quartet | Spirit of the Moment: Live at the Village Vanguard | CD     | 1995-03        | disc 1, track 7 (12:14); live at the Village Vanguard, New York; Warner Bros. (1995, CD)                                                       | N      |
 ## Targeted acquisitions
 
 | Artist                              | Album                      | Recording date        | Notes                                                                                                                           |

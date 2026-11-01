@@ -5,11 +5,11 @@ first recording: Cal Tjader Sextet (with Mongo Santamaría), 1959-04-20
 ---
 ## Current holdings
 
-| Artist                    | Album                | Recording date | Notes                                                                             |
-| ------------------------- | -------------------- | -------------- | --------------------------------------------------------------------------------- |
-| Abbey Lincoln             | Abbey Is Blue        | 1959           | with Max Roach and the Turrentine brothers                                        |
-| John Coltrane             | 1963: New Directions | 1963-10-08     | side J, track 1; live at Birdland, New York; same performance as Live at Birdland |
-| Robert Glasper Experiment | Black Radio          | 2012           | side A, track 2; with Erykah Badu; released 2012                                  |
+| Artist                    | Album                | Format | Recording date | Notes                                                                             |
+| ------------------------- | -------------------- | ------ | -------------- | --------------------------------------------------------------------------------- |
+| Abbey Lincoln             | Abbey Is Blue        | LP     | 1959           | with Max Roach and the Turrentine brothers                                        |
+| John Coltrane             | 1963: New Directions | 5xLP   | 1963-10-08     | side J, track 1; live at Birdland, New York; same performance as Live at Birdland |
+| Robert Glasper Experiment | Black Radio          | LP     | 2012           | side A, track 2; with Erykah Badu; released 2012                                  |
 ## Targeted acquisitions
 
 | Artist              | Album                                        | Recording date         | Notes                                                                                                                                                 |

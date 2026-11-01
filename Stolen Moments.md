@@ -5,9 +5,9 @@ first recording: Oliver Nelson, 1961-02-23
 ---
 ## Current holdings
 
-| Artist        | Album                            | Recording date | Notes                                                                                                      | Gioia? |
-| ------------- | -------------------------------- | -------------- | ---------------------------------------------------------------------------------------------------------- | ------ |
-| Oliver Nelson | The Blues and the Abstract Truth | 1961-02-23     | with Eric Dolphy, Bill Evans, and Freddie Hubbard; Englewood Cliffs, New Jersey; first recording; Impulse! | Y      |
+| Artist        | Album                            | Format | Recording date | Notes                                                                                                      | Gioia? |
+| ------------- | -------------------------------- | ------ | -------------- | ---------------------------------------------------------------------------------------------------------- | ------ |
+| Oliver Nelson | The Blues and the Abstract Truth | LP     | 1961-02-23     | with Eric Dolphy, Bill Evans, and Freddie Hubbard; Englewood Cliffs, New Jersey; first recording; Impulse! | Y      |
 ## Targeted acquisitions
 
 | Artist                        | Album                               | Recording date        | Notes                                                                                                        |

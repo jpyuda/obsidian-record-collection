@@ -5,9 +5,9 @@ first recording: Duke Ellington and His Orchestra, 1967
 ---
 ## Current holdings
 
-| Artist | Album | Recording date | Notes | Gioia? |
-| ------ | ----- | -------------- | ----- | ------ |
-|        |       |                |       |        |
+| Artist | Album | Format | Recording date | Notes | Gioia? |
+| ------ | ----- | ------ | -------------- | ----- | ------ |
+|        |       |        |                |       |        |
 ## Targeted acquisitions
 
 | Artist                                  | Album                                               | Recording date                     | Notes                                                                                                                            |

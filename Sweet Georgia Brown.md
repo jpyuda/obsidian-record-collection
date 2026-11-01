@@ -5,15 +5,15 @@ first recording: Ben Bernie and His Hotel Roosevelt Orchestra, 1925-03-19
 ---
 ## Current holdings
 
-| Artist                                                      | Album                                                                                                | Recording date | Notes                                                              | Gioia? |
-| ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | -------------- | ------------------------------------------------------------------ | ------ |
-| Django Reinhardt (with the Quintette du Hot Club de France) | The Classic Early Recordings in Chronological Order                                                  | 1938-01-31     | volume 2 (The London Deccas), track 2 (3:05); London; JSP (CD box) | Y      |
-| Benny Goodman                                               | The Complete RCA Victor Small Group Recordings                                                       | 1938-10-12     | disc 3, track 10 (3:04); RCA Victor (CD)                           | N      |
-| Oscar Alemán                                                | Swing Guitar Masterpieces 1938-1957                                                                  | 1941-11-21     | disc 1, track 9 (3:11); Acoustic Disc (CD)                         | N      |
-| Benny Carter                                                | The Music Master                                                                                     | 1946-08-23     | disc 4, track 5; Proper (CD box)                                   | N      |
-| Sarah Vaughan                                               | Sassy Swings Again                                                                                   | 1967-01-23/24  | A1 (1:50); Mercury (LP)                                            | N      |
-| Norman Blake and others                                     | Norman Blake / Tut Taylor / Sam Bush / Butch Robins / Vassar Clements / David Holland / Jethro Burns | 1974-06-22     | A1 (2:53); HDS (LP)                                                | N      |
-| Stéphane Grappelli and David Grisman                        | Live                                                                                                 | 1979-09-20     | A4 (5:12); Warner Bros. (LP)                                       | N      |
+| Artist                                                      | Album                                                                                                | Format | Recording date | Notes                                                              | Gioia? |
+| ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------ | -------------- | ------------------------------------------------------------------ | ------ |
+| Django Reinhardt (with the Quintette du Hot Club de France) | The Classic Early Recordings in Chronological Order                                                  | 5xCD   | 1938-01-31     | volume 2 (The London Deccas), track 2 (3:05); London; JSP (CD box) | Y      |
+| Benny Goodman                                               | The Complete RCA Victor Small Group Recordings                                                       | 3xCD   | 1938-10-12     | disc 3, track 10 (3:04); RCA Victor (CD)                           | N      |
+| Oscar Alemán                                                | Swing Guitar Masterpieces 1938-1957                                                                  | 2xCD   | 1941-11-21     | disc 1, track 9 (3:11); Acoustic Disc (CD)                         | N      |
+| Benny Carter                                                | The Music Master                                                                                     | 4xCD   | 1946-08-23     | disc 4, track 5; Proper (CD box)                                   | N      |
+| Sarah Vaughan                                               | Sassy Swings Again                                                                                   | LP     | 1967-01-23/24  | A1 (1:50); Mercury (LP)                                            | N      |
+| Norman Blake and others                                     | Norman Blake / Tut Taylor / Sam Bush / Butch Robins / Vassar Clements / David Holland / Jethro Burns | LP     | 1974-06-22     | A1 (2:53); HDS (LP)                                                | N      |
+| Stéphane Grappelli and David Grisman                        | Live                                                                                                 | LP     | 1979-09-20     | A4 (5:12); Warner Bros. (LP)                                       | N      |
 
 ## Targeted acquisitions
 

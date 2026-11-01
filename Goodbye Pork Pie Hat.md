@@ -5,11 +5,11 @@ first recording: Charles Mingus, 1959-05-12
 ---
 ## Current holdings
 
-| Artist         | Album                                    | Recording date         | Notes                                                                                                                                                | Gioia? |
-| -------------- | ---------------------------------------- | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| Charles Mingus | Better Git It In Your Soul               | 1959-05-12             | disc 1, side A, track 2 (4:48); the edited original-LP version from Mingus Ah Um; Columbia 30th Street Studio, New York; Columbia compilation (1971) | Y      |
-| Charles Mingus | Mingus Mingus Mingus Mingus Mingus       | 1963-01-20; 1963-09-20 | side B, track 2, titled "Theme for Lester Young"; same tune; album dates; track not dated; New York; Impulse!                                        | N      |
-| Charles Mingus | In Argentina (The Buenos Aires Concerts) | 1977-06-02/1977-06-03  | side A, track 2 (7:27); Buenos Aires; two venues; track not dated; Resonance                                                                         | N      |
+| Artist         | Album                                    | Format | Recording date         | Notes                                                                                                                                                | Gioia? |
+| -------------- | ---------------------------------------- | ------ | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| Charles Mingus | Better Git It In Your Soul               | LP     | 1959-05-12             | disc 1, side A, track 2 (4:48); the edited original-LP version from Mingus Ah Um; Columbia 30th Street Studio, New York; Columbia compilation (1971) | Y      |
+| Charles Mingus | Mingus Mingus Mingus Mingus Mingus       | LP     | 1963-01-20; 1963-09-20 | side B, track 2, titled "Theme for Lester Young"; same tune; album dates; track not dated; New York; Impulse!                                        | N      |
+| Charles Mingus | In Argentina (The Buenos Aires Concerts) | LP     | 1977-06-02/1977-06-03  | side A, track 2 (7:27); Buenos Aires; two venues; track not dated; Resonance                                                                         | N      |
 ## Targeted acquisitions
 
 | Artist                       | Album                         | Recording date        | Notes                                                                                       |
