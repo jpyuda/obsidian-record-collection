@@ -25,13 +25,13 @@ first recording: Cootie Williams, 1944-08-22
 | Dexter Gordon                      | Homecoming: Live at the Village Vanguard        | 1976-12-11/12  |                                             | Y      |
 ## Targeted acquisitions
 
-| Artist          | Album                                                   | Recording date         | Notes                                                                    |
-| --------------- | ------------------------------------------------------- | ---------------------- | ------------------------------------------------------------------------ |
-| Cootie Williams | Echoes of Harlem (Topaz) _or_ 1941-1944 (Jazz Archives) | 1944-08-22             | New York                                                                 |
-| Miles Davis     | 'Round About Midnight                                   | 1956-09-10             | New York                                                                 |
-| Barry Harris    | Chasin' the Bird                                        | 1962-05-31; 1962-08-23 | New York                                                                 |
-| Betty Carter    | 'Round Midnight                                         | 1962-12-06             | with an arrangement by Oliver Nelson; New York                           |
-| Sarah Vaughan   | Sarah Sings Soulfully                                   | 1963-05-29             | Los Angeles                                                              |
-| Wayne Shorter   | Jazz at the Opera House                                 | 1982-02-22             | with Herbie Hancock; live at the War Memorial Opera House, San Francisco |
-| Bobby McFerrin  | 'Round Midnight (soundtrack)                            | 1985-08-20/21          | with Herbie Hancock; Paris                                               |
-| James Carter    | The Real Quietstorm                                     | 1994-10/1994-11        | New York                                                                 |
+| Artist          | Album                           | Recording date         | Notes                                                                    |
+| --------------- | ------------------------------- | ---------------------- | ------------------------------------------------------------------------ |
+| Cootie Williams | Echoes of Harlem (Topaz/Pearl)  | 1944-08-22             | New York                                                                 |
+| Miles Davis     | 'Round About Midnight           | 1956-09-10             | New York                                                                 |
+| Barry Harris    | Chasin' the Bird                | 1962-05-31; 1962-08-23 | New York                                                                 |
+| Betty Carter    | 'Round Midnight                 | 1962-12-06             | with an arrangement by Oliver Nelson; New York                           |
+| Sarah Vaughan   | Sarah Sings Soulfully           | 1963-05-29             | Los Angeles                                                              |
+| Wayne Shorter   | Jazz at the Opera House         | 1982-02-22             | with Herbie Hancock; live at the War Memorial Opera House, San Francisco |
+| Bobby McFerrin  | 'Round Midnight (soundtrack)    | 1985-08-20/21          | with Herbie Hancock; Paris                                               |
+| James Carter    | The Real Quietstorm             | 1994-10/1994-11        | New York                                                                 |

@@ -29,11 +29,11 @@ first recording: Sarah Vaughan, 1944
 | The Modern Jazz Quartet            | The Last Concert                                      | 1974-11-25     |                                                                                 | N      |
 ## Targeted acquisitions
 
-| Artist                             | Album                                                                                                                 | Recording date | Notes                                                                                    |
-| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------- | -------------- | ---------------------------------------------------------------------------------------- |
-| Sarah Vaughan                      | Young Sassy (Proper) _or_ The Divine One (ASV/Living Era) | 1944-12-31     | released as "Interlude" or "Love Was Just an Interlude"; New York                        |
-| Charlie Parker and Dizzy Gillespie | Town Hall, New York City, June 22, 1945 (Uptown)                                                                      | 1945-06-22     | live at Town Hall, New York                                                              |
-| Fats Navarro                       | The Fats Navarro Story (Proper)                                                                                       | 1950-06-30     | live at Birdland, New York; amateur recording with poor sound; Art Blakey is the drummer |
-| Clifford Brown                     | The Beginning and the End                                                                                             | 1955-05-31     | live at Music City, Philadelphia                                                         |
-| Mary Lou Williams                  | Live at the Keystone Korner                                                                                           | 1977-05-08     | live at the Keystone Korner, San Francisco                                               |
-| Donald Harrison                    | Real Life Stories                                                                                                     | 2001-11-04/06  | with Christian Scott; New York                                                           |
+| Artist                             | Album                                            | Recording date | Notes                                                                                    |
+| ---------------------------------- | ------------------------------------------------ | -------------- | ---------------------------------------------------------------------------------------- |
+| Sarah Vaughan                      | Young Sassy (Proper)                             | 1944-12-31     | released as "Interlude" or "Love Was Just an Interlude"; New York                        |
+| Charlie Parker and Dizzy Gillespie | Town Hall, New York City, June 22, 1945 (Uptown) | 1945-06-22     | live at Town Hall, New York                                                              |
+| Fats Navarro                       | The Fats Navarro Story (Proper)                  | 1950-06-30     | live at Birdland, New York; amateur recording with poor sound; Art Blakey is the drummer |
+| Clifford Brown                     | The Beginning and the End                        | 1955-05-31     | live at Music City, Philadelphia                                                         |
+| Mary Lou Williams                  | Live at the Keystone Korner                      | 1977-05-08     | live at the Keystone Korner, San Francisco                                               |
+| Donald Harrison                    | Real Life Stories                                | 2001-11-04/06  | with Christian Scott; New York                                                           |

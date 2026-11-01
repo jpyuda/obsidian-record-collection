@@ -28,16 +28,16 @@ first recording:
 | Joshua Redman                            | Joshua Redman                                       | 1992-05-27     | track 6                                                                     | N      |
 ## Targeted acquisitions
 
-| Artist                          | Album                                                          | Recording date        | Notes                                                        |
-| ------------------------------- | -------------------------------------------------------------- | --------------------- | ------------------------------------------------------------ |
-| Chu Berry and Roy Eldridge      | A Giant of the Tenor Sax (Commodore) _or_ 1937-1941 (Classics) | 1938-11-10            | New York; the reissue is not verified                        |
-| Billie Holiday                  | Lady Day: The Master Takes and Singles (Columbia)              | 1940-02-29            | New York; disc 6, track 10; 10-CD Columbia/Legacy box (2001) |
-| Art Tatum                       | God Is in the House                                            | 1941-07-26            | live at Gee-Haw Stables, New York                            |
-| Charlie Parker                  | The Complete "Birth of the Bebop" (Stash)                      | 1943-02-28            | Redcross jam session, Savoy Hotel, Chicago                   |
-| John Coltrane                   | Coltrane's Sound                                               | 1960-10-24            | with McCoy Tyner; New York                                   |
-| Thelonious Monk                 | Monk in Italy                                                  | 1961-04-21            | live at Teatro Lirico, Milan                                 |
-| Freddie Hubbard                 | Here to Stay                                                   | 1962-12-27            | with Wayne Shorter; Englewood Cliffs, New Jersey             |
-| David Murray                    | Morning Song                                                   | 1983-09-25/1983-09-30 | New York                                                     |
-| Joe Lovano                      | From the Soul                                                  | 1991-12-28            | with Michel Petrucciani; New York                            |
-| Jason Moran                     | The Bandwagon                                                  | 2002-11-29/2002-11-30 | New York                                                     |
-| Keith Jarrett and Charlie Haden | Jasmine                                                        | 2007-03               | Oxford, New Jersey                                           |
+| Artist                          | Album                                             | Recording date        | Notes                                                        |
+| ------------------------------- | ------------------------------------------------- | --------------------- | ------------------------------------------------------------ |
+| Chu Berry and Roy Eldridge      | 1937-1941 (Classics)                              | 1938-11-10            | New York                                                     |
+| Billie Holiday                  | Lady Day: The Master Takes and Singles (Columbia) | 1940-02-29            | New York; disc 6, track 10; 10-CD Columbia/Legacy box (2001) |
+| Art Tatum                       | God Is in the House                               | 1941-07-26            | live at Gee-Haw Stables, New York                            |
+| Charlie Parker                  | The Complete "Birth of the Bebop" (Stash)         | 1943-02-28            | Redcross jam session, Savoy Hotel, Chicago                   |
+| John Coltrane                   | Coltrane's Sound                                  | 1960-10-24            | with McCoy Tyner; New York                                   |
+| Thelonious Monk                 | Monk in Italy                                     | 1961-04-21            | live at Teatro Lirico, Milan                                 |
+| Freddie Hubbard                 | Here to Stay                                      | 1962-12-27            | with Wayne Shorter; Englewood Cliffs, New Jersey             |
+| David Murray                    | Morning Song                                      | 1983-09-25/1983-09-30 | New York                                                     |
+| Joe Lovano                      | From the Soul                                     | 1991-12-28            | with Michel Petrucciani; New York                            |
+| Jason Moran                     | The Bandwagon                                     | 2002-11-29/2002-11-30 | New York                                                     |
+| Keith Jarrett and Charlie Haden | Jasmine                                           | 2007-03               | Oxford, New Jersey                                           |

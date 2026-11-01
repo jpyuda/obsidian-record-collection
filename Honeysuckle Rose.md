@@ -26,9 +26,9 @@ first recording: McKinney's Cotton Pickers, 1930
 
 | Artist                        | Album                                                                                                | Recording date | Notes                                                                |
 | ----------------------------- | ---------------------------------------------------------------------------------------------------- | -------------- | -------------------------------------------------------------------- |
-| McKinney's Cotton Pickers     | 1929-1930 (Classics) _or_ Vol. 2: Cotton Picker's Scat (Frog)                                        | 1930-02-03     | New York                                                             |
+| McKinney's Cotton Pickers     | 1929-1930 (Classics)                                                                                 | 1930-02-03     | New York                                                             |
 | Fats Waller                   | 1934-1935 (Classics)                                                                                 | 1934-11-07     | New York                                                             |
-| Red Norvo                     | Dance of the Octopus (Hep) _or_ 1933-1936 (Classics) _or_ Knockin' on Wood (ASV/Living Era)          | 1935-01-25     | with Chu Berry and Teddy Wilson; New York                            |
+| Red Norvo                     | 1933-1936 (Classics)                                                                                 | 1935-01-25     | with Chu Berry and Teddy Wilson; New York                            |
 | Mildred Bailey                | The Rockin' Chair Lady (ASV/Living Era) _or_ 1932-1936 (Classics) _or_ Mrs. Swing (Proper)           | 1935-12-06     | New York                                                             |
 | Fats Waller                   | 1937 (Classics)                                                                                      | 1937-03-31     | with Tommy Dorsey, Bunny Berigan, and others; New York               |
 | Coleman Hawkins               | In Europe 1934-1939 (Jazz Up)                                                                        | 1937-04-28     | Paris                                                                |

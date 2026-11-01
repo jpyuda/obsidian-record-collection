@@ -22,13 +22,13 @@ first recording:
 | Donald Harrison, Guardians of the Flame, the Mardi Gras Indians, and Dr. John | Indian Blues                               | 1991-05-22                                   | side C, track 1 (5:56); Candid (2024)                                                                                                | N      |
 ## Targeted acquisitions
 
-| Artist                                 | Album                                                                                 | Recording date        | Notes                                                         |
-| -------------------------------------- | ------------------------------------------------------------------------------------- | --------------------- | ------------------------------------------------------------- |
-| Charlie Barnet                         | Cherokee (ASV/Living Era) _or_ Charlie Barnet Collection 1935-1947 (Acrobat/Fabulous) | 1939-07-17            | Gioia version; New York                                       |
-| Charlie Parker                         | The Complete "Birth of the Bebop"                                                     | circa 1942-09         | Gioia version; Kansas City, Missouri; probably September 1942 |
-| Don Byas                               | Savoy Jam Party: The Savoy Sessions _or_ The Don Byas Collection: 1939-61 (Acrobat)   | 1945-05-17            | Gioia version; New York                                       |
-| Bud Powell                             | Tempus Fugue-It (Proper)                                                              | 1949-01/1949-02       | Gioia version; New York                                       |
-| Stan Kenton (featuring Lennie Niehaus) | Contemporary Concepts                                                                 | 1955-07-20            | Gioia version                                                 |
-| Johnny Griffin                         | Way Out!                                                                              | 1958-02-26/1958-02-27 | Gioia version; New York                                       |
-| Lee Konitz                             | Lone-Lee                                                                              | 1974-08-15            | Gioia version; Copenhagen; Gioia calls it a long solo version |
-| Art Pepper                             | Saturday Night at the Village Vanguard                                                | 1977-07-30            | Gioia version; live at the Village Vanguard, New York         |
+| Artist                                 | Album                                      | Recording date        | Notes                                                         |
+| -------------------------------------- | ------------------------------------------ | --------------------- | ------------------------------------------------------------- |
+| Charlie Barnet                         | Cherokee (ASV/Living Era)                  | 1939-07-17            | Gioia version; New York                                       |
+| Charlie Parker                         | The Complete "Birth of the Bebop"          | circa 1942-09         | Gioia version; Kansas City, Missouri; probably September 1942 |
+| Don Byas                               | The Don Byas Collection: 1939-61 (Acrobat) | 1945-05-17            | Gioia version; New York                                       |
+| Bud Powell                             | Tempus Fugue-It (Proper)                   | 1949-01/1949-02       | Gioia version; New York                                       |
+| Stan Kenton (featuring Lennie Niehaus) | Contemporary Concepts                      | 1955-07-20            | Gioia version                                                 |
+| Johnny Griffin                         | Way Out!                                   | 1958-02-26/1958-02-27 | Gioia version; New York                                       |
+| Lee Konitz                             | Lone-Lee                                   | 1974-08-15            | Gioia version; Copenhagen; Gioia calls it a long solo version |
+| Art Pepper                             | Saturday Night at the Village Vanguard     | 1977-07-30            | Gioia version; live at the Village Vanguard, New York         |
