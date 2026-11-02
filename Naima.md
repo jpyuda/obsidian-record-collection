@@ -5,12 +5,13 @@ first recording: John Coltrane, 1959-12-02
 ---
 ## Current holdings
 
-| Artist                             | Album                                           | Format | Recording date | Notes                                                | Gioia? |
-| ---------------------------------- | ----------------------------------------------- | ------ | -------------- | ---------------------------------------------------- | ------ |
-| John Coltrane                      | Giant Steps                                     | LP     | 1959-12-02     | B2 (4:21); New York; Atlantic (LP)                   | Y      |
-| John Coltrane                      | Live at the Village Vanguard Again!             | LP     | 1966-05-28     | A1 (14:51); Impulse! Canadian pressing (LP)          | N      |
-| Carlos Santana and John McLaughlin | Love Devotion Surrender                         | LP     | 1972-10        | A2 (3:09); New York; CBS UK pressing (LP)            | Y      |
-| Pharoah Sanders                    | The Complete Pharoah Sanders Theresa Recordings | 7xCD   | 1982-01-23     | disc 4 (Heart Is A Melody), track 5; Mosaic (CD box) | N      |
+| Artist                             | Album                                           | Format | Recording date | Notes                                                    | Gioia? |
+| ---------------------------------- | ----------------------------------------------- | ------ | -------------- | -------------------------------------------------------- | ------ |
+| John Coltrane                      | Giant Steps                                     | LP     | 1959-12-02     | B2 (4:21); New York; Atlantic (LP)                       | Y      |
+| John Coltrane                      | Live at the Village Vanguard Again!             | LP     | 1966-05-28     | A1 (14:51); Impulse! Canadian pressing (LP)              | N      |
+| Carlos Santana and John McLaughlin | Love Devotion Surrender                         | LP     | 1972-10        | A2 (3:09); New York; CBS UK pressing (LP)                | Y      |
+| Pharoah Sanders                    | The Complete Pharoah Sanders Theresa Recordings | 7xCD   | 1982-01-23     | disc 4 (Heart Is A Melody), track 5; Mosaic (CD box)     | N      |
+| Brother Jack McDuff                | Lift Every Voice and Sing                       | LP     |                | A2 (10:27); recording date to be added; Jam Records (LP) | N      |
 
 ## Targeted acquisitions
 

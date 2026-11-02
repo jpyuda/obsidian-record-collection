@@ -18,6 +18,7 @@ first recording: Sarah Vaughan, 1944
 | Dizzy Gillespie                    | Afro                                                  | LP        | 1954-06-03     |                                                                                 | N      |
 | Dizzy Gillespie                    | Birks Works: The Verve Big-Band Sessions              | CD        | 1956-06-06     |                                                                                 | N      |
 | Sonny Rollins                      | A Night at the Village Vanguard: The Complete Masters | LP        | 1957-11-03     | "evening take"                                                                  | Y      |
+| Michel Legrand and Miles Davis     | Legrand Jazz                                          | LP        | 1958           | A3; recording date to be added; Columbia (LP)                                   | N      |
 | Max Roach Quintet                  | Max Roach + Four at Newport                           | LP        | 1958-07-06     |                                                                                 | N      |
 | Art Blakey and the Jazz Messengers | Live in Scheveningen 1958                             | LP        | 1958-11-29     |                                                                                 | N      |
 | Various                            | Truly Madly Deeplee Morgan                            | 4xLP + CD | circa 1959     | Lee Morgan live jam at the Gate of Horn, Chicago; release says "probably 1959?" | N      |

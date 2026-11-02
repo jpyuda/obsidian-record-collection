@@ -26,6 +26,7 @@ first recording:
 | Sarah Vaughan                            | Live at Laren Jazz Festival 1975                    | LP     | 1975-08-05     | side D, track 2 (in a medley)                                               | N      |
 | Pharoah Sanders                          | The Complete Pharoah Sanders Theresa Recordings     | 7xCD   | 1981           | disc 5, track 2 (from Shukuru)                                              | N      |
 | Joshua Redman                            | Joshua Redman                                       | CD     | 1992-05-27     | track 6                                                                     | N      |
+| Oscar Peterson                           | Exclusively for My Friends                          | 2xLP   |                | A3; recording date to be added; MPS                                         | N      |
 ## Targeted acquisitions
 
 | Artist                          | Album                                             | Recording date        | Notes                                                        |
