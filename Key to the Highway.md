@@ -21,7 +21,7 @@ first recording: Charlie Segar, 1940-02-23
 | Charlie Segar              | Key to the Highway (Vocalion single) | 1940-02-23     | first recording; Chicago; look for a compilation                                                                 |
 | Jazz Gillum                | Key to the Highway (Bluebird B 8529) | 1940-05-09     | with Big Bill Broonzy on guitar; the eight-bar arrangement became the standard                                   |
 | Big Bill Broonzy           | Key to the Highway (OKeh 6242)       | 1941-05-02     | Jazz Gillum plays harmonica                                                                                      |
-| Little Walter              | Key to the Highway (single)          | 1958-08        | reached #6 on the R&B chart; you own *The Blues World of Little Walter*, so check whether it includes this track |
+| Little Walter              | Key to the Highway (single)          | 1958-08        | reached #6 on the R&B chart; your *Blues World of Little Walter* LP does not include this track |
 | Eric Clapton               | Eric Clapton's Rainbow Concert       | 1973           | live; included on the 1995 remastered edition                                                                    |
 | B.B. King and Eric Clapton | Riding with the King                 | 2000           |                                                                                                                  |
 
