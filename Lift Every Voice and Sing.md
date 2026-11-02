@@ -8,9 +8,10 @@ first recording: Manhattan Harmony Four, 1923
 
 ## Current holdings
 
-| Artist              | Album                     | Format | Recording date | Notes                                                    |
-| ------------------- | ------------------------- | ------ | -------------- | -------------------------------------------------------- |
-| Brother Jack McDuff | Lift Every Voice and Sing | LP     |                | B1; Jam Records; title track; recording date to be added |
+| Artist              | Album                                | Format | Recording date | Notes                                                    |
+| ------------------- | ------------------------------------ | ------ | -------------- | -------------------------------------------------------- |
+| Brother Jack McDuff | Lift Every Voice and Sing            | LP     |                | B1; Jam Records; title track; recording date to be added |
+| Charles Lloyd       | The Sky Will Still Be There Tomorrow | 2xLP   |                | D2 (2:41); Blue Note (2024); recording date to be added  |
 
 ## Targeted acquisitions
 

@@ -7,10 +7,11 @@ first recording: Big Joe Williams, 1935-10-31
 
 ## Current holdings
 
-| Artist       | Album                        | Format | Recording date | Notes                                 |
-| ------------ | ---------------------------- | ------ | -------------- | ------------------------------------- |
-| Muddy Waters | Rolling Stone                | LP     | 1953           | B2; Chess (1984)                      |
-| Muddy Waters | Muddy Waters at Newport 1960 | LP     | 1960-07-03     | A3; live at the Newport Jazz Festival |
+| Artist       | Album                        | Format | Recording date | Notes                                                      |
+| ------------ | ---------------------------- | ------ | -------------- | ---------------------------------------------------------- |
+| Muddy Waters | Rolling Stone                | LP     | 1953           | B2; Chess (1984)                                           |
+| Muddy Waters | Muddy Waters at Newport 1960 | LP     | 1960-07-03     | A3; live at the Newport Jazz Festival                      |
+| Willie Green | Zydeco (The Early Years)     | CD     |                | track 13; Arhoolie compilation; recording date to be added |
 
 ## Targeted acquisitions
 

@@ -7,9 +7,10 @@ first recording: Robert Petway, 1941-03-28
 
 ## Current holdings
 
-| Artist       | Album         | Format | Recording date | Notes                                                         |
-| ------------ | ------------- | ------ | -------------- | ------------------------------------------------------------- |
-| Muddy Waters | Rolling Stone | LP     | 1950-02        | B1, "Rollin' Stone (Unreleased Alternate Take)"; Chess (1984) |
+| Artist       | Album              | Format | Recording date | Notes                                                               |
+| ------------ | ------------------ | ------ | -------------- | ------------------------------------------------------------------- |
+| Muddy Waters | Rolling Stone      | LP     | 1950-02        | B1, "Rollin' Stone (Unreleased Alternate Take)"; Chess (1984)       |
+| Mose Allison | The Word From Mose | LP     |                | B1, as "Rollin' Stone"; Atlantic (1964); recording date to be added |
 
 ## Targeted acquisitions
 

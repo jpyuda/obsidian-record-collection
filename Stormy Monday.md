@@ -7,10 +7,11 @@ first recording: T-Bone Walker, 1947-09-13
 
 ## Current holdings
 
-| Artist                   | Album            | Format | Recording date | Notes                                                               |
-| ------------------------ | ---------------- | ------ | -------------- | ------------------------------------------------------------------- |
-| T-Bone Walker            | T-Bone Blues     | LP     | 1956           | A4, as "Stormy Monday Blues"; Atlantic reissue (2025) with bonus EP |
-| The Allman Brothers Band | At Fillmore East | LP     | 1971-03-12/13  | live at the Fillmore East, New York                                 |
+| Artist                   | Album                         | Format | Recording date | Notes                                                               |
+| ------------------------ | ----------------------------- | ------ | -------------- | ------------------------------------------------------------------- |
+| T-Bone Walker            | T-Bone Blues                  | LP     | 1956           | A4, as "Stormy Monday Blues"; Atlantic reissue (2025) with bonus EP |
+| T-Bone Walker            | Ann Arbor Blues Festival 1969 | 2xCD   | 1969-08        | tracks 2 to 5 per Discogs; live; disc number to be verified         |
+| The Allman Brothers Band | At Fillmore East              | LP     | 1971-03-12/13  | live at the Fillmore East, New York                                 |
 
 ## Targeted acquisitions
 

@@ -7,10 +7,13 @@ first recording: Mississippi Sheiks, 1930-02-17
 
 ## Current holdings
 
-| Artist             | Album               | Format | Recording date | Notes                                                                                     |
-| ------------------ | ------------------- | ------ | -------------- | ----------------------------------------------------------------------------------------- |
-| Mississippi Sheiks | Volume 2            | LP     |                | A7, as "Sitting on Top of the World No. 2"; Third Man Records; recording date to be added |
-| Howlin' Wolf       | The Real Folk Blues | LP     |                | A4; Chess (1987); recording date to be added                                              |
+| Artist                           | Album                                                           | Format | Recording date | Notes                                                                                     |
+| -------------------------------- | --------------------------------------------------------------- | ------ | -------------- | ----------------------------------------------------------------------------------------- |
+| Mississippi Sheiks               | Volume 2                                                        | LP     |                | A7, as "Sitting on Top of the World No. 2"; Third Man Records; recording date to be added |
+| Howlin' Wolf                     | The Real Folk Blues                                             | LP     |                | A4; Chess (1987); recording date to be added                                              |
+| Doc Watson                       | Classic Bluegrass Vol. 2 (From Smithsonian Folkways Recordings) | CD     |                | track 23; compilation; artist credit per your note; recording date to be added            |
+| John Hartford                    | Morning Bugle                                                   | LP     |                | D6; recording date to be added                                                            |
+| Bob Wills and His Texas Playboys | The Bob Wills Anthology                                         | 2xLP   |                | A6, as "Sittin' on Top of the World"; Columbia (1973); recording date to be added         |
 
 ## Targeted acquisitions
 

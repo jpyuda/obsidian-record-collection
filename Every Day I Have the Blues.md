@@ -7,10 +7,11 @@ first recording: Pinetop Sparks, 1935-07-28
 
 ## Current holdings
 
-| Artist    | Album                    | Format | Recording date | Notes           |
-| --------- | ------------------------ | ------ | -------------- | --------------- |
-| B.B. King | Live at the Regal        | LP     | 1964-11-21     | A1; ABC Records |
-| B.B. King | Live in Cook County Jail | LP     | 1970-09-10     | A2              |
+| Artist            | Album                    | Format | Recording date | Notes                                  |
+| ----------------- | ------------------------ | ------ | -------------- | -------------------------------------- |
+| B.B. King         | Live at the Regal        | LP     | 1964-11-21     | A1; ABC Records                        |
+| B.B. King         | Live in Cook County Jail | LP     | 1970-09-10     | A2                                     |
+| Lightnin' Hopkins | A Legend in His Own Time | LP     |                | B4; United; recording date to be added |
 
 ## Targeted acquisitions
 

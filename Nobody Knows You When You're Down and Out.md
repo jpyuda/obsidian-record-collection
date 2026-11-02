@@ -7,17 +7,18 @@ first recording: Bessie Smith, 1929 (per Wikipedia's list of blues standards)
 
 ## Current holdings
 
-| Artist       | Album                      | Format | Recording date | Notes                    |
-| ------------ | -------------------------- | ------ | -------------- | ------------------------ |
-| Bessie Smith | The Essential Bessie Smith | 2xCD   | 1929           | disc 2, track 9          |
-| Nina Simone  | Pastel Blues               | LP     | 1965           | A2; Verve reissue (2020) |
+| Artist                | Album                               | Format | Recording date | Notes                                       |
+| --------------------- | ----------------------------------- | ------ | -------------- | ------------------------------------------- |
+| Bessie Smith          | The Essential Bessie Smith          | 2xCD   | 1929           | disc 2, track 9                             |
+| Nina Simone           | Pastel Blues                        | LP     | 1965           | A2; Verve reissue (2020)                    |
+| Derek and the Dominos | Layla and Other Assorted Love Songs | 2xLP   | 1970           | A4 (4:58); RSO (1984) pressing              |
+| Otis Redding          | The Dock of the Bay                 | LP     |                | B5; Volt (1968); recording date to be added |
 
 ## Targeted acquisitions
 
-| Artist                | Album                               | Recording date | Notes               |
-| --------------------- | ----------------------------------- | -------------- | ------------------- |
-| Derek and the Dominos | Layla and Other Assorted Love Songs | 1970           | from memory; verify |
-| Eric Clapton          | Unplugged                           | 1992-01-16     | from memory; verify |
+| Artist       | Album     | Recording date | Notes               |
+| ------------ | --------- | -------------- | ------------------- |
+| Eric Clapton | Unplugged | 1992-01-16     | from memory; verify |
 
 ## Notes
 

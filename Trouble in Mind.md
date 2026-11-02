@@ -7,10 +7,15 @@ first recording: Thelma La Vizzo with Richard M. Jones, 1924-05-15
 
 ## Current holdings
 
-| Artist                    | Album                       | Format | Recording date | Notes                                         |
-| ------------------------- | --------------------------- | ------ | -------------- | --------------------------------------------- |
-| Nina Simone               | Pastel Blues                | LP     | 1965           | A4; Verve reissue (2020)                      |
-| Little Brother Montgomery | Chicago: The Living Legends | LP     |                | B3; Ace (Germany); recording date to be added |
+| Artist                    | Album                                                         | Format | Recording date | Notes                                                                          |
+| ------------------------- | ------------------------------------------------------------- | ------ | -------------- | ------------------------------------------------------------------------------ |
+| Otis Spann                | Portrait in Blues Vol. 3                                      | LP     | 1964           | A6; Storyville (France)                                                        |
+| Nina Simone               | Pastel Blues                                                  | LP     | 1965           | A4; Verve reissue (2020)                                                       |
+| Little Brother Montgomery | Chicago: The Living Legends                                   | LP     |                | B3; Ace (Germany); recording date to be added                                  |
+| Yusef Lateef              | Jazz 'Round the World                                         | LP     |                | B1; Impulse!; recording date to be added                                       |
+| Roscoe Holcomb            | Classic Old-time Music (From Smithsonian Folkways Recordings) | CD     |                | track 11; compilation; artist credit per your note; recording date to be added |
+| Jimmy Witherspoon         | The 'Spoon Concerts                                           | 2xLP   |                | B4; Fantasy (1972); live; recording date to be added                           |
+| Big Joe Turner            | Rhythm & Blues Years                                          | 2xLP   |                | C2; Atlantic (1986); recording date to be added                                |
 
 ## Targeted acquisitions
 

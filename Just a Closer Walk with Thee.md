@@ -8,8 +8,9 @@ first recording: Selah Jubilee Singers, 1941-10-08
 
 ## Current holdings
 
-| Artist | Album | Format | Recording date | Notes |
-| ------ | ----- | ------ | -------------- | ----- |
+| Artist      | Album              | Format | Recording date | Notes                        |
+| ----------- | ------------------ | ------ | -------------- | ---------------------------- |
+| Grant Green | Feelin' the Spirit | LP     | 1962-12-21     | A1; Blue Note reissue (2022) |
 
 ## Targeted acquisitions
 

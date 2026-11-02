@@ -7,8 +7,9 @@ first recording: Ma Rainey, 1924-10-16
 
 ## Current holdings
 
-| Artist | Album | Format | Recording date | Notes |
-| ------ | ----- | ------ | -------------- | ----- |
+| Artist            | Album               | Format | Recording date | Notes                                                                  |
+| ----------------- | ------------------- | ------ | -------------- | ---------------------------------------------------------------------- |
+| Jimmy Witherspoon | The 'Spoon Concerts | 2xLP   |                | A4, as "C. C. Rider"; Fantasy (1972); live; recording date to be added |
 
 ## Targeted acquisitions
 
