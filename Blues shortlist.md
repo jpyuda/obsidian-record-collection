@@ -19,16 +19,19 @@ Ranked shortlist of 12 blues songs, drafted 2026-11-01 from John's list of 11 pl
 | 6 | Catfish Blues / Rollin' Stone | Robert Petway, 1941 (Catfish Blues) | John's list | One lineage: Petway, then Muddy Waters, then Hendrix. Use one page, titled for the song you prefer. |
 | 7 | See See Rider | Ma Rainey, 1924 | Gap | Very large version count across blues, jazz, R&B, and rock. |
 | 8 | Boom Boom | John Lee Hooker, 1962 | John's list | The Detroit and boogie entry. |
-| 9 | Got My Mojo Working | Muddy Waters, 1956 | Gap | The Chicago band-blues entry. |
-| 10 | How Blue Can You Get | Not on Wikipedia's list; B.B. King's 1964 version is the best known | John's list | Jazz-adjacent writing (Leonard Feather wrote it). I need to verify the first recording. |
+| 9 | Red House | Jimi Hendrix, 1967 | John's list | A true 12-bar blues with a family connection and many covers by blues artists and others. |
+| 10 | Got My Mojo Working | Muddy Waters, 1956 | Gap | The Chicago band-blues entry. |
 | 11 | Walkin' Blues | Son House (1930 test disc), then Robert Johnson, 1936 | John's list | Keep it as the Son House and Johnson link. |
-| 12 | Little Wing | Not a blues standard (Jimi Hendrix, 1967) | John's list | A rock ballad with many jazz and blues covers. It fits only if the list covers blues-adjacent tunes. *Red House* is the 12-bar alternative. |
+
+## Cut by John
+
+- *Little Wing*: psychedelic soul, not blues.
+- *How Blue Can You Get*: B.B. King has owned the song since 1964, and few other versions exist.
 
 ## Reserve list
 
 - *Come On in My Kitchen*: a third Robert Johnson song, so it overlaps ranks 4 and 11.
 - *Stagger Lee* and *House of the Rising Sun*: folk ballads with huge version counts. They suit a separate "ballads" group more than a blues group.
-- *Red House*: the 12-bar alternative to *Little Wing*.
 - *Sweet Home Chicago*, *Key to the Highway*, *Hoochie Coochie Man*: strong Chicago and Delta candidates if any slot opens.
 
 ## Records cataloged on 2026-11-01 that touch this list
