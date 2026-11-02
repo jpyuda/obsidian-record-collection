@@ -8,8 +8,9 @@ first recording: Standard Quartette, 1894
 
 ## Current holdings
 
-| Artist | Album | Format | Recording date | Notes |
-| ------ | ----- | ------ | -------------- | ----- |
+| Artist          | Album                               | Format | Recording date | Notes                                                                                                            |
+| --------------- | ----------------------------------- | ------ | -------------- | ---------------------------------------------------------------------------------------------------------------- |
+| Dizzy Gillespie | The Dizzy Gillespie Story 1939-1950 | 4xCD   |                | disc 4, track 20 (2:52); Proper box (2001); recording date to be added; compare with the 1951 single named below |
 
 ## Targeted acquisitions
 

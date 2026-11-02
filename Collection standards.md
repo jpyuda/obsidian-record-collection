@@ -55,7 +55,7 @@ Songs from John's ranked shortlist ([[Blues shortlist]]). Each page has a `genre
 8. [[Catfish Blues (Rollin' Stone)|Catfish Blues (Rollin’ Stone)]] — Petway to Muddy Waters to Hendrix
 9. [[See See Rider]] — Ma Rainey · Blues, R&B, and rock
 10. [[Sitting on Top of the World]] — Mississippi Sheiks · String-band blues into country and rock
-11. [[Boom Boom]] — John Lee Hooker · Detroit boogie
+11. [[Key to the Highway]] — Charlie Segar · Chicago and Delta standard, eight-bar blues
 12. [[Red House]] — Jimi Hendrix · 12-bar blues with many covers
 13. [[Got My Mojo Working]] — Preston Foster to Muddy Waters · Chicago band blues
 

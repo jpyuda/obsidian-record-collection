@@ -10,7 +10,7 @@ first recording: T-Bone Walker, 1947-09-13
 | Artist                   | Album                         | Format | Recording date | Notes                                                               |
 | ------------------------ | ----------------------------- | ------ | -------------- | ------------------------------------------------------------------- |
 | T-Bone Walker            | T-Bone Blues                  | LP     | 1956           | A4, as "Stormy Monday Blues"; Atlantic reissue (2025) with bonus EP |
-| T-Bone Walker            | Ann Arbor Blues Festival 1969 | 2xCD   | 1969-08        | tracks 2 to 5 per Discogs; live; disc number to be verified         |
+| T-Bone Walker            | Ann Arbor Blues Festival 1969 | 2xCD   | 1969-08        | disc 2, track 5, as "Call It a Stormy Monday (But Tuesday Is Just as Bad)"; Third Man Records (2019); live; artist credit per your note         |
 | The Allman Brothers Band | At Fillmore East              | LP     | 1971-03-12/13  | live at the Fillmore East, New York                                 |
 
 ## Targeted acquisitions

@@ -21,12 +21,13 @@ Ranked shortlist of 12 blues songs, drafted 2026-11-01 from John's list of 11 pl
 | 8 | Catfish Blues / Rollin' Stone | Robert Petway, 1941 (Catfish Blues) | John's list | One lineage: Petway, then Muddy Waters, then Hendrix. Use one page, titled for the song you prefer. |
 | 9 | See See Rider | Ma Rainey, 1924 | Gap | Very large version count across blues, jazz, R&B, and rock. |
 | 10 | Sitting on Top of the World | Mississippi Sheiks, 1930 | Gap | Black string-band tradition; covered by Howlin' Wolf, Cream, Doc Watson, Bob Wills, and the Grateful Dead. |
-| 11 | Boom Boom | John Lee Hooker, 1962 | John's list | The Detroit and boogie entry. |
+| 11 | Key to the Highway | Charlie Segar, 1940 | Reserve list | The Chicago and Delta entry. You own four versions: Derek and the Dominos, Brownie McGhee, Warner Williams, and the Ann Arbor 1969 festival set. Replaced *Boom Boom*. |
 | 12 | Red House | Jimi Hendrix, 1967 | John's list | A true 12-bar blues with a family connection and many covers by blues artists and others. |
 | 13 | Got My Mojo Working | Muddy Waters, 1956 | Gap | The Chicago band-blues entry. |
 
 ## Cut by John
 
+- *Boom Boom*: John Lee Hooker owns the song, and the page found few distinct versions. *Key to the Highway* took its slot.
 - *Little Wing*: psychedelic soul, not blues.
 - *How Blue Can You Get*: B.B. King has owned the song since 1964, and few other versions exist.
 - *Walkin' Blues*: it overlaps *Cross Road Blues* in the Robert Johnson and Son House lineage.
@@ -35,7 +36,7 @@ Ranked shortlist of 12 blues songs, drafted 2026-11-01 from John's list of 11 pl
 
 - *Come On in My Kitchen*: a third Robert Johnson song, so it overlaps ranks 5 and 6.
 - *Stagger Lee* and *House of the Rising Sun*: folk ballads with huge version counts. They suit a separate "ballads" group more than a blues group.
-- *Sweet Home Chicago*, *Key to the Highway*, *Hoochie Coochie Man*: strong Chicago and Delta candidates if any slot opens.
+- *Sweet Home Chicago* and *Hoochie Coochie Man*: strong Chicago and Delta candidates if any slot opens.
 
 ## Records cataloged on 2026-11-01 that touch this list
 

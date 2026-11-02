@@ -8,10 +8,11 @@ first recording:
 
 ## Current holdings
 
-| Artist      | Album                                              | Format | Recording date | Notes                                                              |
-| ----------- | -------------------------------------------------- | ------ | -------------- | ------------------------------------------------------------------ |
-| Grant Green | Feelin' the Spirit                                 | LP     | 1962-12-21     | A3; Blue Note reissue (2022)                                       |
-| Various     | Gospel (Negro Spirituals / Gospel Songs 1926-1942) | 2xCD   |                | disc 2, track 10; artist and date to be added from the liner notes |
+| Artist          | Album                                              | Format | Recording date | Notes                                                                           |
+| --------------- | -------------------------------------------------- | ------ | -------------- | ------------------------------------------------------------------------------- |
+| Grant Green     | Feelin' the Spirit                                 | LP     | 1962-12-21     | A3; Blue Note reissue (2022)                                                    |
+| Various         | Gospel (Negro Spirituals / Gospel Songs 1926-1942) | 2xCD   |                | disc 2, track 10; artist and date to be added from the liner notes              |
+| Louis Armstrong | New York - Chicago 1925 - 1940                     | 2xCD   |                | disc 1, track 17 (3:10); Frémeaux & Associés (1994); recording date to be added |
 
 ## Targeted acquisitions
 
