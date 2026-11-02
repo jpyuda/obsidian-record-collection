@@ -42,3 +42,33 @@
 23. [[My Funny Valentine]]
 24. [[Naima]]
 25. [[Sweet Georgia Brown]]
+
+## Blues
+Songs from John's ranked shortlist ([[Blues shortlist]]). Each page has a `genre: blues` field.
+1. [[Stormy Monday]] — T-Bone Walker · Texas blues into jazz, soul, and rock
+2. [[Trouble in Mind]] — Richard M. Jones · Pre-war women's blues into jazz and folk
+3. [[Nobody Knows You When You're Down and Out|Nobody Knows You When You’re Down and Out]] — Jimmie Cox · Bessie Smith to Clapton
+4. [[Every Day I Have the Blues]] — Pinetop Sparks · Basie and Joe Williams, B.B. King
+5. [[Cross Road Blues]] — Robert Johnson · Delta anchor
+6. [[Dust My Broom]] — Robert Johnson to Elmore James · Electric slide template
+7. [[Baby, Please Don't Go|Baby, Please Don’t Go]] — Big Joe Williams · Delta song with Chicago and British Invasion versions
+8. [[Catfish Blues (Rollin' Stone)|Catfish Blues (Rollin’ Stone)]] — Petway to Muddy Waters to Hendrix
+9. [[See See Rider]] — Ma Rainey · Blues, R&B, and rock
+10. [[Sitting on Top of the World]] — Mississippi Sheiks · String-band blues into country and rock
+11. [[Boom Boom]] — John Lee Hooker · Detroit boogie
+12. [[Red House]] — Jimi Hendrix · 12-bar blues with many covers
+13. [[Got My Mojo Working]] — Preston Foster to Muddy Waters · Chicago band blues
+
+## Gospel
+A catch-all group: spirituals, hymns, gospel, and freedom songs ([[Gospel shortlist]]). Each page has a `genre: gospel` field and a `category` field.
+1. [[Sometimes I Feel Like a Motherless Child]] — Spiritual · Source for "Summertime"
+2. [[Amazing Grace]] — Hymn · Aretha's 1972 live recording
+3. [[Precious Lord, Take My Hand]] — Thomas Dorsey · Central gospel song
+4. [[Nobody Knows the Trouble I've Seen|Nobody Knows the Trouble I’ve Seen]] — Spiritual
+5. [[How I Got Over]] — Clara Ward · Gospel; March on Washington
+6. [[A Change Is Gonna Come]] — Sam Cooke · Freedom song
+7. [[Lift Every Voice and Sing]] — Johnson brothers, 1900 · Freedom song
+8. [[Wade in the Water]] — Spiritual · Jazz and soul versions
+9. [[Swing Low, Sweet Chariot]] — Spiritual
+10. [[Just a Closer Walk with Thee]] — Hymn · New Orleans funeral tradition
+

@@ -39,18 +39,4 @@ first recording: Abbie Mitchell, 1935-07-19
 | Greg Osby       | St. Louis Shoes                                   | 2003-01-22/23  | with Nicholas Payton; Brooklyn                                                       |
 ## Sometimes I Feel Like a Motherless Child
 
-The spiritual is often considered the source for "Summertime."
-
-### Current holdings
-
-| Artist       | Album                         | Recording date | Notes |
-| ------------ | ----------------------------- | -------------- | ----- |
-| Memphis Slim | Messin' Around with the Blues | circa 1947     |       |
-| Grant Green  | Feelin' the Spirit            | 1962-12-21     |       |
-### Targeted acquisitions
-
-| Artist                       | Album                                        | Recording date | Notes                                                               |
-| ---------------------------- | -------------------------------------------- | -------------- | ------------------------------------------------------------------- |
-| Mahalia Jackson              | Bless This House                             | 1956           | medley with "Summertime"; also listed above                         |
-| Grant Green                  | Iron City                                    | circa 1967     | live album; also on the Work Song page; released 1972 (Cobblestone) |
-| Charlie Haden and Hank Jones | Steal Away: Spirituals, Hymns and Folk Songs | 1994-06-29/30  | released 1995 on Verve                                              |
+The spiritual is often considered the source for "Summertime." It now has its own page: [[Sometimes I Feel Like a Motherless Child]].
