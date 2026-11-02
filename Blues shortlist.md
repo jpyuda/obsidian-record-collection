@@ -11,7 +11,7 @@ Ranked shortlist of 12 blues songs, drafted 2026-11-01 from John's list of 11 pl
 
 | Rank | Song | First recorded (per Wikipedia) | Source | Why it ranks here |
 | ---- | ---- | ------------------------------ | ------ | ----------------- |
-| 1 | Stormy Monday | T-Bone Walker, 1948 | John's list | Many blues, soul, and rock versions; the Texas and jazz-adjacent anchor. The new T-Bone Walker holding may contain it. |
+| 1 | Stormy Monday | T-Bone Walker, 1947 (Wikipedia's list says 1948) | John's list | Many blues, soul, and rock versions; the Texas and jazz-adjacent anchor. The new T-Bone Walker holding may contain it. |
 | 2 | Trouble in Mind | Bertha "Chippie" Hill, 1926 | Gap | Pre-war women's blues with many jazz and folk versions. Little Brother Montgomery's *Chicago: The Living Legends* (added today) includes it. |
 | 3 | Nobody Knows You When You're Down and Out | Bessie Smith, 1929 | Gap | Core pre-war women's blues with many later versions. |
 | 4 | Every Day I Have the Blues | Pinetop Sparks, 1935 | Gap | The best link to the jazz pages: Count Basie with Joe Williams, plus Lowell Fulson, Memphis Slim, and B.B. King. |
