@@ -17,5 +17,4 @@ first recording: Oliver Nelson, 1961-02-23
 | Ahmad Jamal                   | The Awakening                       | 1970-02-02/1970-02-03 | Gioia calls it his favorite of Jamal's midcareer albums; New York; Impulse!                                  |
 | Mark Murphy                   | Stolen Moments                      | 1978-06-01            | Murphy's own lyrics; San Francisco; Muse                                                                     |
 | Carmen McRae and Betty Carter | The Carmen McRae/Betty Carter Duets | 1987-01-30            | lyrics by Ann Fischer; live at The Great American Music Hall, San Francisco; Great American Music Hall label |
-| Frank Zappa and Sting         | Broadway the Hard Way               | 1988-03-03            | recorded as part of "Murder by Numbers"; live at the Auditorium Theater, Chicago; Barking Pumpkin            |
 | Joe Locke and Kenny Barron    | But Beautiful                       | 1991-08               | New York; Milestone                                                                                          |

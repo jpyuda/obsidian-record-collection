@@ -37,5 +37,4 @@ first recording: McKinney's Cotton Pickers, 1930
 | Bill Evans and Bob Brookmeyer | The Ivory Hunters                                                                                    | 1959-03-12     | New York                                                             |
 | Mary Lou Williams             | Solo Recital                                                                                         | 1978-07-16     | live at the Montreux Jazz Festival, Montreux, Switzerland            |
 | Stéphane Grappelli            | Vintage 1981                                                                                         | 1981-07        | San Francisco                                                        |
-| George Shearing               | In Dixieland                                                                                         | 1989-02        | New York                                                             |
 | Uri Caine                     | Blue Wail                                                                                            | 1997-12-01/02  | two takes, "Honeysuckle Rose #1" and "Honeysuckle Rose #2"; New York |

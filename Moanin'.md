@@ -25,7 +25,3 @@ first recording: Art Blakey and the Jazz Messengers, 1958-10-30
 | Richard "Groove" Holmes          | On Basie's Bandstand       | 1966                  | live; released 2003 (Prestige); recording year per Wikipedia; exact date to be added      |
 | Art Blakey & The Jazz Messengers | Buhaina                    | 1973-03-26/1973-03-29 | Jon Hendricks sings the vocalese version; Fantasy Studios, Berkeley, California; Prestige |
 | Benny Golson                     | That's Funky               | 1994-12-22/1994-12-23 | Funky Quintet with Nat Adderley and Monty Alexander; 39th Street Music, New York          |
-| Joey DeFrancesco                 | The Street of Dreams       |                       | released 1995 (Big Mo); reissued 2004 (Silverwolf); recording date to be added            |
-| Monty Alexander                  | Monty Meets Sly and Robbie |                       | released 2000 (Telarc); recording date to be added                                        |
-| Papa John DeFrancesco            | Hip Cake Walk              |                       | released 2001 (HighNote); recording date to be added                                      |
-| Valery Ponomarev Jazz Big Band   | Our Father Who Art Blakey  |                       | with Benny Golson, who played on the 1958 original; recording date to be added            |

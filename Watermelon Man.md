@@ -17,4 +17,3 @@ first recording: Herbie Hancock (with Dexter Gordon), 1962-05-28
 | Gerald Wilson (with Teddy Edwards)  | Feelin' Kinda Blues | 1965-12-02     | Gioia version; Los Angeles                                                                                          |
 | Erroll Garner                       | Up in Erroll's Room | 1968-03-19     | Gioia version; New York                                                                                             |
 | Buddy Guy                           | Hold That Plane     | 1970           | Gioia version; New York                                                                                             |
-| Miles Davis                         | Black Devil         | 1991-07-10     | Gioia version; live at the Grande Halle de la Villette, Paris                                                       |
