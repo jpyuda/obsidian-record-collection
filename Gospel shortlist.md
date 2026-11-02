@@ -7,7 +7,7 @@ Ranked shortlist of 10 songs for the gospel group, drafted 2026-11-01. The group
 3. The song links to existing pages or to records already in the collection.
 4. No single artist owns the song, so the page holds a range of versions.
 
-## Shortlist
+## Shortlist (final, 10 songs)
 
 | Rank | Song | Category | Origin | Why it ranks here |
 | ---- | ---- | -------- | ------ | ----------------- |
@@ -19,8 +19,13 @@ Ranked shortlist of 10 songs for the gospel group, drafted 2026-11-01. The group
 | 6 | A Change Is Gonna Come | Freedom song | Sam Cooke, 1964 | Very large version count: Aretha Franklin, Otis Redding, Al Green, and many later singers. |
 | 7 | Lift Every Voice and Sing | Freedom song | James Weldon Johnson and J. Rosamond Johnson, 1900 | Brother Jack McDuff's *Lift Every Voice and Sing* (added to Discogs 2026-11-01) carries the title. |
 | 8 | Wade in the Water | Spiritual | Traditional | Many jazz and soul versions, so it links to the jazz pages. |
-| 9 | Oh Happy Day | Gospel | Edwin Hawkins Singers, 1969 | The crossover hit; many choir and pop versions. |
-| 10 | We Shall Overcome | Freedom song | Grew out of an earlier gospel song | The movement anthem; few distinct versions beyond the movement recordings, so it is the weakest entry. |
+| 9 | Swing Low, Sweet Chariot | Spiritual | Traditional | A very large number of versions across gospel, jazz, folk, and rock. |
+| 10 | Just a Closer Walk with Thee | Hymn | Traditional | Links to New Orleans jazz funerals, so it overlaps *When the Saints Go Marchin' In*. |
+
+## Cut by John
+
+- *We Shall Overcome*: few distinct versions beyond the movement recordings.
+- *Oh Happy Day*: most versions are pop covers of the Edwin Hawkins Singers' 1969 recording.
 
 ## Links to existing jazz pages
 
@@ -28,9 +33,8 @@ Ranked shortlist of 10 songs for the gospel group, drafted 2026-11-01. The group
 
 ## Reserve list
 
-- *Strange Fruit*: Billie Holiday and Nina Simone; a protest song, not a freedom song in the strict sense. It is the first swap if *We Shall Overcome* comes out.
-- *Swing Low, Sweet Chariot*: a spiritual with a very large number of versions.
-- *Just a Closer Walk with Thee*: links to New Orleans jazz funerals, so it overlaps *When the Saints Go Marchin' In*.
+- *Strange Fruit*: Billie Holiday and Nina Simone; a protest song, not a freedom song in the strict sense. It is the first addition if the freedom-song count needs to grow.
+- *Oh Happy Day* and *We Shall Overcome*: cut for the reasons above.
 - *Mississippi Goddam*: Nina Simone's song has few versions beyond hers and Dee Dee Bridgewater's live version.
 - *Gotta Serve Somebody*: Dylan owns the song and few other versions exist.
 - *You Gotta Reap What You Sow*: I could not verify its versions.
