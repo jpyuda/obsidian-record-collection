@@ -2,6 +2,8 @@ Compiled on 2026-11-01 from the Targeted acquisitions table on each standards pa
 
 The Proposed column is my first-pass sort, made before any listening. **Keep** means the album is worth owning as an object. **Track only** means the song is the reason to buy, so a single digital track or a compilation will do. **Skip** means the version adds little to its page. **Listen first** means I cannot judge it yet. Overrule any of them.
 
+On each song page, the Proposed column for current holdings uses three labels. **Keep** means the version is a Gioia pick, the first recording, or an album that serves several tracked songs. **Listen first** means I cannot judge the version yet. **Divest** means a candidate to sell or give away. I have not used Divest anywhere, because I found no holding that I can judge without listening. Where the same recording sits on two albums you own, the Proposed cell says so. Each song page also has a Listening order section.
+
 ## Jazz
 
 | Artist                    | Album                                                                                                | Targeted song(s)                                                               | Proposed                                                                          | Gioia notes                                                                                                                                                                                                                                                                         | My notes |

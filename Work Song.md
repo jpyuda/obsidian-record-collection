@@ -5,10 +5,10 @@ first recording: Nat Adderley, 1960-01-27
 ---
 ## Current holdings
 
-| Artist                   | Album                                              | Format | Recording date | Notes                                                                                               | Proposed | My notes |
-| ------------------------ | -------------------------------------------------- | ------ | -------------- | --------------------------------------------------------------------------------------------------- | -------- | -------- |
-| Cannonball Adderley      | The Japanese Concerts                              | LP     | 1963-07-09     | Wikipedia assigns this track to 1963-07-09, Kōsei Nenkin Kaikan, Tokyo; the older page gave July 14 |          |          |
-| The Monty Alexander Trio | Montreux Alexander: Live! at the Montreux Festival | LP     | 1976-06-10     | with John Clayton and Jeff Hamilton; date per Jazz Journal; 2024 MPS reissue                        |          |          |
+| Artist                   | Album                                              | Format | Recording date | Notes                                                                                               | Proposed                     | My notes |
+| ------------------------ | -------------------------------------------------- | ------ | -------------- | --------------------------------------------------------------------------------------------------- | ---------------------------- | -------- |
+| Cannonball Adderley      | The Japanese Concerts                              | LP     | 1963-07-09     | Wikipedia assigns this track to 1963-07-09, Kōsei Nenkin Kaikan, Tokyo; the older page gave July 14 | Keep: Serves 2 tracked songs |          |
+| The Monty Alexander Trio | Montreux Alexander: Live! at the Montreux Festival | LP     | 1976-06-10     | with John Clayton and Jeff Hamilton; date per Jazz Journal; 2024 MPS reissue                        | Listen first: Not yet judged |          |
 ## Targeted acquisitions
 
 | Artist                  | Album                         | Recording date        | Notes                                                                                                                                                                | Proposed                                                       | My notes |
@@ -22,3 +22,19 @@ first recording: Nat Adderley, 1960-01-27
 | Cannonball Adderley     | Phenix                        | 1975-02/1975-04       | album dates; track not dated; Fantasy Studios, Berkeley; with George Duke; Fantasy                                                                                   | Listen first: 1975 Fantasy album; unfamiliar to me             |          |
 | Nina Simone             | Forbidden Fruit               |                       | recorded 1960-1961 per Wikipedia; released 1961 (Colpix); recording date to be added                                                                                 | Keep: Work Song vocal; Colpix                                  |          |
 | Oscar Brown Jr.         | Sin & Soul                    |                       | first version with lyrics; released 1960 (Columbia CL 1577), though the Wikipedia song article says 1961; recording date to be added                                 | Keep: Two targets: first Afro Blue lyrics and Work Song        |          |
+
+## Listening order
+
+Versions in date order, with owned and not-owned recordings mixed. Struck-through targets are left out. Entries with no date come last.
+
+1. 1960-01-27 · Nat Adderley, *Work Song* (not owned yet)
+2. 1960-03-29 · Cannonball Adderley, *Them Dirty Blues* (not owned yet)
+3. 1963-07-09 · Cannonball Adderley, *The Japanese Concerts* (owned)
+4. 1964 · Terry Callier, *Live at Mother Blues, 1964* (not owned yet)
+5. 1964-12-21/1965-01-07 · Nat Adderley, *Autobiography* (not owned yet)
+6. circa 1967 · Grant Green, *Iron City* (not owned yet)
+7. 1975-02/1975-04 · Cannonball Adderley, *Phenix* (not owned yet)
+8. 1976-06-10 · The Monty Alexander Trio, *Montreux Alexander: Live! at the Montreux Festival* (owned)
+9. date to be added · Nina Simone, *Forbidden Fruit* (not owned yet)
+10. date to be added · Oscar Brown Jr., *Sin & Soul* (not owned yet)
+

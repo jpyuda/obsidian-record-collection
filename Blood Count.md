@@ -5,9 +5,9 @@ first recording: Duke Ellington and His Orchestra, 1967
 ---
 ## Current holdings
 
-| Artist | Album | Format | Recording date | Notes | Gioia? | Proposed | My notes |
-| ------ | ----- | ------ | -------------- | ----- | ------ | -------- | -------- |
-|        |       |        |                |       |        |          |          |
+| Artist | Album | Format | Recording date | Notes | Gioia? | Proposed                     | My notes |
+| ------ | ----- | ------ | -------------- | ----- | ------ | ---------------------------- | -------- |
+|        |       |        |                |       |        | Listen first: Not yet judged |          |
 ## Targeted acquisitions
 
 | Artist                                      | Album                                               | Recording date                     | Notes                                                                                                                            | Proposed                                                                | My notes |
@@ -22,3 +22,19 @@ first recording: Duke Ellington and His Orchestra, 1967
 | Charles Lloyd                               | Lift Every Voice                                    | 2002-02                            |                                                                                                                                  | Listen first: ECM; Blood Count                                          |          |
 | ~~Elvis Costello and the Metropole Orkest~~ | ~~My Flame Burns Blue~~                             | ~~2004-07~~                        | ~~retitled "My Flame Burns Blue (Blood Count)" with lyrics by Costello; live at the North Sea Jazz Festival~~                    | Skip: Rock singer's lyric version; weak fit for the collection          |          |
 | Vijay Iyer Trio                             | Break Stuff                                         | 2014-06                            | solo piano; Avatar Studios, New York                                                                                             | Listen first: Solo piano; Blood Count                                   |          |
+
+## Listening order
+
+Versions in date order, with owned and not-owned recordings mixed. Struck-through targets are left out. Entries with no date come last.
+
+1. 1967-03-26 · Duke Ellington and His Orchestra, *The Greatest Jazz Concert in the World (Pablo)* (not owned yet)
+2. 1967-08-28 · Duke Ellington and His Orchestra, *...And His Mother Called Him Bill* (not owned yet)
+3. 1982-01/1982-02 · Stan Getz, *Pure Getz* (not owned yet)
+4. 1987-01-14/15 · Art Farmer, *Something to Live For: The Music of Billy Strayhorn* (not owned yet)
+5. 1987-07-06 · Stan Getz, *Anniversary!* (not owned yet)
+6. 1991-09-03; 1991-09-06; 1991-09-08 · Joe Henderson, *Lush Life: The Music of Billy Strayhorn* (not owned yet)
+7. 2002-02 · Charles Lloyd, *Lift Every Voice* (not owned yet)
+8. 2014-06 · Vijay Iyer Trio, *Break Stuff* (not owned yet)
+9. date to be added · , ** (owned)
+10. date to be added · Jimmy Rowles, *Plays Duke Ellington and Billy Strayhorn* (not owned yet)
+
