@@ -10,7 +10,6 @@ first recording: Sam Cooke, 1964-01-30
 
 | Artist          | Album                                   | Format | Recording date | Notes                                                                                                                                                    | Proposed                     | My notes |
 | --------------- | --------------------------------------- | ------ | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | -------- |
-| --------------- | --------------------------------------  | ------ | -------------- | ----------------------------------------------------------                                                                                               | ---------------------------- | -------- |
 | Aretha Franklin | I Never Loved a Man the Way I Love You  | LP     | 1967           | recording date to be added; confirm the track on your copy                                                                                               | Listen first: Not yet judged |          |
 | Baby Huey       | The Baby Huey Story / The Living Legend | 2xLP   | 1970           | A3 (9:23), titled "A Change Is Going to Come"; Run Out Groove reissue (2018) of the 1971 Curtom album; psychedelic rendition produced by Curtis Mayfield | Listen first: Not yet judged |          |
 
