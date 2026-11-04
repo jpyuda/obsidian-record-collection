@@ -7,7 +7,7 @@ Ranked shortlist of 10 songs for the gospel group, drafted 2026-11-01. The group
 3. The song links to existing pages or to records already in the collection.
 4. No single artist owns the song, so the page holds a range of versions.
 
-## Shortlist (final, 10 songs)
+## Shortlist (final, 11 songs)
 
 | Rank | Song | Category | Origin | Why it ranks here |
 | ---- | ---- | -------- | ------ | ----------------- |
@@ -21,6 +21,7 @@ Ranked shortlist of 10 songs for the gospel group, drafted 2026-11-01. The group
 | 8 | Wade in the Water | Spiritual | Traditional | Many jazz and soul versions, so it links to the jazz pages. |
 | 9 | Swing Low, Sweet Chariot | Spiritual | Traditional | A very large number of versions across gospel, jazz, folk, and rock. |
 | 10 | Just a Closer Walk with Thee | Hymn | Traditional | Links to New Orleans jazz funerals, so it overlaps *When the Saints Go Marchin' In*. |
+| 11 | Go Tell It on the Mountain | Spiritual | Traditional; published by John Wesley Work Jr., 1901 | Added 2026-11-03 at John's request. Versions by Mahalia Jackson, Odetta, the Staple Singers, Peter Tosh, and Wynton Marsalis. |
 
 ## Cut by John
 

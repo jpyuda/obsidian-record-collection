@@ -71,4 +71,5 @@ A catch-all group: spirituals, hymns, gospel, and freedom songs ([[Gospel shortl
 8. [[Wade in the Water]] — Spiritual · Jazz and soul versions
 9. [[Swing Low, Sweet Chariot]] — Spiritual
 10. [[Just a Closer Walk with Thee]] — Hymn · New Orleans funeral tradition
+11. [[Go Tell It on the Mountain]] — Spiritual · Baldwin's title; gospel, soul, and jazz versions
 
