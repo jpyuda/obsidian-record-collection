@@ -8,8 +8,9 @@ first recording: Dorothy Maynor with an unaccompanied male choir, 1941-11-14 (pe
 
 ## Current holdings
 
-| Artist | Album | Format | Recording date | Notes | Proposed | My notes |
-| ------ | ----- | ------ | -------------- | ----- | -------- | -------- |
+| Artist                                 | Album                                  | Format | Recording date | Notes                                                                                                 | Proposed                     | My notes |
+| -------------------------------------- | -------------------------------------- | ------ | -------------- | ----------------------------------------------------------------------------------------------------- | ---------------------------- | -------- |
+| Barbara Dane and The Chambers Brothers | Barbara Dane and The Chambers Brothers | LP     |                | B4 (2:53); Smithsonian Folkways reissue (2017) of the 1966 Folkways album; recording date to be added | Listen first: Not yet judged |          |
 
 ## Targeted acquisitions
 
@@ -42,7 +43,8 @@ Versions in date order, with owned and not-owned recordings mixed. Struck-throug
 9. 1970 · Bob Marley & The Wailers, *The Best of the Wailers* (not owned yet)
 10. 1970-11-23 · Smokey Robinson & The Miracles, *Album to be added* (not owned yet)
 11. 2009-10 · Wynton Marsalis, *Album to be added* (not owned yet)
+12. date to be added · Barbara Dane and The Chambers Brothers, *Barbara Dane and The Chambers Brothers* (owned; B4)
 
 ## Notes
 
-Research note: the Wikipedia article lists few African American recordings, so the targets come mostly from SecondHandSongs. Several album titles and labels are still to be added. A keyword search of your Discogs collection found no clear holding. Tell me if you own a version, and I will check the tracklist. The song is the title of James Baldwin's first novel.
+Research note: the Wikipedia article lists few African American recordings, so the targets come mostly from SecondHandSongs. Several album titles and labels are still to be added. You own one version so far, Barbara Dane and The Chambers Brothers. That album also holds "You've Got to Reap What You Sow", a freedom-song candidate. Tell me about other versions you own, and I will check the tracklists. The song is the title of James Baldwin's first novel.
