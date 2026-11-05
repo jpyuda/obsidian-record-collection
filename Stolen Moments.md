@@ -1,7 +1,7 @@
 ---
 composer: Oliver Nelson
 published:
-first recording: Oliver Nelson, 1961-02-23
+first recording: Eddie "Lockjaw" Davis, 1960-09-20 
 ---
 ## Current holdings
 
