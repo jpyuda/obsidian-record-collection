@@ -39,4 +39,4 @@ Versions in date order, with owned and not-owned recordings mixed. Struck-throug
 
 The song is a protest song. It criticizes the Vietnam War and President Lyndon B. Johnson, and it raises the treatment of dissent and abortion rights for unwed mothers. Wikipedia says more than 270 performers had recorded it by 2011. The McCann and Harris version sold over a million copies. It also belongs on the jazz side of the vault, so it may need a jazz-style listing as well.
 
-Research note: the Wikipedia article names Ray Charles and Ronnie Laws without albums. Gene McDaniels' own recording is not covered by the article, so I have not listed it. Check that recording.
+Research note: the Wikipedia article names Ray Charles and Ronnie Laws without albums. I found no documented recording of the song by Gene McDaniels, and John found none either, so the page lists no McDaniels version.
