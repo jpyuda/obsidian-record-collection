@@ -7,20 +7,20 @@ first recording: Les McCann, 1966 (per Wikipedia, which says it "appears to have
 
 ## Current holdings
 
-| Artist                      | Album          | Format | Recording date | Notes                                                                                                               | Proposed                                                     | My notes |
-| --------------------------- | -------------- | ------ | -------------- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | -------- |
-| Les McCann and Eddie Harris | Swiss Movement | LP     | 1969-06-21     | A1 (8:18); live at the Montreux Jazz Festival, Switzerland; Atlantic; the version that reached #35 on the R&B chart | Keep: The best-known version; a million-seller per Wikipedia |          |
-| Roberta Flack               | First Take     | LP     | 1969-02        | A1 (5:15); Atlantic; her debut album, and the song was her first single                                             | Keep: Flack's debut and the best-known vocal version         |          |
+| Artist                      | Album          | Format | Recording date | Notes                                                                                                               | Proposed                                                     | Decision | My notes |
+| --------------------------- | -------------- | ------ | -------------- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | -------- | -------- |
+| Les McCann and Eddie Harris | Swiss Movement | LP     | 1969-06-21     | A1 (8:18); live at the Montreux Jazz Festival, Switzerland; Atlantic; the version that reached #35 on the R&B chart | Keep: The best-known version; a million-seller per Wikipedia |          |          |
+| Roberta Flack               | First Take     | LP     | 1969-02        | A1 (5:15); Atlantic; her debut album, and the song was her first single                                             | Keep: Flack's debut and the best-known vocal version         |          |          |
 
 ## Targeted acquisitions
 
-| Artist                         | Album                     | Recording date | Notes                                                                                           | Proposed                                      | My notes |
-| ------------------------------ | ------------------------- | -------------- | ----------------------------------------------------------------------------------------------- | --------------------------------------------- | -------- |
-| Les McCann                     | Les McCann Plays the Hits | 1966           | first recording per Wikipedia, which says it "appears to have been"; label and date to be added | Keep: First recording; verify the track first |          |
-| Brian Auger's Oblivion Express | Closer to It              | 1973           | jazz-rock reading                                                                               | Listen first: Jazz-rock reading               |          |
-| Brian Auger's Oblivion Express | Live Oblivion             | 1975           | live; performed at Winterland, San Francisco in 1975                                            | Listen first: Live jazz-rock reading          |          |
-| Ray Charles                    | Album to be added         |                | Wikipedia names him as a performer but gives no album                                           | Listen first: Find the album first            |          |
-| Ronnie Laws                    | Album to be added         |                | Wikipedia names him as a performer but gives no album                                           | Listen first: Find the album first            |          |
+| Artist                         | Album                     | Recording date | Notes                                                                                           | Proposed                                      | Decision | My notes |
+| ------------------------------ | ------------------------- | -------------- | ----------------------------------------------------------------------------------------------- | --------------------------------------------- | -------- | -------- |
+| Les McCann                     | Les McCann Plays the Hits | 1966           | first recording per Wikipedia, which says it "appears to have been"; label and date to be added | Keep: First recording; verify the track first |          |          |
+| Brian Auger's Oblivion Express | Closer to It              | 1973           | jazz-rock reading                                                                               | Listen first: Jazz-rock reading               |          |          |
+| Brian Auger's Oblivion Express | Live Oblivion             | 1975           | live; performed at Winterland, San Francisco in 1975                                            | Listen first: Live jazz-rock reading          |          |          |
+| Ray Charles                    | Album to be added         |                | Wikipedia names him as a performer but gives no album                                           | Listen first: Find the album first            |          |          |
+| Ronnie Laws                    | Album to be added         |                | Wikipedia names him as a performer but gives no album                                           | Listen first: Find the album first            |          |          |
 
 ## Listening order
 
