@@ -1,4 +1,4 @@
-Ranked shortlist of 12 songs (10 at the first draft; *Go Tell It on the Mountain* and *Compared to What* were added later) for the gospel group, drafted 2026-11-01. The group is a catch-all that spans four categories: spirituals, hymns, gospel, and freedom songs. The ranking is a proposal and is open to change. I did not verify first-recording dates, so the Origin column lists only what I am confident about.
+Ranked shortlist of 11 songs (10 at the first draft; *Go Tell It on the Mountain* was added later) for the gospel group, drafted 2026-11-01. The group is a catch-all that spans four categories: spirituals, hymns, gospel, and freedom songs. The ranking is a proposal and is open to change. I did not verify first-recording dates, so the Origin column lists only what I am confident about.
 
 ## Ranking criteria
 
@@ -7,7 +7,7 @@ Ranked shortlist of 12 songs (10 at the first draft; *Go Tell It on the Mountain
 3. The song links to existing pages or to records already in the collection.
 4. No single artist owns the song, so the page holds a range of versions.
 
-## Shortlist (final, 12 songs)
+## Shortlist (final, 11 songs)
 
 | Rank | Song | Category | Origin | Why it ranks here |
 | ---- | ---- | -------- | ------ | ----------------- |
@@ -22,9 +22,10 @@ Ranked shortlist of 12 songs (10 at the first draft; *Go Tell It on the Mountain
 | 9 | Swing Low, Sweet Chariot | Spiritual | Traditional | A very large number of versions across gospel, jazz, folk, and rock. |
 | 10 | Just a Closer Walk with Thee | Hymn | Traditional | Links to New Orleans jazz funerals, so it overlaps *When the Saints Go Marchin' In*. |
 | 11 | Go Tell It on the Mountain | Spiritual | Traditional; published by John Wesley Work Jr., 1901 | Added 2026-11-03 at John's request. Versions by Mahalia Jackson, Odetta, the Staple Singers, Peter Tosh, and Wynton Marsalis. |
-| 12 | Compared to What | Freedom song | Gene McDaniels, 1966 | Added 2026-11-04 at John's request. A Vietnam-era protest song. Your *Swiss Movement* and Roberta Flack's *First Take* both carry it. |
 
 ## Cut by John
+
+- *Compared to What*: a Vietnam-era protest song with no gospel lineage. John decided on 2026-11-04 to keep the gospel group at 11 songs and park the song for a future soul and R&B group; its page remains as a stub.
 
 - *We Shall Overcome*: few distinct versions beyond the movement recordings.
 - *Oh Happy Day*: most versions are pop covers of the Edwin Hawkins Singers' 1969 recording.

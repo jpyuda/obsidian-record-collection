@@ -1,6 +1,5 @@
 ---
-genre: gospel
-category: freedom song
+genre: soul
 composer: Gene McDaniels
 published: 1966
 first recording: Les McCann, 1966 (per Wikipedia, which says it "appears to have been" the first recording)
@@ -37,6 +36,6 @@ Versions in date order, with owned and not-owned recordings mixed. Struck-throug
 
 ## Notes
 
-The song is a protest song. It criticizes the Vietnam War and President Lyndon B. Johnson, and it raises the treatment of dissent and abortion rights for unwed mothers. Wikipedia says more than 270 performers had recorded it by 2011. The McCann and Harris version sold over a million copies. It also belongs on the jazz side of the vault, so it may need a jazz-style listing as well.
+The song is a protest song. It criticizes the Vietnam War and President Lyndon B. Johnson, and it raises the treatment of dissent and abortion rights for unwed mothers. Wikipedia says more than 270 performers had recorded it by 2011. The McCann and Harris version sold over a million copies. The page is parked as a stub for a future soul and R&B group. It left the gospel group on 2026-11-04, because the song has no gospel lineage.
 
 Research note: the Wikipedia article names Ray Charles and Ronnie Laws without albums. I found no documented recording of the song by Gene McDaniels, and John found none either, so the page lists no McDaniels version.

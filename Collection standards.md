@@ -72,5 +72,7 @@ A catch-all group: spirituals, hymns, gospel, and freedom songs ([[Gospel shortl
 9. [[Swing Low, Sweet Chariot]] — Spiritual
 10. [[Just a Closer Walk with Thee]] — Hymn · New Orleans funeral tradition
 11. [[Go Tell It on the Mountain]] — Spiritual · Baldwin's title; gospel, soul, and jazz versions
-12. [[Compared to What]] — Gene McDaniels · Freedom song; McCann, Harris, and Roberta Flack versions
 
+## Soul and R&B (stub)
+A future short list of soul and R&B songs. Each page will have a `genre: soul` field. No ranked shortlist exists yet.
+1. [[Compared to What]] — Gene McDaniels · Protest song; McCann, Harris, and Roberta Flack versions
