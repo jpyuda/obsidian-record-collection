@@ -25,6 +25,7 @@ Each holding below was checked against a Discogs tracklist in your collection. R
 | 13 | I Put a Spell on You | Screamin' Jay Hawkins, 1956 | Large cover tradition in blues, soul, and rock: Nina Simone, Creedence Clearwater Revival, Alan Price, Joe Cocker. | None (not on *Pastel Blues*) | 0 |
 | 14 | Don't Let Me Be Misunderstood | Written for Nina Simone, 1964 | The Animals, Santa Esmeralda, and Elvis Costello made it a standard across styles. | Santa Esmeralda and Leroy Gomez, *Don't Let Me Be Misunderstood* (LP, Casablanca 1977, A1, 7:57) | 1 |
 | 15 | Feeling Good | Anthony Newley and Leslie Bricusse, 1964 | Nina Simone and John Coltrane both recorded it in 1965. It is a show tune, so it may belong with the jazz pages. | None | 0 |
+| 16 | Yes We Can Can | Allen Toussaint, written 1970; first recorded by Lee Dorsey, 1970 (*Yes We Can*, Polydor) | The Pointer Sisters' 1973 version was the hit. Wikipedia lists no other recordings, so the version tradition looks thin. Funk and New Orleans R&B. | None found. No Lee Dorsey or Pointer Sisters release turned up in your collection. Your Toussaint album, *From a Whisper to a Scream* (1985 reissue), is unchecked because Discogs rate-limited the tracklist request. | 0 |
 
 ## Items to check
 
