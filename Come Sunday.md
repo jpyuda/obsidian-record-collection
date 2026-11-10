@@ -22,7 +22,7 @@ first recording: Duke Ellington and His Orchestra, 1943 (live at Carnegie Hall)
 | Artist          | Album                        | Recording date | Notes                                                     | Proposed                                         | Decision | My notes |
 | --------------- | ---------------------------- | -------------- | --------------------------------------------------------- | ------------------------------------------------ | -------- | -------- |
 | Gerald Wilson   | 1945-1946 (Classics)         | circa 1946-04  | Hollywood                                                 | Track only: 1946 side on a chronological reissue |          |          |
-| Duke Ellington  | Black, Brown and Beige       | 1958-02        | with Mahalia Jackson; Los Angeles                         | Keep: Mahalia Jackson sings Come Sunday          |          |          |
+| Duke Ellington  | Black, Brown and Beige       | 1958-02        | with Mahalia Jackson; Los Angeles                         | Keep: Mahalia Jackson sings Come Sunday          | Buy: LP  |          |
 | Dizzy Gillespie | A Portrait of Duke Ellington | 1960-04-27/28  | New York                                                  | Listen first: Ellington tribute album            |          |          |
 | Andrew Hill     | Live at Montreux             | 1975-07-20     | live at the Montreux Jazz Festival, Montreux, Switzerland | Listen first: Live 1975; Come Sunday             |          |          |
 | Randy Weston    | Ancient Future               | 2001-06        | New York                                                  | Keep: Solo and band piano; Come Sunday           |          |          |

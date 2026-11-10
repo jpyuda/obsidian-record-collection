@@ -17,7 +17,7 @@ first recording: John Coltrane, 1959-12-02
 
 | Artist                                             | Album                      | Recording date | Notes                              | Proposed                                                  | Decision | My notes |
 | -------------------------------------------------- | -------------------------- | -------------- | ---------------------------------- | --------------------------------------------------------- | -------- | -------- |
-| John Coltrane                                      | Afro Blue Impressions      | 1963-11-02     | live at Auditorium Maximum, Berlin | Keep: Two targets: Afro Blue and Naima, live in Berlin    |          |          |
+| John Coltrane                                      | Afro Blue Impressions      | 1963-11-02     | live at Auditorium Maximum, Berlin | Keep: Two targets: Afro Blue and Naima, live in Berlin    | Buy: CD  |          |
 | John Handy (with Bobby Hutcherson and Pat Martino) | New View                   | 1967-06-28     | live at the Village Gate, New York | Listen first: With Hutcherson and Martino; Naima          |          |          |
 | McCoy Tyner                                        | Echoes of a Friend         | 1972-11-11     | Tokyo                              | Keep: Solo Coltrane tribute; Naima                        |          |          |
 | David Grisman                                      | Quintet '80                | 1980           | Berkeley, California               | Listen first: Acoustic Dawg setting for Naima             |          |          |
