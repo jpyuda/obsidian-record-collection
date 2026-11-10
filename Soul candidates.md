@@ -25,8 +25,12 @@ Each holding below was checked against a Discogs tracklist in your collection. R
 | 13 | I Put a Spell on You | Screamin' Jay Hawkins, 1956 | Large cover tradition in blues, soul, and rock: Nina Simone, Creedence Clearwater Revival, Alan Price, Joe Cocker. | None (not on *Pastel Blues*) | 0 |
 | 14 | Don't Let Me Be Misunderstood | Written for Nina Simone, 1964 | The Animals, Santa Esmeralda, and Elvis Costello made it a standard across styles. | Santa Esmeralda and Leroy Gomez, *Don't Let Me Be Misunderstood* (LP, Casablanca 1977, A1, 7:57) | 1 |
 | 15 | Feeling Good | Anthony Newley and Leslie Bricusse, 1964 | Nina Simone and John Coltrane both recorded it in 1965. It is a show tune, so it may belong with the jazz pages. | None | 0 |
+| 16 | Yes We Can Can | Allen Toussaint, written 1970; first recorded by Lee Dorsey, 1970 (*Yes We Can*, Polydor) | The Pointer Sisters' 1973 version was the hit. Wikipedia lists no other recordings, so the version tradition looks thin. Funk and New Orleans R&B. | Allen Toussaint, on *Our New Orleans 2005, A Benefit Album* (LP, 2021 reissue; per your note, track position not yet checked). You do not think it is on *From a Whisper to a Scream*. You plan to buy Toussaint's live album *Songbook* on vinyl. | 1 |
+| 17 | The Chokin' Kind | Harlan Howard; first recorded by Waylon Jennings, 1967 (*Hangin' On*, RCA Victor) | Country song that became a soul hit: Joe Simon's 1969 version reached number 1 on the Billboard R&B chart and number 13 on the Hot 100. Toussaint and Joss Stone also recorded it, per your note. | Allen Toussaint, *From a Whisper to a Scream* (LP, 1985 reissue; per your note); Joss Stone, *The Soul Sessions* (CD; possibly, track not yet checked) | 2 |
 
 ## Items to check
+
+- Discogs rate-limited every tracklist request on 2026-11-09. I have not confirmed the track positions for Toussaint on *Our New Orleans 2005*, Toussaint on *From a Whisper to a Scream*, or Joss Stone on *The Soul Sessions*. Wikipedia lists Joe Simon as the only cover of The Chokin' Kind, so the Toussaint and Stone versions rest on your note.
 
 - The Hooker credit on the Folk Blues Festival set comes from your note. The Discogs tracklist for that release names no performer for B4.
 - The Marley holding is a medley. It may not count as a full version of People Get Ready.
