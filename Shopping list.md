@@ -1,6 +1,6 @@
 Shopping list generated 2026-11-10 from the Decision column on each song page. It lists every target marked Buy or Buy other, grouped by format, then genre, then artist. Targets marked Skip, Pass, or Undecided are left out. Genre is the group of the song page that the album serves. To change an entry, edit the Decision cell on the song page and ask me to regenerate this list.
 
-**51 albums:** 35 LP, 16 CD.
+**51 albums:** 36 LP, 15 CD.
 
 ## LP
 
@@ -69,6 +69,7 @@ Shopping list generated 2026-11-10 from the Decision column on each song page. I
 
 **Pepper, Art**
 - *Friday Night at the Village Vanguard* — for [[Caravan]]. May opportunistically pick up Japanese box set "Live at the Village Vanguard" if I see it.
+- *Saturday Night at the Village Vanguard* — for [[Cherokee]]. See note about the Japanese box on other page.
 
 **Rowles, Jimmy**
 - *Plays Duke Ellington and Billy Strayhorn* — for [[Blood Count]]. Can't find this online anywhere, so the only way to listen is to acquire it on LP.
@@ -140,8 +141,7 @@ Shopping list generated 2026-11-10 from the Decision column on each song page. I
 - *The Fats Navarro Story (Proper)* — for [[A Night in Tunisia]]
 
 **Parker, Charlie**
-- *The Complete "Birth of the Bebop"* — for [[Cherokee]], [[Sweet Georgia Brown]]
-- *The Complete "Birth of the Bebop" (Stash)* — for [[Body and Soul]], [[Honeysuckle Rose]]
+- *The Complete "Birth of the Bebop" (Stash)* — for [[Body and Soul]], [[Cherokee]], [[Honeysuckle Rose]], [[Sweet Georgia Brown]]
 
 **Shaw, Artie**
 - *Self Portrait* — for [[Summertime]]
