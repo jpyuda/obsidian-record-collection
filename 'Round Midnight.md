@@ -35,7 +35,7 @@ first recording: Cootie Williams, 1944-08-22
 | Sarah Vaughan   | Sarah Sings Soulfully          | 1963-05-29             | Los Angeles                                                              | Listen first: 1963; 'Round Midnight                  | Buy: LP  |                                                      |
 | Wayne Shorter   | Jazz at the Opera House        | 1982-02-22             | with Herbie Hancock; live at the War Memorial Opera House, San Francisco | Listen first: With Herbie Hancock; 'Round Midnight   |          |                                                      |
 | Bobby McFerrin  | 'Round Midnight (soundtrack)   | 1985-08-20/21          | with Herbie Hancock; Paris                                               | Keep: Film soundtrack with Hancock and Dexter Gordon | Buy: LP  | should be listed as Various Artists in shopping list |
-| James Carter    | The Real Quietstorm            | 1994-10/1994-11        | New York                                                                 | Listen first: 1994 saxophone ballad set              |          |                                                      |
+| James Carter    | The Real Quietstorm            | 1994-10/1994-11        | New York                                                                 | Listen first: 1994 saxophone ballad set              | Buy: CD  |                                                      |
 
 ## Listening order
 
