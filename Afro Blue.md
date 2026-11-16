@@ -34,7 +34,7 @@ Versions in date order, with owned and not-owned recordings mixed. Struck-throug
 2. 1959-04-20 · Cal Tjader Sextet, *Cal Tjader's Concert by the Sea* (not owned yet)
 3. 1960 · Oscar Brown Jr., *Sin & Soul* (owned; purchased 2026-11-15)
 4. 1963-10-08 · John Coltrane, *1963: New Directions* (owned)
-5. 1963-11-02 · John Coltrane, *Afro Blue Impressions* (owned; purchased 2026-11-15)
+5. 1963-11-02 · John Coltrane, *Afro Blue Impressions* (not owned yet)
 6. 1969-02-24/26 · Roberta Flack, *First Take (50th Anniversary Deluxe Edition)* (not owned yet)
 7. 1973-04-06; 1973-04-09 · McCoy Tyner, *Song of the New World* (not owned yet)
 8. 1974-03-10/1974-03-14 · Dee Dee Bridgewater, *Afro Blue* (owned; purchased 2026-11-15)
