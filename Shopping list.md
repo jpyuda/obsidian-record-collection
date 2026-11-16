@@ -1,6 +1,6 @@
-Shopping list generated 2026-11-10 from the Decision column on each song page. It lists every target marked Buy or Buy other, grouped by format, then genre, then artist. Targets marked Skip, Pass, or Undecided are left out. Genre is the group of the song page that the album serves. To change an entry, edit the Decision cell on the song page and ask me to regenerate this list.
+Shopping list generated 2026-11-15 from the Decision column on each song page. It lists every target marked Buy or Buy other, grouped by format, then genre, then artist. Targets marked Skip, Pass, or Undecided are left out. Genre is the group of the song page that the album serves. To change an entry, edit the Decision cell on the song page and ask me to regenerate this list.
 
-**51 albums:** 36 LP, 15 CD.
+**50 albums:** 34 LP, 16 CD.
 
 ## LP
 
@@ -17,14 +17,8 @@ Shopping list generated 2026-11-10 from the Decision column on each song page. I
 **Armstrong, Louis**
 - *Louis Armstrong Plays W.C. Handy* — for [[St. Louis Blues]]
 
-**Bridgewater, Dee Dee**
-- *Afro Blue* — for [[Afro Blue]]
-
-**Brown, Oscar, Jr.**
-- *Sin & Soul* — for [[Afro Blue]], [[Work Song]]. Also has Work Song.
-
-**Charles, Ray**
-- *Genius + Soul = Jazz* — for [[Moanin']]
+**Brown, Clifford**
+- *The Beginning and the End* — for [[A Night in Tunisia]]
 
 **Cole, Nat King**
 - *After Midnight* — for [[Caravan]]
@@ -38,7 +32,6 @@ Shopping list generated 2026-11-10 from the Decision column on each song page. I
 - *Miles Smiles* — for [[Footprints]]
 
 **Ellington, Duke**
-- *...And His Mother Called Him Bill* — for [[Blood Count]]
 - *Black, Brown and Beige* — for [[Come Sunday]]
 - *The Greatest Jazz Concert in the World (Pablo)* — for [[Blood Count]]
 
@@ -92,6 +85,9 @@ Shopping list generated 2026-11-10 from the Decision column on each song page. I
 **Various Artists**
 - *'Round Midnight (soundtrack)* — for [['Round Midnight]]
 
+**Vaughan, Sarah**
+- *Sarah Sings Soulfully* — for [['Round Midnight]]
+
 ### Gospel
 
 **Cooke, Sam**
@@ -106,6 +102,9 @@ Shopping list generated 2026-11-10 from the Decision column on each song page. I
 
 **Bridgewater, Dee Dee**
 - *Red Earth: A Malian Journey* — for [[Afro Blue]]. Combines jazz with Malian griot tradition; also contains Long Time Ago (Footprints with lyrics) and Compared to What.
+
+**Carter, James**
+- *The Real Quietstorm* — for [['Round Midnight]]
 
 **Carter, Ron**
 - *Dear Miles* — for [[Bags' Groove]]. Also has My Funny Valentine; not available on streaming.

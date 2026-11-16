@@ -5,10 +5,11 @@ first recording: Nat Adderley, 1960-01-27
 ---
 ## Current holdings
 
-| Artist                   | Album                                              | Format | Recording date | Notes                                                                                               | Proposed                     | Decision | My notes |
-| ------------------------ | -------------------------------------------------- | ------ | -------------- | --------------------------------------------------------------------------------------------------- | ---------------------------- | -------- | -------- |
-| Cannonball Adderley      | The Japanese Concerts                              | LP     | 1963-07-09     | Wikipedia assigns this track to 1963-07-09, Kōsei Nenkin Kaikan, Tokyo; the older page gave July 14 | Keep: Serves 2 tracked songs |          |          |
-| The Monty Alexander Trio | Montreux Alexander: Live! at the Montreux Festival | LP     | 1976-06-10     | with John Clayton and Jeff Hamilton; date per Jazz Journal; 2024 MPS reissue                        | Listen first: Not yet judged |          |          |
+| Artist                   | Album                                              | Format | Recording date | Notes                                                                                                                                                                                 | Proposed                                                | Decision | My notes |
+| ------------------------ | -------------------------------------------------- | ------ | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | -------- | -------- |
+| Cannonball Adderley      | The Japanese Concerts                              | LP     | 1963-07-09     | Wikipedia assigns this track to 1963-07-09, Kōsei Nenkin Kaikan, Tokyo; the older page gave July 14                                                                                   | Keep: Serves 2 tracked songs                            |          |          |
+| The Monty Alexander Trio | Montreux Alexander: Live! at the Montreux Festival | LP     | 1976-06-10     | with John Clayton and Jeff Hamilton; date per Jazz Journal; 2024 MPS reissue                                                                                                          | Listen first: Not yet judged                            |          |          |
+| Oscar Brown Jr.          | Sin & Soul                                         | LP     | circa 1961     | first version with lyrics; released 1960 (Columbia CL 1577), though the Wikipedia song article says 1961; recording date to be added; purchased 2026-11-15; pressing to be identified | Keep: Two targets: first Afro Blue lyrics and Work Song |          |          |
 ## Targeted acquisitions
 
 | Artist                  | Album                         | Recording date        | Notes                                                                                                                                                                | Proposed                                                       | Decision                     | My notes |
@@ -21,7 +22,6 @@ first recording: Nat Adderley, 1960-01-27
 | ~~Cannonball Adderley~~ | ~~Salle Pleyel 27 Mars 1969~~ | ~~1969-03-27~~        | ~~live; Paris; Trema CD (1999); also on The Lost Recordings LP Live in Paris 1969 • Berlin 1972 (2025)~~                                                             | Skip: Third Adderley version of the song; hard-to-find 1999 CD |                              |          |
 | Cannonball Adderley     | Phenix                        | 1975-02/1975-04       | album dates; track not dated; Fantasy Studios, Berkeley; with George Duke; Fantasy                                                                                   | Listen first: 1975 Fantasy album; unfamiliar to me             | Buy: LP                      |          |
 | Nina Simone             | Forbidden Fruit               | circa 1961            | recorded 1960-1961 per Wikipedia; released 1961 (Colpix); recording date to be added                                                                                 | Keep: Work Song vocal; Colpix                                  |                              |          |
-| Oscar Brown Jr.         | Sin & Soul                    | circa 1961            | first version with lyrics; released 1960 (Columbia CL 1577), though the Wikipedia song article says 1961; recording date to be added                                 | Keep: Two targets: first Afro Blue lyrics and Work Song        | Buy: LP                      |          |
 
 ## Listening order
 
@@ -36,5 +36,5 @@ Versions in date order, with owned and not-owned recordings mixed. Struck-throug
 7. 1975-02/1975-04 · Cannonball Adderley, *Phenix* (not owned yet)
 8. 1976-06-10 · The Monty Alexander Trio, *Montreux Alexander: Live! at the Montreux Festival* (owned)
 9. date to be added · Nina Simone, *Forbidden Fruit* (not owned yet)
-10. date to be added · Oscar Brown Jr., *Sin & Soul* (not owned yet)
+10. date to be added · Oscar Brown Jr., *Sin & Soul* (owned; purchased 2026-11-15)
 
