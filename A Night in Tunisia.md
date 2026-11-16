@@ -37,7 +37,7 @@ first recording: Sarah Vaughan, 1944
 | Fats Navarro                       | The Fats Navarro Story (Proper)                  | 1950-06-30     | live at Birdland, New York; amateur recording with poor sound; Art Blakey is the drummer | Track only: Birdland 1950; amateur recording with poor sound | Buy: CD  |          |
 | Clifford Brown                     | The Beginning and the End                        | 1955-05-31     | live at Music City, Philadelphia                                                         | Listen first: Live 1955; check the sound quality             | Buy: LP  |          |
 | Mary Lou Williams                  | Live at the Keystone Korner                      | 1977-05-08     | live at the Keystone Korner, San Francisco                                               | Listen first: Live 1977; A Night in Tunisia                  | Buy: CD  |          |
-| Donald Harrison                    | Real Life Stories                                | 2001-11-04/06  | with Christian Scott; New York                                                           | Listen first: With Christian Scott                           |          | need to stream on qobuz      |
+| Donald Harrison                    | Real Life Stories                                | 2001-11-04/06  | with Christian Scott; New York                                                           | Listen first: With Christian Scott                           | Buy: CD  |          |
 
 ## Listening order
 
