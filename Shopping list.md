@@ -1,6 +1,6 @@
-Shopping list generated 2026-11-15 from the Decision column on each song page. It lists every target marked Buy or Buy other, grouped by format, then genre, then artist. Targets marked Skip, Pass, or Undecided are left out. Genre is the group of the song page that the album serves. To change an entry, edit the Decision cell on the song page and ask me to regenerate this list.
+Shopping list generated 2026-11-16 from the Decision column on each song page. It lists every target marked Buy or Buy other, grouped by format, then genre, then artist. Targets marked Skip, Pass, or Undecided are left out. Genre is the group of the song page that the album serves. To change an entry, edit the Decision cell on the song page and ask me to regenerate this list.
 
-**50 albums:** 34 LP, 16 CD.
+**72 albums:** 44 LP, 27 CD, 1 Digital.
 
 ## LP
 
@@ -23,6 +23,12 @@ Shopping list generated 2026-11-15 from the Decision column on each song page. I
 **Cole, Nat King**
 - *After Midnight* — for [[Caravan]]
 
+**Coltrane, John**
+- *Coltrane's Sound* — for [[Body and Soul]]
+
+**Daniels, Eddie**
+- *A Flower for All Seasons* — for [[Blue Bossa]]
+
 **Davis, Eddie "Lockjaw"**
 - *Trane Whistle* — for [[Stolen Moments]]. Initial reaction: interesting big band arrangement, Nelson's debut as an arranger likely puts this one over the top.
 
@@ -38,18 +44,31 @@ Shopping list generated 2026-11-15 from the Decision column on each song page. I
 **Getz, Stan**
 - *Pure Getz* — for [[Blood Count]]
 
+**Gordon, Dexter**
+- *Biting the Apple* — for [[Blue Bossa]]
+
 **Hancock, Herbie**
 - *Takin' Off* — for [[Watermelon Man]]
+
+**Harris, Barry**
+- *Chasin' the Bird* — for [['Round Midnight]]
+
+**Hubbard, Freddie**
+- *Here to Stay* — for [[Body and Soul]]. Exists both as a 70s twofer (with Hub Cap) and a later individual reissue. Both have the same title, either is acceptable.
 
 **Jackson, Mahalia**
 - *Bless This House* — for [[Summertime]]
 
 **Jackson, Milt**
 - *All Star Bags* — for [[Bags' Groove]]; instead of *Wizard of the Vibes*, which stays a target. 1970s Blue Note reissue LP; adds material from 3 additional 10" LPs.
+- *The Big Three* — for [[Blue Bossa]]
 
 **Jamal, Ahmad**
 - *At the Top: Poinciana Revisited* — for [[Poinciana]]
 - *The Awakening* — for [[Stolen Moments]]. Fantastic version, one of my favorite artists. Easy acquisition target.
+
+**Jarrett, Keith**
+- *Jasmine* — for [[Body and Soul]]
 
 **Mann, Herbie**
 - *Standing Ovation at Newport* — for [[Stolen Moments]]. Interesting version -- Corea's solo is excellent. Acquisition will depend on the quality of the rest of the album.
@@ -60,7 +79,11 @@ Shopping list generated 2026-11-15 from the Decision column on each song page. I
 **Modern Jazz Quartet, The**
 - *The Modern Jazz Quartet at Music Inn, Vol. 2* — for [[Bags' Groove]]. Also has A Night in Tunisia (also with Rollins).
 
+**Monk, Thelonious**
+- *Monk in Italy* — for [[Body and Soul]]
+
 **Pepper, Art**
+- *Among Friends* — for [[Blue Bossa]]
 - *Friday Night at the Village Vanguard* — for [[Caravan]]. May opportunistically pick up Japanese box set "Live at the Village Vanguard" if I see it.
 - *Saturday Night at the Village Vanguard* — for [[Cherokee]]. See note about the Japanese box on other page.
 
@@ -69,6 +92,7 @@ Shopping list generated 2026-11-15 from the Decision column on each song page. I
 
 **Shorter, Wayne**
 - *Adam's Apple* — for [[Footprints]]
+- *Jazz at the Opera House* — for [['Round Midnight]]. This is a Wayne Shorter/Herbie Hancock duet, but the album is "Conrad Silvert Presents Jazz at the Opera House".
 
 **Sinatra, Frank**
 - *Songs for Young Lovers* — for [[My Funny Valentine]]
@@ -100,6 +124,9 @@ Shopping list generated 2026-11-15 from the Decision column on each song page. I
 
 ### Jazz
 
+**Alexander, Monty**
+- *Monty Meets Sly and Robbie* — for [[Moanin']]
+
 **Bridgewater, Dee Dee**
 - *Red Earth: A Malian Journey* — for [[Afro Blue]]. Combines jazz with Malian griot tradition; also contains Long Time Ago (Footprints with lyrics) and Compared to What.
 
@@ -114,6 +141,15 @@ Shopping list generated 2026-11-15 from the Decision column on each song page. I
 
 **Davis, Miles**
 - *The Complete Concert 1964* — for [[My Funny Valentine]]; instead of *My Funny Valentine*, which stays a target. CD. Contains both My Funny Valentine and 'Four' & More.
+
+**De Biasio, Melanie**
+- *Lilies* — for [[Afro Blue]]
+
+**Farmer, Art**
+- *Live at Stanford Jazz Workshop* — for [[Blue Bossa]]
+
+**Harrison, Donald**
+- *Real Life Stories* — for [[A Night in Tunisia]]
 
 **Henderson, Joe**
 - *Lush Life: The Music of Billy Strayhorn* — for [[Blood Count]]
@@ -130,20 +166,46 @@ Shopping list generated 2026-11-15 from the Decision column on each song page. I
 **Lloyd, Charles**
 - *Lift Every Voice* — for [[Blood Count]]
 
+**Lovano, Joe**
+- *From the Soul* — for [[Body and Soul]]
+
 **McRae, Carmen**
 - *The Carmen McRae/Betty Carter Duets* — for [[Stolen Moments]]. Fantastic version. an entire album of duets from these two is very interesting to me; LP version would be fine as well but given the date I suspect there's a digital step in there somewhere anyway, and the album art is meh.
 
 **Medeski, Martin, and Wood**
 - *Notes from the Underground* — for [[Caravan]]
 
+**Moran, Jason**
+- *The Bandwagon* — for [[Body and Soul]]
+
 **Navarro, Fats**
 - *The Fats Navarro Story (Proper)* — for [[A Night in Tunisia]]
 
 **Parker, Charlie**
 - *The Complete "Birth of the Bebop" (Stash)* — for [[Body and Soul]], [[Cherokee]], [[Honeysuckle Rose]], [[Sweet Georgia Brown]]
+- *Town Hall, New York City, June 22, 1945 (Uptown)* — for [[A Night in Tunisia]]
+
+**Reeves, Dianne**
+- *I Remember* — for [[Afro Blue]]
 
 **Shaw, Artie**
 - *Self Portrait* — for [[Summertime]]
 
 **Tatum, Art**
 - *God Is in the House* — for [[Body and Soul]], [[Sweet Georgia Brown]]
+
+**Tyner, McCoy**
+- *McCoy Tyner and the Latin All-Stars* — for [[Blue Bossa]]. Also has Poinciana and Afro Blue.
+
+**Vaughan, Sarah**
+- *Young Sassy (Proper)* — for [[A Night in Tunisia]]
+
+**Williams, Mary Lou**
+- *Live at the Keystone Korner* — for [[A Night in Tunisia]]
+
+## Digital
+
+### Jazz
+
+**Berry, Chu**
+- *1937-1941 (Classics)* — for [[Body and Soul]]. On Qobuz as "Complete Jazz Series 1937-1941".
