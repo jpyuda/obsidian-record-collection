@@ -1,6 +1,6 @@
-Shopping list generated 2026-11-16 from the Decision column on each song page. It lists every target marked Buy or Buy other, grouped by format, then genre, then artist. Targets marked Skip, Pass, or Undecided are left out. Genre is the group of the song page that the album serves. To change an entry, edit the Decision cell on the song page and ask me to regenerate this list.
+Shopping list generated 2026-11-17 from the Decision column on each song page. It lists every target marked Buy or Buy other, grouped by format, then genre, then artist. Targets marked Skip, Pass, or Undecided are left out. Genre is the group of the song page that the album serves. To change an entry, edit the Decision cell on the song page and ask me to regenerate this list.
 
-**83 albums:** 49 LP, 33 CD, 1 Digital.
+**86 albums:** 47 LP, 38 CD, 1 Digital.
 
 ## LP
 
@@ -34,7 +34,6 @@ Shopping list generated 2026-11-16 from the Decision column on each song page. I
 
 **Davis, Miles**
 - *'Round About Midnight* — for [['Round Midnight]]
-- *Bags' Groove* — for [[Bags' Groove]]; instead of *Miles Davis and the Modern Jazz Giants*, which stays a target. 12" LP reissue of this Miles material.
 - *Miles Smiles* — for [[Footprints]]
 
 **Don Byas**
@@ -73,7 +72,6 @@ Shopping list generated 2026-11-16 from the Decision column on each song page. I
 - *Bless This House* — for [[Summertime]]
 
 **Jackson, Milt**
-- *All Star Bags* — for [[Bags' Groove]]; instead of *Wizard of the Vibes*, which stays a target. 1970s Blue Note reissue LP; adds material from 3 additional 10" LPs.
 - *The Big Three* — for [[Blue Bossa]]
 
 **Jamal, Ahmad**
@@ -85,6 +83,9 @@ Shopping list generated 2026-11-16 from the Decision column on each song page. I
 
 **Mann, Herbie**
 - *Standing Ovation at Newport* — for [[Stolen Moments]]. Interesting version -- Corea's solo is excellent. Acquisition will depend on the quality of the rest of the album.
+
+**Martino, Pat**
+- *The Visit* — for [[Footprints]]
 
 **Mobley, Hank**
 - *Monday Night at Birdland* — for [[Bags' Groove]]
@@ -113,9 +114,6 @@ Shopping list generated 2026-11-16 from the Decision column on each song page. I
 **Timmons, Bobby**
 - *This Here Is Bobby Timmons* — for [[Moanin']]
 
-**Tjader, Cal**
-- *Monterey Concerts* — for [[Afro Blue]]; instead of *Cal Tjader's Concert by the Sea*, which stays a target. LP, contains both shows in full. Also has 'Round Midnight and A Night in Tunisia.
-
 **Tyner, McCoy**
 - *Song of the New World* — for [[Afro Blue]]
 
@@ -140,6 +138,9 @@ Shopping list generated 2026-11-16 from the Decision column on each song page. I
 **Alexander, Monty**
 - *Monty Meets Sly and Robbie* — for [[Moanin']]
 
+**Ambolley, Blay**
+- *AfriKan JaaZZ* — for [[Footprints]]
+
 **Bigard, Barney**
 - *The Duke's Men: Small Groups (Columbia)* — for [[Caravan]]. Compilation of recordings by small groups of Ellington sidemen.
 
@@ -153,9 +154,10 @@ Shopping list generated 2026-11-16 from the Decision column on each song page. I
 - *Dear Miles* — for [[Bags' Groove]]. Also has My Funny Valentine; not available on streaming.
 
 **Coltrane, John**
-- *Afro Blue Impressions* — for [[Afro Blue]], [[Naima]]. (contains additional version of Naima).
+- *Afro Blue Impressions* — for [[Afro Blue]], [[Naima]]. Contains additional version of Naima.
 
 **Davis, Miles**
+- *LP* — for [[Bags' Groove]]; instead of *Miles Davis and the Modern Jazz Giants*, which stays a target. Bags' Groove. 12" LP reissue of this Miles material with additional tracks.
 - *The Complete Concert 1964* — for [[My Funny Valentine]]; instead of *My Funny Valentine*, which stays a target. CD. Contains both My Funny Valentine and 'Four' & More.
 
 **De Biasio, Melanie**
@@ -176,8 +178,14 @@ Shopping list generated 2026-11-16 from the Decision column on each song page. I
 **Iyer, Vijay**
 - *Break Stuff* — for [[Blood Count]]
 
+**Jackson, Milt**
+- *LP* — for [[Bags' Groove]]; instead of *Wizard of the Vibes*, which stays a target. All Star Bags. 1970s Blue Note reissue LP; adds material from 3 additional 10" LPs.
+
 **Jamal, Ahmad**
 - *Ballades* — for [[Poinciana]]
+
+**Liebman, David**
+- *Pendulum* — for [[Footprints]]. 3xCD expanded Mosaic release.
 
 **Lloyd, Charles**
 - *Lift Every Voice* — for [[Blood Count]]
@@ -219,6 +227,9 @@ Shopping list generated 2026-11-16 from the Decision column on each song page. I
 **Tatum, Art**
 - *California Melodies* — for [[Caravan]]
 - *God Is in the House* — for [[Body and Soul]], [[Sweet Georgia Brown]]
+
+**Tjader, Cal**
+- *LP* — for [[Afro Blue]]; instead of *Cal Tjader's Concert by the Sea*, which stays a target. Monterey Concerts. Contains both shows in full; also has 'Round Midnight and A Night in Tunisia.
 
 **Tyner, McCoy**
 - *McCoy Tyner and the Latin All-Stars* — for [[Blue Bossa]]. Also has Poinciana and Afro Blue.

@@ -17,10 +17,10 @@
 8. [['Round Midnight|’Round Midnight]] — Monk · Bebop ballad; structure forces interpreters to show their hand
 
 ## Blues form and hard bop
-9. [[Bags' Groove|Bags’ Groove]] — Milt Jackson · Riff-based, almost swing-era simplicity; widely reinterpreted
-10. [[Work Song]] — Nat Adderley · Field holler to hard bop explicitly
-11. [[Moanin'|Moanin’]] — Timmons · Black church moan into hard bop; gospel bridge
-12. [[Body and Soul|Body and soul]] — The through-line tune · Hawkins 1939 to present
+1. [[Bags' Groove|Bags’ Groove]] — Milt Jackson · Riff-based, almost swing-era simplicity; widely reinterpreted
+2. [[Work Song]] — Nat Adderley · Field holler to hard bop explicitly
+3. [[Moanin'|Moanin’]] — Timmons · Black church moan into hard bop; gospel bridge
+4. [[Body and Soul|Body and soul]] — The through-line tune · Hawkins 1939 to present
 
 ## Modal and post-bop
 13. [[Afro Blue]] — Santamaría → Coltrane · Documented cross-diaspora migration
@@ -47,32 +47,20 @@
 Songs from John's ranked shortlist ([[Blues shortlist]]). Each page has a `genre: blues` field.
 1. [[Stormy Monday]] — T-Bone Walker · Texas blues into jazz, soul, and rock
 2. [[Trouble in Mind]] — Richard M. Jones · Pre-war women's blues into jazz and folk
-3. [[Nobody Knows You When You're Down and Out|Nobody Knows You When You’re Down and Out]] — Jimmie Cox · Bessie Smith to Clapton
-4. [[Every Day I Have the Blues]] — Pinetop Sparks · Basie and Joe Williams, B.B. King
-5. [[Cross Road Blues]] — Robert Johnson · Delta anchor
-6. [[Dust My Broom]] — Robert Johnson to Elmore James · Electric slide template
-7. [[Baby, Please Don't Go|Baby, Please Don’t Go]] — Big Joe Williams · Delta song with Chicago and British Invasion versions
-8. [[Catfish Blues (Rollin' Stone)|Catfish Blues (Rollin’ Stone)]] — Petway to Muddy Waters to Hendrix
-9. [[See See Rider]] — Ma Rainey · Blues, R&B, and rock
-10. [[Sitting on Top of the World]] — Mississippi Sheiks · String-band blues into country and rock
-11. [[Key to the Highway]] — Charlie Segar · Chicago and Delta standard, eight-bar blues
-12. [[Red House]] — Jimi Hendrix · 12-bar blues with many covers
-13. [[Got My Mojo Working]] — Preston Foster to Muddy Waters · Chicago band blues
+3. [[Baby, Please Don't Go|Baby, Please Don’t Go]] — Big Joe Williams · Delta song with Chicago and British Invasion versions
+4. [[See See Rider]] — Ma Rainey · Blues, R&B, and rock
+5. [[Sitting on Top of the World]] — Mississippi Sheiks · String-band blues into country and rock
 
 ## Gospel
 A catch-all group: spirituals, hymns, gospel, and freedom songs ([[Gospel shortlist]]). Each page has a `genre: gospel` field and a `category` field.
 1. [[Sometimes I Feel Like a Motherless Child]] — Spiritual · Source for "Summertime"
-2. [[Amazing Grace]] — Hymn · Aretha's 1972 live recording
-3. [[Precious Lord, Take My Hand]] — Thomas Dorsey · Central gospel song
-4. [[Nobody Knows the Trouble I've Seen|Nobody Knows the Trouble I’ve Seen]] — Spiritual
-5. [[How I Got Over]] — Clara Ward · Gospel; March on Washington
-6. [[A Change Is Gonna Come]] — Sam Cooke · Freedom song
-7. [[Lift Every Voice and Sing]] — Johnson brothers, 1900 · Freedom song
-8. [[Wade in the Water]] — Spiritual · Jazz and soul versions
-9. [[Swing Low, Sweet Chariot]] — Spiritual
-10. [[Just a Closer Walk with Thee]] — Hymn · New Orleans funeral tradition
-11. [[Go Tell It on the Mountain]] — Spiritual · Baldwin's title; gospel, soul, and jazz versions
-12. [[Sinnerman]] — Spiritual · Nina Simone's 1965 recording; reggae and sampled versions
+2. [[A Change Is Gonna Come]] — Sam Cooke · Freedom song
+3. [[Lift Every Voice and Sing]] — Johnson brothers, 1900 · Freedom song
+4. [[Wade in the Water]] — Spiritual · Jazz and soul versions
+5. [[Swing Low, Sweet Chariot]] — Spiritual
+6. [[Just a Closer Walk with Thee]] — Hymn · New Orleans funeral tradition
+7. [[Go Tell It on the Mountain]] — Spiritual · Baldwin's title; gospel, soul, and jazz versions
+8. [[Sinnerman]] — Spiritual · Nina Simone's 1965 recording; reggae and sampled versions
 
 ## Soul and R&B (stub)
 A future short list of soul and R&B songs. Each page will have a `genre: soul` field. No ranked shortlist exists yet.

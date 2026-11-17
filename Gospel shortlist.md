@@ -7,24 +7,22 @@ Ranked shortlist of 12 songs (10 at the first draft; *Go Tell It on the Mountain
 3. The song links to existing pages or to records already in the collection.
 4. No single artist owns the song, so the page holds a range of versions.
 
-## Shortlist (final, 12 songs)
+## Shortlist (8 songs after the cuts of 2026-11-17)
 
 | Rank | Song | Category | Origin | Why it ranks here |
 | ---- | ---- | -------- | ------ | ----------------- |
 | 1 | Sometimes I Feel Like a Motherless Child | Spiritual | Traditional | The *Summertime* page already has a section for it, which can seed this page. |
-| 2 | Amazing Grace | Hymn | Text by John Newton, published 1779 | Very large version count across every genre. |
-| 3 | Precious Lord, Take My Hand | Gospel | Thomas Dorsey, 1932 | The central gospel song, with Mahalia Jackson, Aretha Franklin, and many others. |
-| 4 | Nobody Knows the Trouble I've Seen | Spiritual | Traditional | Many jazz and gospel versions; Louis Armstrong's recording is the best known. |
-| 5 | How I Got Over | Gospel | Clara Ward | Clara Ward's recording and Mahalia Jackson's performance at the 1963 March on Washington anchor it. |
-| 6 | A Change Is Gonna Come | Freedom song | Sam Cooke, 1964 | Very large version count: Aretha Franklin, Otis Redding, Al Green, and many later singers. |
-| 7 | Lift Every Voice and Sing | Freedom song | James Weldon Johnson and J. Rosamond Johnson, 1900 | Brother Jack McDuff's *Lift Every Voice and Sing* (added to Discogs 2026-11-01) carries the title. |
-| 8 | Wade in the Water | Spiritual | Traditional | Many jazz and soul versions, so it links to the jazz pages. |
-| 9 | Swing Low, Sweet Chariot | Spiritual | Traditional | A very large number of versions across gospel, jazz, folk, and rock. |
-| 10 | Just a Closer Walk with Thee | Hymn | Traditional | Links to New Orleans jazz funerals, so it overlaps *When the Saints Go Marchin' In*. |
-| 11 | Go Tell It on the Mountain | Spiritual | Traditional; published by John Wesley Work Jr., 1901 | Added 2026-11-03 at John's request. Versions by Mahalia Jackson, Odetta, the Staple Singers, Peter Tosh, and Wynton Marsalis. |
-| 12 | Sinnerman | Spiritual | Traditional; first recording by Les Baxter and Will Holt, 1956 | Added 2026-11-04 at John's request. Nina Simone's 1965 recording (owned) is the best-known version; Peter Tosh and others followed. |
+| 2 | A Change Is Gonna Come | Freedom song | Sam Cooke, 1964 | Very large version count: Aretha Franklin, Otis Redding, Al Green, and many later singers. |
+| 3 | Lift Every Voice and Sing | Freedom song | James Weldon Johnson and J. Rosamond Johnson, 1900 | Brother Jack McDuff's *Lift Every Voice and Sing* (added to Discogs 2026-11-01) carries the title. |
+| 4 | Wade in the Water | Spiritual | Traditional | Many jazz and soul versions, so it links to the jazz pages. |
+| 5 | Swing Low, Sweet Chariot | Spiritual | Traditional | A very large number of versions across gospel, jazz, folk, and rock. |
+| 6 | Just a Closer Walk with Thee | Hymn | Traditional | Links to New Orleans jazz funerals, so it overlaps *When the Saints Go Marchin' In*. |
+| 7 | Go Tell It on the Mountain | Spiritual | Traditional; published by John Wesley Work Jr., 1901 | Added 2026-11-03 at John's request. Versions by Mahalia Jackson, Odetta, the Staple Singers, Peter Tosh, and Wynton Marsalis. |
+| 8 | Sinnerman | Spiritual | Traditional; first recording by Les Baxter and Will Holt, 1956 | Added 2026-11-04 at John's request. Nina Simone's 1965 recording (owned) is the best-known version; Peter Tosh and others followed. |
 
 ## Cut by John
+
+- Cut on 2026-11-17, after the review in `Songs that fit the model.md`: *Amazing Grace*, *How I Got Over*, *Nobody Knows the Trouble I've Seen*, and *Precious Lord, Take My Hand*. Their pages sit in the `Archive` folder with their holdings and notes.
 
 - *Compared to What*: a Vietnam-era protest song with no gospel lineage. John decided on 2026-11-04 to keep the gospel group at 11 songs at that time and park the song for a future soul and R&B group; its page remains as a stub.
 
