@@ -62,6 +62,13 @@ A catch-all group: spirituals, hymns, gospel, and freedom songs ([[Gospel shortl
 7. [[Go Tell It on the Mountain]] — Spiritual · Baldwin's title; gospel, soul, and jazz versions
 8. [[Sinnerman]] — Spiritual · Nina Simone's 1965 recording; reggae and sampled versions
 
-## Soul and R&B (stub)
-A future short list of soul and R&B songs. Each page will have a `genre: soul` field. No ranked shortlist exists yet.
-1. [[Compared to What]] — Gene McDaniels · Protest song; McCann, Harris, and Roberta Flack versions
+## Soul and R&B (working list of eight)
+Each page has a `genre: soul` field. You will likely cut this list further after reviewing the target lists.
+1. [[Compared to What]] — Gene McDaniels · 2 holdings; McCann and Harris, Flack
+2. [[Night Time Is the Right Time]] — Roosevelt Sykes · 3 holdings; Charles, Chenier, Hooker
+3. [[People Get Ready]] — Curtis Mayfield · 2 holdings; Marley, Chambers Brothers
+4. [[Ain't No Sunshine]] — Bill Withers · 1 holding; Kirk
+5. [[Don't Let Me Be Misunderstood]] — Bennie Benjamin, Gloria Caldwell, and Sol Marcus · 1 holding; Santa Esmeralda and Leroy Gomez
+6. [[I Put a Spell on You]] — Screamin' Jay Hawkins · no holdings
+7. [[Feeling Good]] — Anthony Newley and Leslie Bricusse · no holdings
+8. [[Stand By Me]] — Ben E. King · no holdings

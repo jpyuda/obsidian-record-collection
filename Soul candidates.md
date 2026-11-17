@@ -65,3 +65,11 @@ Respect now has a weaker case, because you plan to own only Redding's studio ver
 5. Compared to What (2 holdings)
 
 Candidates for the sixth place: Don't Let Me Be Misunderstood (1 holding, strong version tradition), I Put a Spell on You (0 holdings, strongest version tradition of the new nominees), or Mercy, Mercy, Mercy (1 holding, overlaps the jazz pages).
+
+## Working list of eight (2026-11-17)
+
+You asked for target lists for eight songs. The pages exist now: [[Compared to What]], [[Night Time Is the Right Time]], [[People Get Ready]], [[Ain't No Sunshine]], [[Don't Let Me Be Misunderstood]], [[I Put a Spell on You]], [[Feeling Good]], and [[Stand By Me]]. The master list has a Soul table that holds every target row.
+
+Songs with the longest target lists: Stand By Me (11 rows), I Put a Spell on You (10 rows), People Get Ready (9 rows), and Feeling Good (9 rows). Songs with the shortest lists: Don't Let Me Be Misunderstood (4 rows, all from my memory) and Ain't No Sunshine (7 rows, of which only the Withers and Jackson rows hold clear interest).
+
+Several rows still need an album: the Staple Singers, Blind Boys of Alabama, Al Green, Eva Cassidy, and Persuasions on People Get Ready; Otis Redding on Stand By Me; Sammy Davis Jr. on Feeling Good; and Elvis Costello on Don't Let Me Be Misunderstood.
