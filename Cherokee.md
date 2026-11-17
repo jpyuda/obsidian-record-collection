@@ -28,7 +28,7 @@ first recording:
 | Don Byas                               | Savoy Jam Party                        | 1945-05-17            | Gioia version; New York                                       | Buy: LP  |                                               |
 | Bud Powell                             | Tempus Fugue-It (Proper)               | 1949-01/1949-02       | Gioia version; New York                                       | Buy: CD  |                                               |
 | Johnny Griffin                         | Way Out!                               | 1958-02-26/1958-02-27 | Gioia version; New York                                       | Buy: LP  |                                               |
-| Lee Konitz                             | Lone-Lee                               | 1974-08-15            | Gioia version; Copenhagen; Gioia calls it a long solo version |          |                                               |
+| Lee Konitz                             | Lone-Lee                               | 1974-08-15            | Gioia version; Copenhagen; Gioia calls it a long solo version | Skip     |                                               |
 | Art Pepper                             | Saturday Night at the Village Vanguard | 1977-07-30            | Gioia version; live at the Village Vanguard, New York         | Buy: LP  | see note about the Japanese box on other page |
 
 ## Listening order
