@@ -1,6 +1,6 @@
 Shopping list generated 2026-11-17 from the Decision column on each song page. It lists every target marked Buy or Buy other, grouped by format, then genre, then artist. Targets marked Skip, Pass, or Undecided are left out. Genre is the group of the song page that the album serves. To change an entry, edit the Decision cell on the song page and ask me to regenerate this list.
 
-**93 albums:** 51 LP, 41 CD, 1 Digital.
+**91 albums:** 49 LP, 41 CD, 1 Digital.
 
 ## LP
 
@@ -122,14 +122,6 @@ Shopping list generated 2026-11-17 from the Decision column on each song page. I
 
 **Vaughan, Sarah**
 - *Sarah Sings Soulfully* — for [['Round Midnight]]
-
-### Gospel
-
-**Cooke, Sam**
-- *Ain't That Good News* — for [[A Change Is Gonna Come]]
-
-**Redding, Otis**
-- *Otis Blue* — for [[A Change Is Gonna Come]]
 
 ### Soul
 

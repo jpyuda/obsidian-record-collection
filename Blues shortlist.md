@@ -13,12 +13,12 @@ Ranked shortlist of 12 blues songs, drafted 2026-11-01 from John's list of 11 pl
 | ---- | ---- | ------------------------------ | ------ | ----------------- |
 | 1 | Stormy Monday | T-Bone Walker, 1947 (Wikipedia's list says 1948) | John's list | Many blues, soul, and rock versions; the Texas and jazz-adjacent anchor. The new T-Bone Walker holding may contain it. |
 | 2 | Trouble in Mind | Bertha "Chippie" Hill, 1926 | Gap | Pre-war women's blues with many jazz and folk versions. Little Brother Montgomery's *Chicago: The Living Legends* (added today) includes it. |
-| 3 | Baby, Please Don't Go | Big Joe Williams, 1935 | Gap | Delta song with strong versions from Muddy Waters, Lightnin' Hopkins, and Them. |
-| 4 | See See Rider | Ma Rainey, 1924 | Gap | Very large version count across blues, jazz, R&B, and rock. |
-| 5 | Sitting on Top of the World | Mississippi Sheiks, 1930 | Gap | Black string-band tradition; covered by Howlin' Wolf, Cream, Doc Watson, Bob Wills, and the Grateful Dead. |
+| 3 | See See Rider | Ma Rainey, 1924 | Gap | Very large version count across blues, jazz, R&B, and rock. |
+| 4 | Sitting on Top of the World | Mississippi Sheiks, 1930 | Gap | Black string-band tradition; covered by Howlin' Wolf, Cream, Doc Watson, Bob Wills, and the Grateful Dead. |
 
 ## Cut by John
 
+- Cut on 2026-11-17, because the versions vary too little: *Baby, Please Don't Go*. Their pages sit in the `Archive` folder with their holdings and notes.
 - Cut on 2026-11-17, after the review in `Songs that fit the model.md`: *Catfish Blues / Rollin' Stone*, *Cross Road Blues*, *Dust My Broom*, *Every Day I Have the Blues*, *Got My Mojo Working*, *Key to the Highway*, *Nobody Knows You When You're Down and Out*, and *Red House*. Their pages sit in the `Archive` folder with their holdings and notes.
 
 - *Boom Boom*: John Lee Hooker owns the song, and the page found few distinct versions. *Key to the Highway* took its slot.
