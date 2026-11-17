@@ -21,7 +21,6 @@ first recording: Duke Ellington and His Orchestra, 1943 (live at Carnegie Hall)
 
 | Artist          | Album                        | Recording date | Notes                                                     | Decision |
 | --------------- | ---------------------------- | -------------- | --------------------------------------------------------- | -------- |
-| Gerald Wilson   | 1945-1946 (Classics)         | circa 1946-04  | Hollywood                                                 | Skip     |
 | Duke Ellington  | Black, Brown and Beige       | 1958-02        | with Mahalia Jackson; Los Angeles                         | Buy: LP  |
 | Dizzy Gillespie | A Portrait of Duke Ellington | 1960-04-27/28  | New York                                                  | Buy: LP  |
 | Andrew Hill     | Live at Montreux             | 1975-07-20     | live at the Montreux Jazz Festival, Montreux, Switzerland | Buy: LP  |
@@ -34,18 +33,17 @@ Versions in date order, with owned and not-owned recordings mixed. Struck-throug
 
 1. 1943-01-23 · Duke Ellington and His Orchestra, *The Duke Ellington Carnegie Hall Concerts, January 1943* (owned; Gioia pick)
 2. 1944-12-19 · Duke Ellington and His Orchestra, *The Duke Ellington Carnegie Hall Concerts (December 1944)* (owned)
-3. circa 1946-04 · Gerald Wilson, *1945-1946 (Classics)* (not owned yet)
-4. 1958-02 · Duke Ellington, *Black, Brown and Beige* (not owned yet)
-5. 1959-03-25 · Abbey Lincoln, *Abbey Is Blue* (owned; Gioia pick)
-6. 1960-04-27/28 · Dizzy Gillespie, *A Portrait of Duke Ellington* (not owned yet)
-7. 1963-07-01 · Eric Dolphy, *Iron Man* (owned; Gioia pick)
-8. 1963-07-15 · Joe Zawinul, *The Japanese Concerts* (owned; Gioia pick)
-9. 1965-05-13/14/15 · The Ramsey Lewis Trio, *The In Crowd* (owned)
-10. 1971-12-10 · Earl Hines, *Earl Hines Plays Duke Ellington* (owned)
-11. 1972-05-08; 1972-05-10; 1972-05-11; 1972-09-25; 1972-09-26 · Yusef Lateef, *Hush 'N' Thunder* (owned)
-12. 1975-07-20 · Andrew Hill, *Live at Montreux* (not owned yet)
-13. 1975-11/12 · Kenny Burrell, *Ellington Is Forever, Volume Two* (owned)
-14. 1986-04 · World Saxophone Quartet, *Plays Duke Ellington* (owned)
-15. 2001-06 · Randy Weston, *Ancient Future* (not owned yet)
-16. 2001-10-29 · Eric Reed, *Mercy and Grace* (not owned yet)
+3. 1958-02 · Duke Ellington, *Black, Brown and Beige* (not owned yet)
+4. 1959-03-25 · Abbey Lincoln, *Abbey Is Blue* (owned; Gioia pick)
+5. 1960-04-27/28 · Dizzy Gillespie, *A Portrait of Duke Ellington* (not owned yet)
+6. 1963-07-01 · Eric Dolphy, *Iron Man* (owned; Gioia pick)
+7. 1963-07-15 · Joe Zawinul, *The Japanese Concerts* (owned; Gioia pick)
+8. 1965-05-13/14/15 · The Ramsey Lewis Trio, *The In Crowd* (owned)
+9. 1971-12-10 · Earl Hines, *Earl Hines Plays Duke Ellington* (owned)
+10. 1972-05-08; 1972-05-10; 1972-05-11; 1972-09-25; 1972-09-26 · Yusef Lateef, *Hush 'N' Thunder* (owned)
+11. 1975-07-20 · Andrew Hill, *Live at Montreux* (not owned yet)
+12. 1975-11/12 · Kenny Burrell, *Ellington Is Forever, Volume Two* (owned)
+13. 1986-04 · World Saxophone Quartet, *Plays Duke Ellington* (owned)
+14. 2001-06 · Randy Weston, *Ancient Future* (not owned yet)
+15. 2001-10-29 · Eric Reed, *Mercy and Grace* (not owned yet)
 

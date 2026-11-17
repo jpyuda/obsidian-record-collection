@@ -24,11 +24,9 @@ first recording:
 
 | Artist                                 | Album                                  | Recording date        | Notes                                                         | Decision | My notes                                      |
 | -------------------------------------- | -------------------------------------- | --------------------- | ------------------------------------------------------------- | -------- | --------------------------------------------- |
-| Charlie Barnet                         | Cherokee (ASV/Living Era)              | 1939-07-17            | Gioia version; New York                                       | Skip     |                                               |
 | Charlie Parker                         | The Complete "Birth of the Bebop"      | circa 1942-09         | Gioia version; Kansas City, Missouri; probably September 1942 | Buy: CD  |                                               |
 | Don Byas                               | Savoy Jam Party                        | 1945-05-17            | Gioia version; New York                                       | Buy: LP  |                                               |
 | Bud Powell                             | Tempus Fugue-It (Proper)               | 1949-01/1949-02       | Gioia version; New York                                       | Buy: CD  |                                               |
-| Stan Kenton (featuring Lennie Niehaus) | Contemporary Concepts                  | 1955-07-20            | Gioia version                                                 | Skip     |                                               |
 | Johnny Griffin                         | Way Out!                               | 1958-02-26/1958-02-27 | Gioia version; New York                                       | Buy: LP  |                                               |
 | Lee Konitz                             | Lone-Lee                               | 1974-08-15            | Gioia version; Copenhagen; Gioia calls it a long solo version |          |                                               |
 | Art Pepper                             | Saturday Night at the Village Vanguard | 1977-07-30            | Gioia version; live at the Village Vanguard, New York         | Buy: LP  | see note about the Japanese box on other page |
@@ -39,23 +37,21 @@ Versions in date order, with owned and not-owned recordings mixed. Struck-throug
 
 1. 1939-02-03 · Count Basie (with Lester Young), *The Complete Decca Recordings* (owned; disc 3, tracks 11 and 12 (Cherokee, Parts 1 and 2); Gioia pick)
 2. 1939-02-03 · Lester Young, *The Lester Young Story* (owned; disc 1, track 20 (Cherokee, Pts. 1 & 2, 6:11); Gioia pick)
-3. 1939-07-17 · Charlie Barnet, *Cherokee (ASV/Living Era)* (not owned yet)
-4. circa 1942-09 · Charlie Parker, *The Complete "Birth of the Bebop"* (not owned yet)
-5. 1944-08-30 · Oscar Alemán, *Swing Guitar Masterpieces 1938-1957* (owned; disc 1, track 24 (3:11))
-6. 1945-01-12 · Dizzy Gillespie, *The Dizzy Gillespie Story 1939-1950* (owned; disc 1, track 15 (2:51))
-7. 1945-05-17 · Don Byas, *The Don Byas Collection: 1939-61 (Acrobat)* (not owned yet)
-8. 1945-11-26 · Charlie Parker, *Bird / The Savoy Recordings (Master Takes)* (owned)
-9. 1945-11-26 · Charlie Parker, *The Smithsonian Collection of Classic Jazz* (owned; disc 3, track 12 (2:51))
-10. 1947-09-29 · Dizzy Gillespie (with Charlie Parker), *The Dizzy Gillespie Story 1939-1950* (owned; disc 3, track 11 (4:06))
-11. 1949-01/1949-02 · Bud Powell, *Tempus Fugue-It (Proper)* (not owned yet)
-12. 1953 · Clifford Brown, *Brownie Eyes* (owned)
-13. 1955-02-25 · Clifford Brown, *The Quintet Vol. 2* (owned; disc 1, side B, track 1 (5:41); Gioia pick)
-14. 1955-07-20 · Stan Kenton (featuring Lennie Niehaus), *Contemporary Concepts* (not owned yet)
-15. 1958-02-26/1958-02-27 · Johnny Griffin, *Way Out!* (not owned yet)
-16. 1973-08-28 · Joe Pass, *Virtuoso* (owned)
-17. 1974-08-15 · Lee Konitz, *Lone-Lee* (not owned yet)
-18. 1977-06-02/1977-06-03 · Charles Mingus, *In Argentina (The Buenos Aires Concerts)* (owned)
-19. 1977-07-30 · Art Pepper, *Saturday Night at the Village Vanguard* (not owned yet)
-20. 1986-05-29/1986-05-30; 1986-09-24/1986-09-25 · Wynton Marsalis, *Marsalis Standard Time, Vol. 1* (owned; tracks 3 and 12 (2:21 and 2:27); Gioia pick)
-21. 1991-05-22 · Donald Harrison, Guardians of the Flame, the Mardi Gras Indians, and Dr. John, *Indian Blues* (owned)
+3. circa 1942-09 · Charlie Parker, *The Complete "Birth of the Bebop"* (not owned yet)
+4. 1944-08-30 · Oscar Alemán, *Swing Guitar Masterpieces 1938-1957* (owned; disc 1, track 24 (3:11))
+5. 1945-01-12 · Dizzy Gillespie, *The Dizzy Gillespie Story 1939-1950* (owned; disc 1, track 15 (2:51))
+6. 1945-05-17 · Don Byas, *The Don Byas Collection: 1939-61 (Acrobat)* (not owned yet)
+7. 1945-11-26 · Charlie Parker, *Bird / The Savoy Recordings (Master Takes)* (owned)
+8. 1945-11-26 · Charlie Parker, *The Smithsonian Collection of Classic Jazz* (owned; disc 3, track 12 (2:51))
+9. 1947-09-29 · Dizzy Gillespie (with Charlie Parker), *The Dizzy Gillespie Story 1939-1950* (owned; disc 3, track 11 (4:06))
+10. 1949-01/1949-02 · Bud Powell, *Tempus Fugue-It (Proper)* (not owned yet)
+11. 1953 · Clifford Brown, *Brownie Eyes* (owned)
+12. 1955-02-25 · Clifford Brown, *The Quintet Vol. 2* (owned; disc 1, side B, track 1 (5:41); Gioia pick)
+13. 1958-02-26/1958-02-27 · Johnny Griffin, *Way Out!* (not owned yet)
+14. 1973-08-28 · Joe Pass, *Virtuoso* (owned)
+15. 1974-08-15 · Lee Konitz, *Lone-Lee* (not owned yet)
+16. 1977-06-02/1977-06-03 · Charles Mingus, *In Argentina (The Buenos Aires Concerts)* (owned)
+17. 1977-07-30 · Art Pepper, *Saturday Night at the Village Vanguard* (not owned yet)
+18. 1986-05-29/1986-05-30; 1986-09-24/1986-09-25 · Wynton Marsalis, *Marsalis Standard Time, Vol. 1* (owned; tracks 3 and 12 (2:21 and 2:27); Gioia pick)
+19. 1991-05-22 · Donald Harrison, Guardians of the Flame, the Mardi Gras Indians, and Dr. John, *Indian Blues* (owned)
 

@@ -1,6 +1,6 @@
 Shopping list generated 2026-11-16 from the Decision column on each song page. It lists every target marked Buy or Buy other, grouped by format, then genre, then artist. Targets marked Skip, Pass, or Undecided are left out. Genre is the group of the song page that the album serves. To change an entry, edit the Decision cell on the song page and ask me to regenerate this list.
 
-**76 albums:** 45 LP, 30 CD, 1 Digital.
+**83 albums:** 49 LP, 33 CD, 1 Digital.
 
 ## LP
 
@@ -37,6 +37,9 @@ Shopping list generated 2026-11-16 from the Decision column on each song page. I
 - *Bags' Groove* — for [[Bags' Groove]]; instead of *Miles Davis and the Modern Jazz Giants*, which stays a target. 12" LP reissue of this Miles material.
 - *Miles Smiles* — for [[Footprints]]
 
+**Don Byas**
+- *Savoy Jam Party* — for [[Cherokee]]
+
 **Ellington, Duke**
 - *Black, Brown and Beige* — for [[Come Sunday]]
 - *The Greatest Jazz Concert in the World (Pablo)* — for [[Blood Count]]
@@ -45,16 +48,23 @@ Shopping list generated 2026-11-16 from the Decision column on each song page. I
 - *Pure Getz* — for [[Blood Count]]
 
 **Gillespie, Dizzy**
+- *A Portrait of Duke Ellington* — for [[Come Sunday]]
 - *Dee Gee Days (Savoy)* — for [[Caravan]]
 
 **Gordon, Dexter**
 - *Biting the Apple* — for [[Blue Bossa]]
+
+**Griffin, Johnny**
+- *Way Out!* — for [[Cherokee]]
 
 **Hancock, Herbie**
 - *Takin' Off* — for [[Watermelon Man]]
 
 **Harris, Barry**
 - *Chasin' the Bird* — for [['Round Midnight]]
+
+**Hill, Andrew**
+- *Live at Montreux* — for [[Come Sunday]]
 
 **Hubbard, Freddie**
 - *Here to Stay* — for [[Body and Soul]]. Exists both as a 70s twofer (with Hub Cap) and a later individual reissue. Both have the same title, either is acceptable.
@@ -191,6 +201,12 @@ Shopping list generated 2026-11-16 from the Decision column on each song page. I
 - *The Complete "Birth of the Bebop" (Stash)* — for [[Body and Soul]], [[Cherokee]], [[Honeysuckle Rose]], [[Sweet Georgia Brown]]
 - *Town Hall, New York City, June 22, 1945 (Uptown)* — for [[A Night in Tunisia]]
 
+**Powell, Bud**
+- *Tempus Fugue-It (Proper)* — for [[Cherokee]]
+
+**Reed, Eric**
+- *Mercy and Grace* — for [[Come Sunday]]
+
 **Reeves, Dianne**
 - *I Remember* — for [[Afro Blue]]
 
@@ -209,6 +225,9 @@ Shopping list generated 2026-11-16 from the Decision column on each song page. I
 
 **Vaughan, Sarah**
 - *Young Sassy (Proper)* — for [[A Night in Tunisia]]
+
+**Weston, Randy**
+- *Ancient Future* — for [[Come Sunday]]
 
 **Williams, Mary Lou**
 - *Live at the Keystone Korner* — for [[A Night in Tunisia]]
