@@ -28,6 +28,7 @@ first recording: Les Baxter Chorus and Orchestra with Will Holt, 1956 (Capitol; 
 | 16 Horsepower                                  | Folklore                                    | 2002                       | per Wikipedia                                                                                                        | Skip: Alternative country reading; low fit                   |          |          |
 | Talib Kweli                                    | Quality                                     | 2002                       | "Get By", produced by Kanye West, samples the Nina Simone *Pastel Blues* recording; year from memory, to be verified | Listen first: A sample, not a cover                          |          |          |
 | Sinéad O'Connor                                | Throw Down Your Arms                        | 2005                       | covers the Peter Tosh version; per Wikipedia                                                                         | Listen first: Reggae-based cover                             |          |          |
+| Various artists                                | Nina Revisited: A Tribute to Nina Simone    | 2015                       | per your note, Gregory Porter sings this song; the album title and year are from my memory, verify                   | Keep: Tribute album with several readings                    | Buy: CD  |          |
 | Vika and Linda                                 | Sunday (The Gospel According to Iso)        | 2020                       | per Wikipedia                                                                                                        | Listen first: Recent gospel reading                          |          |          |
 
 ## Listening order
@@ -46,7 +47,8 @@ Versions in date order, with owned and not-owned recordings mixed. Struck-throug
 10. 2002 · 16 Horsepower, *Folklore* (not owned yet)
 11. 2002 · Talib Kweli, *Quality* (not owned yet)
 12. 2005 · Sinéad O'Connor, *Throw Down Your Arms* (not owned yet)
-13. 2020 · Vika and Linda, *Sunday (The Gospel According to Iso)* (not owned yet)
+13. 2015 · Various artists (Gregory Porter), *Nina Revisited: A Tribute to Nina Simone* (not owned yet)
+14. 2020 · Vika and Linda, *Sunday (The Gospel According to Iso)* (not owned yet)
 
 ## Notes
 

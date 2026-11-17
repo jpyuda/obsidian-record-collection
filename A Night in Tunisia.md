@@ -30,14 +30,15 @@ first recording: Sarah Vaughan, 1944
 | The Modern Jazz Quartet            | The Last Concert                                      | LP        | 1974-11-25     |                                                                                 | N      | Keep: Serves 4 tracked songs                                                     |          |          |
 ## Targeted acquisitions
 
-| Artist                             | Album                                            | Recording date | Notes                                                                                    | Decision |
-| ---------------------------------- | ------------------------------------------------ | -------------- | ---------------------------------------------------------------------------------------- | -------- |
-| Sarah Vaughan                      | Young Sassy (Proper)                             | 1944-12-31     | released as "Interlude" or "Love Was Just an Interlude"; New York                        | Buy: CD  |
-| Charlie Parker and Dizzy Gillespie | Town Hall, New York City, June 22, 1945 (Uptown) | 1945-06-22     | live at Town Hall, New York                                                              | Buy: CD  |
-| Fats Navarro                       | The Fats Navarro Story (Proper)                  | 1950-06-30     | live at Birdland, New York; amateur recording with poor sound; Art Blakey is the drummer | Buy: CD  |
-| Clifford Brown                     | The Beginning and the End                        | 1955-05-31     | live at Music City, Philadelphia                                                         | Buy: LP  |
-| Mary Lou Williams                  | Live at the Keystone Korner                      | 1977-05-08     | live at the Keystone Korner, San Francisco                                               | Buy: CD  |
-| Donald Harrison                    | Real Life Stories                                | 2001-11-04/06  | with Christian Scott; New York                                                           | Buy: CD  |
+| Artist                             | Album                                            | Recording date | Notes                                                                                                                                                                  | Decision |
+| ---------------------------------- | ------------------------------------------------ | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| Sarah Vaughan                      | Young Sassy (Proper)                             | 1944-12-31     | released as "Interlude" or "Love Was Just an Interlude"; New York                                                                                                      | Buy: CD  |
+| Charlie Parker and Dizzy Gillespie | Town Hall, New York City, June 22, 1945 (Uptown) | 1945-06-22     | live at Town Hall, New York                                                                                                                                            | Buy: CD  |
+| Fats Navarro                       | The Fats Navarro Story (Proper)                  | 1950-06-30     | live at Birdland, New York; amateur recording with poor sound; Art Blakey is the drummer                                                                               | Buy: CD  |
+| Clifford Brown                     | The Beginning and the End                        | 1955-05-31     | live at Music City, Philadelphia                                                                                                                                       | Buy: LP  |
+| Mary Lou Williams                  | Live at the Keystone Korner                      | 1977-05-08     | live at the Keystone Korner, San Francisco                                                                                                                             | Buy: CD  |
+| Donald Harrison                    | Real Life Stories                                | 2001-11-04/06  | with Christian Scott; New York                                                                                                                                         | Buy: CD  |
+| Jamie Cullum                       | Interlude                                        | 2014           | the Night in Tunisia version is titled "Interlude"; the same album holds a Don't Let Me Be Misunderstood track with Gregory Porter; the year is from my memory, verify |          |
 
 ## Listening order
 
@@ -61,13 +62,14 @@ Versions in date order, with owned and not-owned recordings mixed. Struck-throug
 16. 1958 · Michel Legrand and Miles Davis, *Legrand Jazz* (owned; A3)
 17. 1958-07-06 · Max Roach Quintet, *Max Roach + Four at Newport* (owned)
 18. 1958-11-29 · Art Blakey and the Jazz Messengers, *Live in Scheveningen 1958* (owned)
-19. circa 1959 · Various, *Truly Madly Deeplee Morgan* (owned)
-20. 1959-11-23 · Art Blakey and the Jazz Messengers, *Live in Stockholm 1959* (owned)
-21. 1960-01-04 · Jimmy Smith, *Crazy! Baby* (owned)
-22. 1960-08-14 · Art Blakey and the Jazz Messengers, *A Night in Tunisia* (owned; Gioia pick)
-23. 1961-01-14 · Art Blakey and the Jazz Messengers, *First Flight to Tokyo: The Lost 1961 Recordings* (owned)
-24. 1963-05-23 · Dexter Gordon, *Our Man in Paris* (owned; Gioia pick)
-25. 1974-11-25 · The Modern Jazz Quartet, *The Last Concert* (owned)
-26. 1977-05-08 · Mary Lou Williams, *Live at the Keystone Korner* (not owned yet)
-27. 2001-11-04/06 · Donald Harrison, *Real Life Stories* (not owned yet)
+19. 1959-11-23 · Art Blakey and the Jazz Messengers, *Live in Stockholm 1959* (owned)
+20. 1960-01-04 · Jimmy Smith, *Crazy! Baby* (owned)
+21. 1960-08-14 · Art Blakey and the Jazz Messengers, *A Night in Tunisia* (owned; Gioia pick)
+22. 1961-01-14 · Art Blakey and the Jazz Messengers, *First Flight to Tokyo: The Lost 1961 Recordings* (owned)
+23. 1963-05-23 · Dexter Gordon, *Our Man in Paris* (owned; Gioia pick)
+24. 1974-11-25 · The Modern Jazz Quartet, *The Last Concert* (owned)
+25. 1977-05-08 · Mary Lou Williams, *Live at the Keystone Korner* (not owned yet)
+26. 2001-11-04/06 · Donald Harrison, *Real Life Stories* (not owned yet)
+27. 2014 · Jamie Cullum, *Interlude* (not owned yet)
+28. circa 1959 · Various, *Truly Madly Deeplee Morgan* (owned)
 

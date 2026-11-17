@@ -1,6 +1,6 @@
 Shopping list generated 2026-11-17 from the Decision column on each song page. It lists every target marked Buy or Buy other, grouped by format, then genre, then artist. Targets marked Skip, Pass, or Undecided are left out. Genre is the group of the song page that the album serves. To change an entry, edit the Decision cell on the song page and ask me to regenerate this list.
 
-**86 albums:** 47 LP, 38 CD, 1 Digital.
+**93 albums:** 51 LP, 41 CD, 1 Digital.
 
 ## LP
 
@@ -131,6 +131,20 @@ Shopping list generated 2026-11-17 from the Decision column on each song page. I
 **Redding, Otis**
 - *Otis Blue* — for [[A Change Is Gonna Come]]
 
+### Soul
+
+**Animals, The**
+- *Animal Tracks* — for [[Don't Let Me Be Misunderstood]]
+
+**Cocker, Joe**
+- *With a Little Help from My Friends* — for [[Don't Let Me Be Misunderstood]]
+
+**Del Rey, Lana**
+- *Honeymoon* — for [[Don't Let Me Be Misunderstood]]
+
+**Simone, Nina**
+- *Broadway-Blues-Ballads* — for [[Don't Let Me Be Misunderstood]]
+
 ## CD
 
 ### Jazz
@@ -224,6 +238,9 @@ Shopping list generated 2026-11-17 from the Decision column on each song page. I
 **Shaw, Artie**
 - *Self Portrait* — for [[Summertime]]
 
+**Shorter, Wayne**
+- *Footprints Live!* — for [[Footprints]]
+
 **Tatum, Art**
 - *California Melodies* — for [[Caravan]]
 - *God Is in the House* — for [[Body and Soul]], [[Sweet Georgia Brown]]
@@ -242,6 +259,14 @@ Shopping list generated 2026-11-17 from the Decision column on each song page. I
 
 **Williams, Mary Lou**
 - *Live at the Keystone Korner* — for [[A Night in Tunisia]]
+
+### Soul
+
+**Common**
+- *Finding Forever* — for [[Don't Let Me Be Misunderstood]]
+
+**Various artists**
+- *Nina Revisited: A Tribute to Nina Simone* — for [[Don't Let Me Be Misunderstood]], [[Feeling Good]], [[I Put a Spell on You]], [[Sinnerman]]. Various artists record, also has Sinnerman (gregory porter), I Put a Spell On You (alice smith), and feeling good (lauryn hill) among other songs.
 
 ## Digital
 

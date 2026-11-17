@@ -28,7 +28,6 @@ first recording:
 | Don Byas                               | Savoy Jam Party                        | 1945-05-17            | Gioia version; New York                                       | Buy: LP  |                                               |
 | Bud Powell                             | Tempus Fugue-It (Proper)               | 1949-01/1949-02       | Gioia version; New York                                       | Buy: CD  |                                               |
 | Johnny Griffin                         | Way Out!                               | 1958-02-26/1958-02-27 | Gioia version; New York                                       | Buy: LP  |                                               |
-| Lee Konitz                             | Lone-Lee                               | 1974-08-15            | Gioia version; Copenhagen; Gioia calls it a long solo version | Skip     |                                               |
 | Art Pepper                             | Saturday Night at the Village Vanguard | 1977-07-30            | Gioia version; live at the Village Vanguard, New York         | Buy: LP  | see note about the Japanese box on other page |
 
 ## Listening order
@@ -49,9 +48,8 @@ Versions in date order, with owned and not-owned recordings mixed. Struck-throug
 12. 1955-02-25 · Clifford Brown, *The Quintet Vol. 2* (owned; disc 1, side B, track 1 (5:41); Gioia pick)
 13. 1958-02-26/1958-02-27 · Johnny Griffin, *Way Out!* (not owned yet)
 14. 1973-08-28 · Joe Pass, *Virtuoso* (owned)
-15. 1974-08-15 · Lee Konitz, *Lone-Lee* (not owned yet)
-16. 1977-06-02/1977-06-03 · Charles Mingus, *In Argentina (The Buenos Aires Concerts)* (owned)
-17. 1977-07-30 · Art Pepper, *Saturday Night at the Village Vanguard* (not owned yet)
-18. 1986-05-29/1986-05-30; 1986-09-24/1986-09-25 · Wynton Marsalis, *Marsalis Standard Time, Vol. 1* (owned; tracks 3 and 12 (2:21 and 2:27); Gioia pick)
-19. 1991-05-22 · Donald Harrison, Guardians of the Flame, the Mardi Gras Indians, and Dr. John, *Indian Blues* (owned)
+15. 1977-06-02/1977-06-03 · Charles Mingus, *In Argentina (The Buenos Aires Concerts)* (owned)
+16. 1977-07-30 · Art Pepper, *Saturday Night at the Village Vanguard* (not owned yet)
+17. 1986-05-29/1986-05-30; 1986-09-24/1986-09-25 · Wynton Marsalis, *Marsalis Standard Time, Vol. 1* (owned; tracks 3 and 12 (2:21 and 2:27); Gioia pick)
+18. 1991-05-22 · Donald Harrison, Guardians of the Flame, the Mardi Gras Indians, and Dr. John, *Indian Blues* (owned)
 
