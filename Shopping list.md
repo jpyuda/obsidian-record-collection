@@ -1,6 +1,6 @@
 Shopping list generated 2026-11-17 from the Decision column on each song page. It lists every target marked Buy or Buy other, grouped by format, then genre, then artist. Targets marked Skip, Pass, or Undecided are left out. Genre is the group of the song page that the album serves. To change an entry, edit the Decision cell on the song page and ask me to regenerate this list.
 
-**91 albums:** 49 LP, 41 CD, 1 Digital.
+**93 albums:** 51 LP, 41 CD, 1 Digital.
 
 ## LP
 
@@ -131,8 +131,14 @@ Shopping list generated 2026-11-17 from the Decision column on each song page. I
 **Cocker, Joe**
 - *With a Little Help from My Friends* — for [[Don't Let Me Be Misunderstood]]
 
+**Cooke, Sam**
+- *Ain't That Good News* — for [[Just because]]
+
 **Del Rey, Lana**
 - *Honeymoon* — for [[Don't Let Me Be Misunderstood]]
+
+**Redding, Otis**
+- *Otis Blue* — for [[Just because]]
 
 **Simone, Nina**
 - *Broadway-Blues-Ballads* — for [[Don't Let Me Be Misunderstood]]
