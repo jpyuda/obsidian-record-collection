@@ -18,8 +18,8 @@ first recording: Wayne Shorter, 1966-02-24
 | Pat Martino                         | The Visit        | 1972-03-24            | Gioia version; New York                                                                                                    | Listen first: Guitar Footprints; Cadet                        | Buy: LP  |          |
 | David Liebman                       | Pendulum         | 1978-02-04/1978-02-05 | Gioia version; with Randy Brecker and Richie Beirach; live at the Village Vanguard, New York                               | Listen first: Live Footprints with Randy Brecker              | Buy: CD  | 3xCD expanded Mosaic release |
 | Blay Ambolley                       | AfriKan JaaZZ    | 2001                  | Gioia version; mixes hard bop with West African highlife; Ghana, Los Angeles, and Brooklyn; album dates; track not dated   | Listen first: Highlife and hard bop blend; may fit your focus | Buy: CD  |          |
-| Wayne Shorter                       | Footprints Live! | 2001-07-20            | Gioia version; with Danilo Pérez, John Patitucci, and Brian Blade; live at Festival de Jazz, Vitoria-Gasteiz, Spain; Verve | Listen first: 2001 quartet reading                            |          |          |
-| Anthony Jackson and Yiorgos Fakanas | Interspirit      | 2008-11/2009-08       | Gioia version; electric, "Zappa-esque"; Athens and Woodland Hills, California; album dates; track not dated                | Skip: Electric novelty reading; low fit                       |          |          |
+| Wayne Shorter                       | Footprints Live! | 2001-07-20            | Gioia version; with Danilo Pérez, John Patitucci, and Brian Blade; live at Festival de Jazz, Vitoria-Gasteiz, Spain; Verve | Listen first: 2001 quartet reading                            | Buy: CD  |          |
+| Anthony Jackson and Yiorgos Fakanas | Interspirit      | 2008-11/2009-08       | Gioia version; electric, "Zappa-esque"; Athens and Woodland Hills, California; album dates; track not dated                | Skip: Electric novelty reading; low fit                       | Skip     |          |
 
 ## Listening order
 
