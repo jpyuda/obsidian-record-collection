@@ -25,35 +25,29 @@ first recording: Barney Bigard and His Jazzopators, 1936
 | Art Tatum                         | California Melodies                         | 1940-04/1940-07           | Los Angeles                                                         | Listen first: 1940 Caravan                             | Buy: CD  |                                                                                           |
 | Dizzy Gillespie                   | Dee Gee Days (Savoy)                        | 1951-10-25                | with Stuff Smith                                                    | Track only: 1951 Caravan with Stuff Smith; compilation | Buy: LP  |                                                                                           |
 | Nat King Cole                     | After Midnight                              | 1956-09-14                | with Juan Tizol; Los Angeles                                        | Keep: Classic small-group album; Juan Tizol on Caravan | Buy: LP  |                                                                                           |
-| Wes Montgomery                    | Movin' Wes                                  | 1964-11-16                | New York                                                            | Keep: Verve classic; Caravan                           | Skip     |                                                                                           |
 | Art Pepper                        | Friday Night at the Village Vanguard        | 1977-07-29                | live at the Village Vanguard, New York                              | Keep: Live at the Village Vanguard; Caravan            | Buy: LP  | May opportunistically pick up Japanese box set "Live at the Village Vanguard" if I see it |
-| Hank Jones                        | Hank Jones with the Meridian String Quartet |                           | with the Meridian String Quartet; recorded 1990-1991, released 1991 | Listen first: String quartet setting; Caravan          | Skip     |                                                                                           |
 | Medeski, Martin, and Wood         | Notes from the Underground                  | 1991-12-15/16; 1992-01-23 | New York; Hoboken                                                   | Listen first: Trio Caravan                             | Buy: CD  |                                                                                           |
-| Michel Camilo                     | Rendezvous                                  | 1993-01-18/20             | New York                                                            | Listen first: Latin piano treatment of Caravan         | Skip     |                                                                                           |
 | Gonzalo Rubalcaba                 | Inner Voyage                                | 1998-11-23/25             | New York                                                            | Listen first: Latin piano; Caravan                     | Buy: CD  |                                                                                           |
 
 ## Listening order
 
 Versions in date order, with owned and not-owned recordings mixed. Struck-through targets are left out. Entries with no date come last.
 
-1. 1936-12-19 · Barney Bigard and His Jazzopators, *1928-1941 (Best of Jazz)* (not owned yet)
+1. 1936-12-19 · Barney Bigard and His Jazzopators, *The Duke's Men: Small Groups (Columbia)* (not owned yet)
 2. 1937-05-14 · Duke Ellington, *The Ellington Era Volume One: 1927-1940* (owned; Gioia pick)
 3. 1940-04/1940-07 · Art Tatum, *California Melodies* (not owned yet)
-4. 1951-10-25 · Dizzy Gillespie, *Odyssey: 1945-1952* (not owned yet)
+4. 1951-10-25 · Dizzy Gillespie, *Dee Gee Days (Savoy)* (not owned yet)
 5. 1954-06-03 · Dizzy Gillespie, *Afro* (owned)
 6. 1955-07-27 · Thelonious Monk, *The Riverside Trios* (owned; Gioia pick)
 7. 1956-09-14 · Nat King Cole, *After Midnight* (not owned yet)
 8. 1962-09-17 · Duke Ellington / Charles Mingus / Max Roach, *Money Jungle* (owned)
 9. 1962-10-23 · Art Blakey, *Caravan* (owned; Gioia pick)
-10. 1964-11-16 · Wes Montgomery, *Movin' Wes* (not owned yet)
-11. 1969-11-08 · Duke Ellington, *Live at the Berlin Jazz Festival 1969-1973* (owned)
-12. 1974-11-28/29 · Oscar Peterson / Dizzy Gillespie, *Oscar Peterson & Dizzy Gillespie* (owned; Gioia pick)
-13. 1975-02-04/05 · Kenny Burrell, *Ellington Is Forever* (owned)
-14. 1977-07-29 · Art Pepper, *Friday Night at the Village Vanguard* (not owned yet)
-15. 1984-08 · Dirty Dozen Brass Band, *My Feet Can't Fail Me Now* (owned)
-16. 1986-05-29/30; 1986-09-24/25 · Wynton Marsalis, *Marsalis Standard Time, Vol. 1* (owned; Gioia pick)
-17. 1991-12-15/16; 1992-01-23 · Medeski, Martin, and Wood, *Notes from the Underground* (not owned yet)
-18. 1993-01-18/20 · Michel Camilo, *Rendezvous* (not owned yet)
-19. 1998-11-23/25 · Gonzalo Rubalcaba, *Inner Voyage* (not owned yet)
-20. date to be added · Hank Jones, *Hank Jones with the Meridian String Quartet* (not owned yet)
+10. 1969-11-08 · Duke Ellington, *Live at the Berlin Jazz Festival 1969-1973* (owned)
+11. 1974-11-28/29 · Oscar Peterson / Dizzy Gillespie, *Oscar Peterson & Dizzy Gillespie* (owned; Gioia pick)
+12. 1975-02-04/05 · Kenny Burrell, *Ellington Is Forever* (owned)
+13. 1977-07-29 · Art Pepper, *Friday Night at the Village Vanguard* (not owned yet)
+14. 1984-08 · Dirty Dozen Brass Band, *My Feet Can't Fail Me Now* (owned)
+15. 1986-05-29/30; 1986-09-24/25 · Wynton Marsalis, *Marsalis Standard Time, Vol. 1* (owned; Gioia pick)
+16. 1991-12-15/16; 1992-01-23 · Medeski, Martin, and Wood, *Notes from the Underground* (not owned yet)
+17. 1998-11-23/25 · Gonzalo Rubalcaba, *Inner Voyage* (not owned yet)
 

@@ -1,6 +1,6 @@
 Shopping list generated 2026-11-16 from the Decision column on each song page. It lists every target marked Buy or Buy other, grouped by format, then genre, then artist. Targets marked Skip, Pass, or Undecided are left out. Genre is the group of the song page that the album serves. To change an entry, edit the Decision cell on the song page and ask me to regenerate this list.
 
-**72 albums:** 44 LP, 27 CD, 1 Digital.
+**76 albums:** 45 LP, 30 CD, 1 Digital.
 
 ## LP
 
@@ -43,6 +43,9 @@ Shopping list generated 2026-11-16 from the Decision column on each song page. I
 
 **Getz, Stan**
 - *Pure Getz* — for [[Blood Count]]
+
+**Gillespie, Dizzy**
+- *Dee Gee Days (Savoy)* — for [[Caravan]]
 
 **Gordon, Dexter**
 - *Biting the Apple* — for [[Blue Bossa]]
@@ -127,6 +130,9 @@ Shopping list generated 2026-11-16 from the Decision column on each song page. I
 **Alexander, Monty**
 - *Monty Meets Sly and Robbie* — for [[Moanin']]
 
+**Bigard, Barney**
+- *The Duke's Men: Small Groups (Columbia)* — for [[Caravan]]. Compilation of recordings by small groups of Ellington sidemen.
+
 **Bridgewater, Dee Dee**
 - *Red Earth: A Malian Journey* — for [[Afro Blue]]. Combines jazz with Malian griot tradition; also contains Long Time Ago (Footprints with lyrics) and Compared to What.
 
@@ -188,10 +194,14 @@ Shopping list generated 2026-11-16 from the Decision column on each song page. I
 **Reeves, Dianne**
 - *I Remember* — for [[Afro Blue]]
 
+**Rubalcaba, Gonzalo**
+- *Inner Voyage* — for [[Caravan]]
+
 **Shaw, Artie**
 - *Self Portrait* — for [[Summertime]]
 
 **Tatum, Art**
+- *California Melodies* — for [[Caravan]]
 - *God Is in the House* — for [[Body and Soul]], [[Sweet Georgia Brown]]
 
 **Tyner, McCoy**
