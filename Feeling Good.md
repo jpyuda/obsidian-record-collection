@@ -7,7 +7,9 @@ first recording: Cy Grant, first performed 1964-08-03 at the Theatre Royal, Nott
 
 ## Current holdings
 
-None owned.
+| Artist         | Album | Format | Recording date | Notes                                                                                                         | Proposed                    | Decision | My notes |
+| -------------- | ----- | ------ | -------------- | ------------------------------------------------------------------------------------------------------------- | --------------------------- | -------- | -------- |
+| Gregory Porter | Water | LP     | 2010           | D4 (3:02); Blue Note 2xLP reissue (3878342, Europe 2022); the original album came out in 2010 on Motéma; recording date from memory, verify | Listen first: Not yet judged |          |          |
 
 ## Targeted acquisitions
 
@@ -35,8 +37,9 @@ Versions in date order, with owned and not-owned recordings mixed. Entries with 
 6. 1968-03-14 · Traffic, *Last Exit* (not owned yet)
 7. 2001 · Muse, *Origin of Symmetry* (not owned yet)
 8. 2005 · Michael Bublé, *It's Time* (not owned yet)
-9. 2014 · George Michael, *Symphonica* (not owned yet)
+9. 2010 · Gregory Porter, *Water* (owned; D4)
+10. 2014 · George Michael, *Symphonica* (not owned yet)
 
 ## Notes
 
-Research note: Wikipedia's article is the only source. The song belongs equally on the jazz list, since Coltrane and Simone both recorded it in 1965. I filed it under soul because you listed it with the soul candidates. Wikipedia also names Julie London, Chris Connor, Billy Eckstine, Lauryn Hill, Joe Bonamassa, and Mary J. Blige ("About You", a sample) without releases I could verify.
+Research note: Wikipedia's article is the only source for the targets. Gregory Porter's *Water* is the one holding, and Wikipedia does not mention it. The song belongs equally on the jazz list, since Coltrane and Simone both recorded it in 1965. I filed it under soul because you listed it with the soul candidates. Wikipedia also names Julie London, Chris Connor, Billy Eckstine, Lauryn Hill, Joe Bonamassa, and Mary J. Blige ("About You", a sample) without releases I could verify.

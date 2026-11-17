@@ -70,5 +70,5 @@ Each page has a `genre: soul` field. You will likely cut this list further after
 4. [[Ain't No Sunshine]] — Bill Withers · 1 holding; Kirk
 5. [[Don't Let Me Be Misunderstood]] — Bennie Benjamin, Gloria Caldwell, and Sol Marcus · 1 holding; Santa Esmeralda and Leroy Gomez
 6. [[I Put a Spell on You]] — Screamin' Jay Hawkins · no holdings
-7. [[Feeling Good]] — Anthony Newley and Leslie Bricusse · no holdings
+7. [[Feeling Good]] — Anthony Newley and Leslie Bricusse · 1 holding; Porter
 8. [[Stand By Me]] — Ben E. King · no holdings
