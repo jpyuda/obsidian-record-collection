@@ -18,7 +18,7 @@ first recording: Cy Grant, first performed 1964-08-03 at the Theatre Royal, Nott
 | John Coltrane                 | The John Coltrane Quartet Plays                      | 1965-02-18     | with Art Davis, Jimmy Garrison, Elvin Jones, and McCoy Tyner                                    | Buy: CD        | not available on LP version |
 | Nina Simone                   | I Put a Spell on You                                 | 1965-01        | arranged by Hal Mooney; also a target on the I Put a Spell on You page                          | Buy: LP        |                             |
 | Stanley Turrentine            | Rough 'n' Tumble                                     | 1966-07-01     |                                                                                                 | Buy: LP        |                             |
-| Muse                          | Origin of Symmetry                                   | 2001           | alternative rock                                                                                | Buy: CD single |                             |
+| Muse                          | Origin of Symmetry                                   | 2001           | alternative rock                                                                                | Buy other: Feeling Good (CD single) |                             |
 | Various artists               | Nina Revisited: A Tribute to Nina Simone             | 2015           | per your note, Lauryn Hill sings this song; the album title and year are from my memory, verify | Buy: CD        |                             |
 
 ## Listening order

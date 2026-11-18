@@ -280,7 +280,7 @@ Shopping list generated 2026-11-18 from the Decision column on each song page. I
 - *Wake Up!* — for [[Compared to What]]
 
 **Muse**
-- *Origin of Symmetry* — for [[Feeling Good]]. Single.
+- *Feeling Good* — for [[Feeling Good]]; instead of *Origin of Symmetry*, which stays a target. CD single.
 
 **Newman, Brian**
 - *Showboat* — for [[Don't Let Me Be Misunderstood]]
