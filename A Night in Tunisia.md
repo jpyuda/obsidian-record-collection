@@ -38,7 +38,6 @@ first recording: Sarah Vaughan, 1944
 | Clifford Brown                     | The Beginning and the End                        | 1955-05-31     | live at Music City, Philadelphia                                                                                                                                       | Buy: LP  |
 | Mary Lou Williams                  | Live at the Keystone Korner                      | 1977-05-08     | live at the Keystone Korner, San Francisco                                                                                                                             | Buy: CD  |
 | Donald Harrison                    | Real Life Stories                                | 2001-11-04/06  | with Christian Scott; New York                                                                                                                                         | Buy: CD  |
-| Jamie Cullum                       | Interlude                                        | 2014           | the Night in Tunisia version is titled "Interlude"; the same album holds a Don't Let Me Be Misunderstood track with Gregory Porter; the year is from my memory, verify | Skip     |
 
 ## Listening order
 
@@ -70,6 +69,5 @@ Versions in date order, with owned and not-owned recordings mixed. Struck-throug
 24. 1974-11-25 · The Modern Jazz Quartet, *The Last Concert* (owned)
 25. 1977-05-08 · Mary Lou Williams, *Live at the Keystone Korner* (not owned yet)
 26. 2001-11-04/06 · Donald Harrison, *Real Life Stories* (not owned yet)
-27. 2014 · Jamie Cullum, *Interlude* (not owned yet)
-28. circa 1959 · Various, *Truly Madly Deeplee Morgan* (owned)
+27. circa 1959 · Various, *Truly Madly Deeplee Morgan* (owned)
 

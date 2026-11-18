@@ -1,6 +1,6 @@
-Shopping list generated 2026-11-17 from the Decision column on each song page. It lists every target marked Buy or Buy other, grouped by format, then genre, then artist. Targets marked Skip, Pass, or Undecided are left out. Genre is the group of the song page that the album serves. To change an entry, edit the Decision cell on the song page and ask me to regenerate this list.
+Shopping list generated 2026-11-18 from the Decision column on each song page. It lists every target marked Buy or Buy other, grouped by format, then genre, then artist. Targets marked Skip, Pass, or Undecided are left out. Genre is the group of the song page that the album serves. To change an entry, edit the Decision cell on the song page and ask me to regenerate this list.
 
-**93 albums:** 51 LP, 41 CD, 1 Digital.
+**101 albums:** 54 LP, 46 CD, 1 Digital.
 
 ## LP
 
@@ -20,6 +20,9 @@ Shopping list generated 2026-11-17 from the Decision column on each song page. I
 **Brown, Clifford**
 - *The Beginning and the End* — for [[A Night in Tunisia]]
 
+**Byas, Don**
+- *Savoy Jam Party* — for [[Cherokee]]
+
 **Cole, Nat King**
 - *After Midnight* — for [[Caravan]]
 
@@ -35,9 +38,6 @@ Shopping list generated 2026-11-17 from the Decision column on each song page. I
 **Davis, Miles**
 - *'Round About Midnight* — for [['Round Midnight]]
 - *Miles Smiles* — for [[Footprints]]
-
-**Don Byas**
-- *Savoy Jam Party* — for [[Cherokee]]
 
 **Ellington, Duke**
 - *Black, Brown and Beige* — for [[Come Sunday]]
@@ -128,6 +128,9 @@ Shopping list generated 2026-11-17 from the Decision column on each song page. I
 **Animals, The**
 - *Animal Tracks* — for [[Don't Let Me Be Misunderstood]]
 
+**Auger, Brian (Oblivion Express)**
+- *Live Oblivion* — for [[Compared to What]]
+
 **Cocker, Joe**
 - *With a Little Help from My Friends* — for [[Don't Let Me Be Misunderstood]]
 
@@ -142,6 +145,10 @@ Shopping list generated 2026-11-17 from the Decision column on each song page. I
 
 **Simone, Nina**
 - *Broadway-Blues-Ballads* — for [[Don't Let Me Be Misunderstood]]
+- *I Put a Spell on You* — for [[Feeling Good]]
+
+**Turrentine, Stanley**
+- *Rough 'n' Tumble* — for [[Feeling Good]]
 
 ## CD
 
@@ -260,8 +267,23 @@ Shopping list generated 2026-11-17 from the Decision column on each song page. I
 
 ### Soul
 
+**Bridgewater, Dee Dee**
+- *Red Earth* — for [[Compared to What]]
+
+**Coltrane, John**
+- *The John Coltrane Quartet Plays* — for [[Feeling Good]]. Not available on LP version.
+
 **Common**
 - *Finding Forever* — for [[Don't Let Me Be Misunderstood]]
+
+**Legend, John & The Roots**
+- *Wake Up!* — for [[Compared to What]]
+
+**Muse**
+- *Origin of Symmetry* — for [[Feeling Good]]. Single.
+
+**Newman, Brian**
+- *Showboat* — for [[Don't Let Me Be Misunderstood]]
 
 **Various artists**
 - *Nina Revisited: A Tribute to Nina Simone* — for [[Don't Let Me Be Misunderstood]], [[Feeling Good]], [[I Put a Spell on You]], [[Sinnerman]]. Various artists record, also has Sinnerman (gregory porter), I Put a Spell On You (alice smith), and feeling good (lauryn hill) among other songs.

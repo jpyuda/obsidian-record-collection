@@ -15,33 +15,22 @@ first recording: Cy Grant, first performed 1964-08-03 at the Theatre Royal, Nott
 
 | Artist                        | Album                                                | Recording date | Notes                                                                                           | Decision       | My notes                    |
 | ----------------------------- | ---------------------------------------------------- | -------------- | ----------------------------------------------------------------------------------------------- | -------------- | --------------------------- |
-| Gilbert Price (original cast) | The Roar of the Greasepaint - The Smell of the Crowd | 1965           | original cast recording; RCA Victor                                                             | Skip           |                             |
-| Cy Grant with Bill Le Sage    | Cy & I                                               | 1965           | much jazzier than the stage version                                                             | Skip           |                             |
 | John Coltrane                 | The John Coltrane Quartet Plays                      | 1965-02-18     | with Art Davis, Jimmy Garrison, Elvin Jones, and McCoy Tyner                                    | Buy: CD        | not available on LP version |
 | Nina Simone                   | I Put a Spell on You                                 | 1965-01        | arranged by Hal Mooney; also a target on the I Put a Spell on You page                          | Buy: LP        |                             |
-| Sammy Davis Jr.               | Album to be added                                    | 1965           | album to be added                                                                               | Skip           |                             |
 | Stanley Turrentine            | Rough 'n' Tumble                                     | 1966-07-01     |                                                                                                 | Buy: LP        |                             |
-| Traffic                       | Last Exit                                            | 1968-03-14     | live at the Fillmore, San Francisco; about 11 minutes; released 1969                            | Skip           |                             |
 | Muse                          | Origin of Symmetry                                   | 2001           | alternative rock                                                                                | Buy: CD single |                             |
-| Michael Bublé                 | It's Time                                            | 2005           | pop-jazz                                                                                        | Skip           |                             |
-| George Michael                | Symphonica                                           | 2014           | orchestral reading                                                                              | Skip           |                             |
 | Various artists               | Nina Revisited: A Tribute to Nina Simone             | 2015           | per your note, Lauryn Hill sings this song; the album title and year are from my memory, verify | Buy: CD        |                             |
 
 ## Listening order
 
 Versions in date order, with owned and not-owned recordings mixed. Entries with no date come last.
 
-1. 1965 · Gilbert Price (original cast), *The Roar of the Greasepaint - The Smell of the Crowd* (not owned yet)
-2. 1965 · Cy Grant with Bill Le Sage, *Cy & I* (not owned yet)
-3. 1965 · Sammy Davis Jr., *Album to be added* (not owned yet)
-4. 1965-01 · Nina Simone, *I Put a Spell on You* (not owned yet)
-5. 1965-02-18 · John Coltrane, *The John Coltrane Quartet Plays* (not owned yet)
-6. 1968-03-14 · Traffic, *Last Exit* (not owned yet)
-7. 2001 · Muse, *Origin of Symmetry* (not owned yet)
-8. 2005 · Michael Bublé, *It's Time* (not owned yet)
-9. 2010 · Gregory Porter, *Water* (owned; D4)
-10. 2014 · George Michael, *Symphonica* (not owned yet)
-11. 2015 · Various artists (Lauryn Hill), *Nina Revisited: A Tribute to Nina Simone* (not owned yet)
+1. 1965 · Sammy Davis Jr., *Album to be added* (not owned yet)
+2. 1965-01 · Nina Simone, *I Put a Spell on You* (not owned yet)
+3. 1965-02-18 · John Coltrane, *The John Coltrane Quartet Plays* (not owned yet)
+4. 2001 · Muse, *Origin of Symmetry* (not owned yet)
+5. 2010 · Gregory Porter, *Water* (owned; D4)
+6. 2015 · Various artists (Lauryn Hill), *Nina Revisited: A Tribute to Nina Simone* (not owned yet)
 
 ## Notes
 

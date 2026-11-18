@@ -16,26 +16,20 @@ first recording: Les McCann, 1966 (per Wikipedia, which says it "appears to have
 
 | Artist                         | Album                     | Recording date | Notes                                                                                           | Decision |
 | ------------------------------ | ------------------------- | -------------- | ----------------------------------------------------------------------------------------------- | -------- |
-| Les McCann                     | Les McCann Plays the Hits | 1966           | first recording per Wikipedia, which says it "appears to have been"; label and date to be added | Skip     |
-| Brian Auger's Oblivion Express | Closer to It              | 1973           | jazz-rock reading                                                                               | Skip     |
 | Brian Auger's Oblivion Express | Live Oblivion             | 1975           | live; performed at Winterland, San Francisco in 1975                                            | Buy: LP  |
 | Dee Dee Bridgewater            | Red Earth                 | 2007           | per your note, the album holds this song; verify the track and the date                         | Buy: CD  |
-| Ray Charles                    | Album to be added         |                | Wikipedia names him as a performer but gives no album                                           | Skip     |
-| Ronnie Laws                    | Album to be added         |                | Wikipedia names him as a performer but gives no album                                           | Skip     |
 | John Legend & The Roots        | Wake Up!                  | 2010           |                                                                                                 | Buy: CD  |
 
 ## Listening order
 
 Versions in date order, with owned and not-owned recordings mixed. Struck-through targets are left out. Entries with no date come last.
 
-1. 1966 · Les McCann, *Les McCann Plays the Hits* (not owned yet)
-2. 1969-02 · Roberta Flack, *First Take* (owned; A1)
-3. 1969-06-21 · Les McCann and Eddie Harris, *Swiss Movement* (owned; A1)
-4. 1973 · Brian Auger's Oblivion Express, *Closer to It* (not owned yet)
-5. 1975 · Brian Auger's Oblivion Express, *Live Oblivion* (not owned yet)
-6. 2007 · Dee Dee Bridgewater, *Red Earth* (not owned yet)
-7. date to be added · Ray Charles, *Album to be added* (not owned yet)
-8. date to be added · Ronnie Laws, *Album to be added* (not owned yet)
+1. 1969-02 · Roberta Flack, *First Take* (owned; A1)
+2. 1969-06-21 · Les McCann and Eddie Harris, *Swiss Movement* (owned; A1)
+3. 1975 · Brian Auger's Oblivion Express, *Live Oblivion* (not owned yet)
+4. 2007 · Dee Dee Bridgewater, *Red Earth* (not owned yet)
+5. date to be added · Ray Charles, *Album to be added* (not owned yet)
+6. date to be added · Ronnie Laws, *Album to be added* (not owned yet)
 
 ## Notes
 
