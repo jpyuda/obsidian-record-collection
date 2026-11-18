@@ -14,14 +14,15 @@ first recording: Les McCann, 1966 (per Wikipedia, which says it "appears to have
 
 ## Targeted acquisitions
 
-| Artist                         | Album                     | Recording date | Notes                                                                                           | Proposed                                      | Decision | My notes |
-| ------------------------------ | ------------------------- | -------------- | ----------------------------------------------------------------------------------------------- | --------------------------------------------- | -------- | -------- |
-| Les McCann                     | Les McCann Plays the Hits | 1966           | first recording per Wikipedia, which says it "appears to have been"; label and date to be added | Keep: First recording; verify the track first |          |          |
-| Brian Auger's Oblivion Express | Closer to It              | 1973           | jazz-rock reading                                                                               | Listen first: Jazz-rock reading               |          |          |
-| Brian Auger's Oblivion Express | Live Oblivion             | 1975           | live; performed at Winterland, San Francisco in 1975                                            | Listen first: Live jazz-rock reading          |          |          |
-| Dee Dee Bridgewater | Red Earth | 2007 | per your note, the album holds this song; verify the track and the date | Keep: Vocal jazz reading |  |  |
-| Ray Charles                    | Album to be added         |                | Wikipedia names him as a performer but gives no album                                           | Listen first: Find the album first            |          |          |
-| Ronnie Laws                    | Album to be added         |                | Wikipedia names him as a performer but gives no album                                           | Listen first: Find the album first            |          |          |
+| Artist                         | Album                     | Recording date | Notes                                                                                           | Decision |
+| ------------------------------ | ------------------------- | -------------- | ----------------------------------------------------------------------------------------------- | -------- |
+| Les McCann                     | Les McCann Plays the Hits | 1966           | first recording per Wikipedia, which says it "appears to have been"; label and date to be added | Skip     |
+| Brian Auger's Oblivion Express | Closer to It              | 1973           | jazz-rock reading                                                                               | Skip     |
+| Brian Auger's Oblivion Express | Live Oblivion             | 1975           | live; performed at Winterland, San Francisco in 1975                                            | Buy: LP  |
+| Dee Dee Bridgewater            | Red Earth                 | 2007           | per your note, the album holds this song; verify the track and the date                         | Buy: CD  |
+| Ray Charles                    | Album to be added         |                | Wikipedia names him as a performer but gives no album                                           | Skip     |
+| Ronnie Laws                    | Album to be added         |                | Wikipedia names him as a performer but gives no album                                           | Skip     |
+| John Legend & The Roots        | Wake Up!                  | 2010           |                                                                                                 | Buy: CD  |
 
 ## Listening order
 

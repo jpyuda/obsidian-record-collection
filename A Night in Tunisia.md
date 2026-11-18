@@ -38,7 +38,7 @@ first recording: Sarah Vaughan, 1944
 | Clifford Brown                     | The Beginning and the End                        | 1955-05-31     | live at Music City, Philadelphia                                                                                                                                       | Buy: LP  |
 | Mary Lou Williams                  | Live at the Keystone Korner                      | 1977-05-08     | live at the Keystone Korner, San Francisco                                                                                                                             | Buy: CD  |
 | Donald Harrison                    | Real Life Stories                                | 2001-11-04/06  | with Christian Scott; New York                                                                                                                                         | Buy: CD  |
-| Jamie Cullum                       | Interlude                                        | 2014           | the Night in Tunisia version is titled "Interlude"; the same album holds a Don't Let Me Be Misunderstood track with Gregory Porter; the year is from my memory, verify |          |
+| Jamie Cullum                       | Interlude                                        | 2014           | the Night in Tunisia version is titled "Interlude"; the same album holds a Don't Let Me Be Misunderstood track with Gregory Porter; the year is from my memory, verify | Skip     |
 
 ## Listening order
 
