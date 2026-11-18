@@ -26,7 +26,7 @@ first recording: Art Blakey and the Jazz Messengers, 1958-10-30
 | Art Blakey & The Jazz Messengers | Buhaina                    | 1973-03-26/1973-03-29 | Jon Hendricks sings the vocalese version; Fantasy Studios, Berkeley, California; Prestige | Listen first: Vocalese Moanin' with Jon Hendricks   |          |          |
 | Benny Golson                     | That's Funky               | 1994-12-22/1994-12-23 | Funky Quintet with Nat Adderley and Monty Alexander; 39th Street Music, New York          | Listen first: Golson played on the original Moanin' |          |          |
 | Monty Alexander                  | Monty Meets Sly and Robbie |                       | released 2000 (Telarc); recording date to be added                                        | Skip: Reggae-flavored Moanin'; low priority         | Buy: CD  |          |
-| Valery Ponomarev Jazz Big Band   | Our Father Who Art Blakey  |                       | with Benny Golson, who played on the 1958 original; recording date to be added            | Skip: Big-band tribute; low priority                |          |          |
+| Valery Ponomarev Jazz Big Band   | Our Father Who Art Blakey  |                       | with Benny Golson, who played on the 1958 original; recording date to be added            | Skip: Big-band tribute; low priority                | Buy: CD  |          |
 
 ## Listening order
 
