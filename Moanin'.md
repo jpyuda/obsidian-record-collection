@@ -19,14 +19,14 @@ first recording: Art Blakey and the Jazz Messengers, 1958-10-30
 
 | Artist                           | Album                      | Recording date        | Notes                                                                                     | Proposed                                            | Decision | My notes |
 | -------------------------------- | -------------------------- | --------------------- | ----------------------------------------------------------------------------------------- | --------------------------------------------------- | -------- | -------- |
-| Shirley Scott                    | Soul Searching             | 1959-12-04            | Van Gelder Studio, Englewood Cliffs, New Jersey; Prestige                                 | Keep: Prestige organ classic; Moanin'               | Buy: LP  |          |
+| Shirley Scott                    | Soul Searching             | 1959-12-04            | Van Gelder Studio, Englewood Cliffs, New Jersey; Prestige                                 | Keep: Prestige organ classic; Moanin'               | Skip     |          |
 | Bobby Timmons                    | This Here Is Bobby Timmons | 1960-01               | trio with Sam Jones and Jimmy Cobb; Riverside; exact day to be added                      | Keep: Riverside trio album; Moanin'                 | Buy: LP  |          |
-| Wes Montgomery                   | Portrait of Wes            | 1963-10-10            | infobox date; article text says October and November 1963; Plaza Sound Studios, New York  | Listen first: Moanin'; check against Movin' Wes     |          |          |
-| Richard "Groove" Holmes          | On Basie's Bandstand       | 1966                  | live; released 2003 (Prestige); recording year per Wikipedia; exact date to be added      | Listen first: Live organ trio; Moanin'              |          |          |
+| Wes Montgomery                   | Portrait of Wes            | 1963-10-10            | infobox date; article text says October and November 1963; Plaza Sound Studios, New York  | Listen first: Moanin'; check against Movin' Wes     | Skip     |          |
+| Richard "Groove" Holmes          | On Basie's Bandstand       | 1966                  | live; released 2003 (Prestige); recording year per Wikipedia; exact date to be added      | Listen first: Live organ trio; Moanin'              | Buy: CD  |          |
 | Art Blakey & The Jazz Messengers | Buhaina                    | 1973-03-26/1973-03-29 | Jon Hendricks sings the vocalese version; Fantasy Studios, Berkeley, California; Prestige | Listen first: Vocalese Moanin' with Jon Hendricks   |          |          |
 | Benny Golson                     | That's Funky               | 1994-12-22/1994-12-23 | Funky Quintet with Nat Adderley and Monty Alexander; 39th Street Music, New York          | Listen first: Golson played on the original Moanin' |          |          |
 | Monty Alexander                  | Monty Meets Sly and Robbie |                       | released 2000 (Telarc); recording date to be added                                        | Skip: Reggae-flavored Moanin'; low priority         | Buy: CD  |          |
-| Valery Ponomarev Jazz Big Band   | Our Father Who Art Blakey  |                       | with Benny Golson, who played on the 1958 original; recording date to be added            | Skip: Big-band tribute; low priority                | Buy: CD  |          |
+| Valery Ponomarev Jazz Big Band   | Our Father Who Art Blakey  |                       | with Benny Golson, who played on the 1958 original; recording date to be added            | Skip: Big-band tribute; low priority                | Skip     |          |
 
 ## Listening order
 
