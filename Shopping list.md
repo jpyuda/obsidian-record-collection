@@ -1,6 +1,6 @@
-Shopping list generated 2026-11-18 from the Decision column on each song page. It lists every target marked Buy or Buy other, grouped by format, then genre, then artist. Targets marked Skip, Pass, or Undecided are left out. Genre is the group of the song page that the album serves. To change an entry, edit the Decision cell on the song page and ask me to regenerate this list.
+Shopping list generated 2026-11-20 from the Decision column on each song page. It lists every target marked Buy or Buy other, grouped by format, then genre, then artist. Targets marked Skip, Pass, or Undecided are left out. Genre is the group of the song page that the album serves. Christmas albums also appear a second time under a Christmas albums group, and the count of albums does not include that second listing. To change an entry, edit the Decision cell on the song page and ask me to regenerate this list.
 
-**101 albums:** 54 LP, 46 CD, 1 Digital.
+**109 albums:** 59 LP, 49 CD, 1 Digital.
 
 ## LP
 
@@ -123,6 +123,23 @@ Shopping list generated 2026-11-18 from the Decision column on each song page. I
 **Vaughan, Sarah**
 - *Sarah Sings Soulfully* — for [['Round Midnight]]
 
+### Gospel
+
+**Brook Benton**
+- *If You Believe* — for [[Go Tell It on the Mountain]]
+
+**Mahalia Jackson**
+- *Silent Night: Songs for Christmas* — for [[Go Tell It on the Mountain]]
+
+**Marley, Bob, & The Wailers**
+- *The Best of the Wailers* — for [[Go Tell It on the Mountain]]
+
+**Odetta**
+- *Christmas Spirituals* — for [[Go Tell It on the Mountain]]
+
+**The Staple Singers**
+- *The 25th Day of December* — for [[Go Tell It on the Mountain]]
+
 ### Soul
 
 **Animals, The**
@@ -149,6 +166,20 @@ Shopping list generated 2026-11-18 from the Decision column on each song page. I
 
 **Turrentine, Stanley**
 - *Rough 'n' Tumble* — for [[Feeling Good]]
+
+### Christmas albums
+
+**Brook Benton**
+- *If You Believe* — for [[Go Tell It on the Mountain]]
+
+**Mahalia Jackson**
+- *Silent Night: Songs for Christmas* — for [[Go Tell It on the Mountain]]
+
+**Odetta**
+- *Christmas Spirituals* — for [[Go Tell It on the Mountain]]
+
+**The Staple Singers**
+- *The 25th Day of December* — for [[Go Tell It on the Mountain]]
 
 ## CD
 
@@ -193,6 +224,9 @@ Shopping list generated 2026-11-18 from the Decision column on each song page. I
 
 **Holiday, Billie**
 - *Lady Day: The Master Takes and Singles (Columbia)* — for [[Body and Soul]], [[Summertime]]
+
+**Holmes, Richard "Groove"**
+- *On Basie's Bandstand* — for [[Moanin']]
 
 **Iyer, Vijay**
 - *Break Stuff* — for [[Blood Count]]
@@ -265,6 +299,14 @@ Shopping list generated 2026-11-18 from the Decision column on each song page. I
 **Williams, Mary Lou**
 - *Live at the Keystone Korner* — for [[A Night in Tunisia]]
 
+### Gospel
+
+**Mahalia Jackson**
+- *How I Got Over: The Apollo Records Sessions 1946-1954* — for [[Go Tell It on the Mountain]]
+
+**The Blind Boys of Alabama (feat. Tom Waits)**
+- *Go Tell It on the Mountain* — for [[Go Tell It on the Mountain]]
+
 ### Soul
 
 **Bridgewater, Dee Dee**
@@ -287,6 +329,11 @@ Shopping list generated 2026-11-18 from the Decision column on each song page. I
 
 **Various artists**
 - *Nina Revisited: A Tribute to Nina Simone* — for [[Don't Let Me Be Misunderstood]], [[Feeling Good]], [[I Put a Spell on You]], [[Sinnerman]]. Various artists record, also has Sinnerman (gregory porter), I Put a Spell On You (alice smith), and feeling good (lauryn hill) among other songs.
+
+### Christmas albums
+
+**The Blind Boys of Alabama (feat. Tom Waits)**
+- *Go Tell It on the Mountain* — for [[Go Tell It on the Mountain]]
 
 ## Digital
 
