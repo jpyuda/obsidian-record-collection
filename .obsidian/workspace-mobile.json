@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "See See Rider.md",
+                "file": "Go Tell It on the Mountain.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "See See Rider"
+              "title": "Go Tell It on the Mountain"
             }
           }
         ]
@@ -175,6 +175,7 @@
   },
   "active": "5cb3491e4fb6242d",
   "lastOpenFiles": [
+    "See See Rider.md",
     "Swing Low, Sweet Chariot.md",
     "Go Tell It on the Mountain.md",
     "Moanin'.md",
