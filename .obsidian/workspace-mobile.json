@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Go Tell It on the Mountain.md",
+                "file": "Honeysuckle Rose.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Go Tell It on the Mountain"
+              "title": "Honeysuckle Rose"
             }
           }
         ]
@@ -117,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Shopping list.md",
+            "file": "Goodbye Pork Pie Hat.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -175,12 +175,14 @@
   },
   "active": "5cb3491e4fb6242d",
   "lastOpenFiles": [
-    "See See Rider.md",
-    "Swing Low, Sweet Chariot.md",
     "Go Tell It on the Mountain.md",
-    "Moanin'.md",
-    "Honeysuckle Rose.md",
     "Goodbye Pork Pie Hat.md",
+    "Trouble in Mind.md",
+    "Swing Low, Sweet Chariot.md",
+    "Feeling Good.md",
+    "Moanin'.md",
+    "See See Rider.md",
+    "Honeysuckle Rose.md",
     "Shopping list.md"
   ]
 }

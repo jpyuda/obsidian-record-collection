@@ -21,6 +21,7 @@ first recording: Standard Quartette, 1894
 | Louis Armstrong                 | Louis and the Good Book                 | 1958           |                         | Keep: Spirituals album; also serves Swing Low                              |          |          |
 | Sam Cooke                       | Swing Low                               | 1961           |                         | Listen first: 1961 album                                                   |          |          |
 | Dizzy Gillespie                 | Swing Low, Sweet Cadillac               | 1967           | single 1951; album 1967 | Listen first: You own the earlier recording on *The Dizzy Gillespie Story* |          |          |
+| Archie Shepp and Horace Parlan  | Goin’ Home                              |                |                         |                                                                            |          |          |
 
 ## Listening order
 

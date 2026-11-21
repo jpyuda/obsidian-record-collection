@@ -12,17 +12,17 @@ first recording: Charles Mingus, 1959-05-12
 | Charles Mingus | In Argentina (The Buenos Aires Concerts) | LP     | 1977-06-02/1977-06-03  | side A, track 2 (7:27); Buenos Aires; two venues; track not dated; Resonance                                                                         | N      | Keep: Serves 2 tracked songs                                                     |          |          |
 ## Targeted acquisitions
 
-| Artist                       | Album                         | Recording date        | Notes                                                                                       | Proposed                                          | Decision | My notes |
-| ---------------------------- | ----------------------------- | --------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------- | -------- | -------- |
-| John McLaughlin              | My Goals Beyond               | 1970                  | Gioia version; New York                                                                     | Keep: Acoustic Mahavishnu-era album; Pork Pie Hat | Buy: LP  |          |
-| Ralph Towner and Gary Burton | Matchbook                     | 1974-07-26/1974-07-27 | Gioia version; Ludwigsburg, Germany                                                         | Listen first: ECM duo with Gary Burton            | Buy: LP  |          |
-| Jeff Beck                    | Wired                         | 1976                  | Gioia version; London; Gioia credits this version with exposing the tune to a rock audience | Keep: Rock-jazz landmark; stands as an album      | Buy: LP  |          |
-| Rahsaan Roland Kirk          | Return of the 5000 Lb. Man    | 1976                  | Gioia version; New York                                                                     | Keep: Kirk's Pork Pie Hat                         | Buy: LP  |          |
-| Charles Mingus               | Three or Four Shades of Blues | 1977-03-09            | Gioia version; New York                                                                     | Listen first: 1977 Atlantic; Pork Pie Hat         | Buy: LP  |          |
-| Joni Mitchell                | Mingus                        | 1979 (spring)         | Gioia version; Mitchell's own lyrics; Hollywood                                             | Keep: Joni's lyrics; Pork Pie Hat                 |          |          |
-| Gil Evans and Steve Lacy     | Paris Blues                   | 1987-11-30/1987-12-01 | Gioia version; Paris                                                                        | Listen first: Duo with Steve Lacy                 |          |          |
-| Oliver Lake                  | Kinda' Up                     | 1999-08               | Gioia version; Paramus, New Jersey                                                          | Listen first: Pork Pie Hat; unfamiliar to me      |          |          |
-| Paul Motian                  | Garden of Eden                | 2004-11               | Gioia version; New York                                                                     | Listen first: Trio; Pork Pie Hat                  |          |          |
+| Artist                       | Album                         | Recording date        | Notes                                                                                       | Decision | My notes |
+| ---------------------------- | ----------------------------- | --------------------- | ------------------------------------------------------------------------------------------- | -------- | -------- |
+| John McLaughlin              | My Goals Beyond               | 1970                  | Gioia version; New York                                                                     | Buy: LP  |          |
+| Ralph Towner and Gary Burton | Matchbook                     | 1974-07-26/1974-07-27 | Gioia version; Ludwigsburg, Germany                                                         | Buy: LP  |          |
+| Jeff Beck                    | Wired                         | 1976                  | Gioia version; London; Gioia credits this version with exposing the tune to a rock audience | Buy: LP  |          |
+| Rahsaan Roland Kirk          | Return of the 5000 Lb. Man    | 1976                  | Gioia version; New York                                                                     | Buy: LP  |          |
+| Charles Mingus               | Three or Four Shades of Blues | 1977-03-09            | Gioia version; New York                                                                     | Buy: LP  |          |
+| Joni Mitchell                | Mingus                        | 1979 (spring)         | Gioia version; Mitchell's own lyrics; Hollywood                                             | Buy: LP  |          |
+| Gil Evans and Steve Lacy     | Paris Blues                   | 1987-11-30/1987-12-01 | Gioia version; Paris                                                                        | Buy: CD  |          |
+| Oliver Lake                  | Kinda' Up                     | 1999-08               | Gioia version; Paramus, New Jersey                                                          | Buy: CD  |          |
+| Paul Motian                  | Garden of Eden                | 2004-11               | Gioia version; New York                                                                     | Buy: LP  |          |
 
 ## Listening order
 

@@ -7,9 +7,10 @@ first recording: Cy Grant, first performed 1964-08-03 at the Theatre Royal, Nott
 
 ## Current holdings
 
-| Artist         | Album | Format | Recording date | Notes                                                                                                         | Proposed                    | Decision | My notes |
-| -------------- | ----- | ------ | -------------- | ------------------------------------------------------------------------------------------------------------- | --------------------------- | -------- | -------- |
-| Gregory Porter | Water | LP     | 2010           | D4 (3:02); Blue Note 2xLP reissue (3878342, Europe 2022); the original album came out in 2010 on Motéma; recording date from memory, verify | Listen first: Not yet judged |          |          |
+| Artist         | Album                                                 | Format | Recording date | Notes                                                                                                                                       | Proposed                     | Decision | My notes |
+| -------------- | ----------------------------------------------------- | ------ | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | -------- | -------- |
+| Gregory Porter | Water                                                 | LP     | 2010           | D4 (3:02); Blue Note 2xLP reissue (3878342, Europe 2022); the original album came out in 2010 on Motéma; recording date from memory, verify | Listen first: Not yet judged |          |          |
+| Ahmad Jamal    | Emerald City Nights (Live at the Penthouse 1965-1966) |        |                |                                                                                                                                             |                              |          |          |
 
 ## Targeted acquisitions
 
